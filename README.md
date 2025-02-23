@@ -291,4 +291,4 @@ Wayback Machine links may take several minutes before the downloading process be
 # Small Contributors
 No one is here yet but you made it to the bottom!
 
-For anyone who wants the spreadsheet I document info on shorturl.at/sBSno
+For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno

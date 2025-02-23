@@ -1,3 +1,7 @@
+Welcome to the largest up-to-date Fortnite build archive.
+
+This repo has multiple exclusive downloads not available to any other repo!
+
 # Credits
 Thank you to the following archivists for maintaining most of the builds
 
@@ -13,14 +17,14 @@ Thank you to the following archivists for maintaining most of the builds
 
 and to all the people who archived any links in Wayback Machine
 
+All small contributors (contributors of 3 or less builds) will go towards the bottom and large contributors (contributors of over 3 builds) will go towards the top
+
 # Contact
 Contact me through Discord (llamaqwerty) or email (llama.dvorak@hotmail.com)
 
 I would love to have feedback so I know what to improve in future updates, also please address issues to me immediately
 
 Both methods are acceptable if you have a build you want to contribute 
-
-All small build contributors will go towards the bottom and large contributors (contributors of over 3 lost builds) will go towards the top
 
 # Notes
 I am not the owner of any of these builds and am not resposible for any of the drives they are on

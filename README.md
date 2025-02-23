@@ -79,8 +79,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 2.3.1 | Lost |
 | 2.3.2 | Lost |
 | 2.4.0 | https://builds.rebootfn.org/2.4.0.zip | https://drive.google.com/file/d/1AmxU8hd43H0p3kK9zYN9gZhQJV3hn8J3/view | https://galaxiafn.co.uk/2.4.0.zip |
-| 2.4.1 | https://builds.rebootfn.org/2.4.2.zip | https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view |
-| 2.4.2 | Lost |
+| 2.4.1 | https://builds.rebootfn.org/2.4.2.zip |
+| 2.4.2 | https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view |
 | 2.5.0 | https://builds.rebootfn.org/2.5.0.rar | https://drive.google.com/file/d/1KFJuos918RJk2lgm2_ScZh7bnxmkb8k0/view |
 
 ## Season 3
@@ -256,7 +256,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00 | Lost |
-| 17.10 | Lost |
+| 17.10 | Unavailable |
 | 17.20 | Lost |
 | 17.21 | Lost |
 | 17.30 | https://drive.google.com/file/d/1rcV41CxNEmjIP5XOeqNvt7MTqKeznUul/view | https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view |
@@ -271,25 +271,25 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 18.20 | Only Manifest Obtainable |
 | 18.21 | Only Manifest Obtainable |
 | 18.30 | Only Manifest Obtainable |
-| 18.40 | Unavailable |
+| 18.40 | https://drive.google.com/file/d/1SPkZck-FtrNLpLplXvFXW_8-FB3GaoZI/view |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.00 | Lost |
+| 19.00 | Unavailable |
 | 19.01 | https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view |
 | 19.10 | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar |
-| 19.20 | Lost |
+| 19.20 | Unavailable |
 | 19.30 | Lost |
-| 19.40 | Lost |
+| 19.40 | Unavailable |
 
 ## Season 20
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 20.00 | Lost |
+| 20.00 | Unavailable |
 | 20.10 | Lost |
-| 20.20 | Lost |
-| 20.30 | Lost |
+| 20.20 | Unavailable |
+| 20.30 | Unavailable |
 | 20.40 | https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view | https://web.archive.org/web/20250119063536/https://public.simplyblk.xyz/20.40.zip |
 
 ## Season 21

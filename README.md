@@ -23,8 +23,6 @@ All small build contributors will go towards the bottom and large contributors (
 # Notes
 I am not the owner of any of these builds and am not resposible for any of the drives they are on
 
-I will upload more simplyblk versions from Wayback Machine in the future (Also they don't work when you use download managers!)
-
 Some versions that are in someone's hard drive or are downloadable via manifest will say "Lost"
 
 Wayback Machine links may take several minutes before the downloading process begins
@@ -41,7 +39,7 @@ Wayback Machine links may take several minutes before the downloading process be
 |--------------|---------------|---------------|---------------|
 | Cert | https://drive.usercontent.google.com/download?id=1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp&export=download&authuser=0 |
 | 1.2 | https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0 |
-| 1.7.2 | https://builds.rebootfn.org/1.7.2.zip | https://drive.usercontent.google.com/download?id=19Wuaz_BnM6F5-KTK6P261Y07kSsvbiW2&export=download&authuser=0 | https://web.archive.org/web/20250115103648/https://public.simplyblk.xyz/1.7.2.zip |
+| 1.7.2 | https://builds.rebootfn.org/1.7.2.zip | https://drive.usercontent.google.com/download?id=19Wuaz_BnM6F5-KTK6P261Y07kSsvbiW2&export=download&authuser=0 |
 
 ## Season 1
 | Build | Download | Alternative Download | Alternative Download
@@ -61,7 +59,7 @@ Wayback Machine links may take several minutes before the downloading process be
 | 2.2.0 | https://builds.rebootfn.org/2.2.0.rar | https://drive.usercontent.google.com/download?id=1Ug1MwlUP89F_XPJQThv3G50oe7iVHCCC&export=download&authuser=0 |
 | 2.3.0 | https://builds.rebootfn.org/2.3.rar | https://drive.usercontent.google.com/download?id=1VmE4xh43kK_nDjHBqkwhnfcdH0X_n2u6&export=download&authuser=0 |
 | 2.4.0 | https://builds.rebootfn.org/2.4.0.zip | https://drive.usercontent.google.com/download?id=1AmxU8hd43H0p3kK9zYN9gZhQJV3hn8J3&export=download&authuser=0 |
-| 2.4.1 | https://web.archive.org/web/20241204172135/https://public.simplyblk.xyz/2.4.2.zip | https://drive.usercontent.google.com/download?id=1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY&export=download&authuser=0 | https://builds.rebootfn.org/2.4.2.zip |
+| 2.4.1 | https://builds.rebootfn.org/2.4.2.zip | https://drive.usercontent.google.com/download?id=1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY&export=download&authuser=0 |
 | 2.4.2 | Lost |
 | 2.5.0 | https://builds.rebootfn.org/2.5.0.rar | https://drive.usercontent.google.com/download?id=1KFJuos918RJk2lgm2_ScZh7bnxmkb8k0&export=download&authuser=0 |
 
@@ -150,15 +148,15 @@ Wayback Machine links may take several minutes before the downloading process be
 | 10.10 | https://builds.rebootfn.org/10.10.zip | https://drive.usercontent.google.com/download?id=1yAgfv3wuplSq5URfZr6CXcmD8C_vioYG&export=download&authuser=0 |
 | 10.20 | https://builds.rebootfn.org/10.20.zip | https://drive.usercontent.google.com/download?id=19idNt6JYotTi5c3YZfv4UJwt2L3efzGy&export=download&authuser=0 |
 | 10.31 | https://builds.rebootfn.org/10.31.zip | https://drive.usercontent.google.com/download?id=1OvzEzMTRMRm7PQgx54R7HFii_QGltQ-4&export=download&authuser=0 |
-| 10.40 | https://drive.usercontent.google.com/download?id=1dGiZ04AXUQJkoQv6YBVN24giqONHQoj_&export=download&authuser=0 | https://web.archive.org/web/20250115070032/https://public.simplyblk.xyz/10.40.rar |
+| 10.40 | https://drive.usercontent.google.com/download?id=1dGiZ04AXUQJkoQv6YBVN24giqONHQoj_&export=download&authuser=0 |
 
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 11.00 | https://drive.usercontent.google.com/download?id=1ww56o8oY1HIMlVbt0XDrrve4BBCw7U9P&export=download&authuser=0 | https://web.archive.org/web/20250118144942/https://public.simplyblk.xyz/11.00.zip |
+| 11.00 | https://drive.usercontent.google.com/download?id=1ww56o8oY1HIMlVbt0XDrrve4BBCw7U9P&export=download&authuser=0 |
 | 11.10 | https://drive.usercontent.google.com/download?id=1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo&export=download&authuser=0 | https://drive.usercontent.google.com/download?id=1MsBR3EEksMMKXz-fc6pcybsJhRqmiFwy&export=download&authuser=0 |
 | 11.30 | https://drive.usercontent.google.com/download?id=18XCCQc8mqrPhCvh-roc3AZ_R2y8RkaP3&export=download&authuser=0 |
-| 11.31 | https://web.archive.org/web/20250116181323/https://public.simplyblk.xyz/11.31.rar |
+| 11.31 | Lost |
 
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
@@ -166,14 +164,14 @@ Wayback Machine links may take several minutes before the downloading process be
 | 12.00 | https://drive.usercontent.google.com/download?id=1onEq3Siqo_9qPhQIPXb-BuqP8s5Xw0xN&export=download&authuser=0 |
 | 12.10 | https://drive.usercontent.google.com/download?id=1utgxF7vp8xkrDS7NVje2h4B4LtnM2UOD&export=download&authuser=0 |
 | 12.21 | https://drive.usercontent.google.com/download?id=1A0zKg5vDmCp5SfPir6NkWWikvfBItlC9&export=download&authuser=0 |
-| 12.41 | https://drive.usercontent.google.com/download?id=1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu&export=download&authuser=0 |
+| 12.41 | https://drive.usercontent.google.com/download?id=1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu&export=download&authuser=0 | https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip |
 | 12.50 | https://drive.usercontent.google.com/download?id=1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2&export=download&authuser=0 |
-| 12.61 | Requires a payment https://discord.gg/BppnVdkBJE |
+| 12.61 | Lost |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 13.00 | https://web.archive.org/web/20241222130602/https://public.simplyblk.xyz/13.00.rar |
+| 13.00 | Lost |
 | 13.40 | https://drive.usercontent.google.com/download?id=1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0&export=download&authuser=0 |
 
 ## Season 14
@@ -181,7 +179,7 @@ Wayback Machine links may take several minutes before the downloading process be
 |--------------|---------------|---------------|---------------|
 | 14.00 | https://drive.usercontent.google.com/download?id=1FCyoH2exoLf6RRjf3GfUDM4o2ibVq5R4&export=download&authuser=0 |
 | 14.30 | https://drive.usercontent.google.com/download?id=1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR&export=download&authuser=0 |
-| 14.40 | https://web.archive.org/web/20241222130240/https://public.simplyblk.xyz/14.40.rar |
+| 14.40 | Lost |
 | 14.50 | Lost |
 | 14.60 | https://drive.usercontent.google.com/download?id=1nY-F8sCMuJaKaDQttst67Ce3duQsZD5j&export=download&authuser=0 |
 
@@ -206,23 +204,23 @@ Wayback Machine links may take several minutes before the downloading process be
 |--------------|---------------|---------------|---------------|
 | 17.30 | https://drive.usercontent.google.com/download?id=1rcV41CxNEmjIP5XOeqNvt7MTqKeznUul&export=download&authuser=0 | https://drive.usercontent.google.com/download?id=1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA&export=download&authuser=0 |
 | 17.40 | https://drive.usercontent.google.com/download?id=1WxqsdMLFmw1Injhi7Ywk5mvRDmp0LHeD&export=download&authuser=0 |
-| 17.50 | https://drive.usercontent.google.com/download?id=1lqyVPzhL4HdqT2yqWHkJtnw1CmWbZYQV&export=download&authuser=0 | https://web.archive.org/web/20241129164631/https://public.simplyblk.xyz/17.50.zip |
+| 17.50 | https://drive.usercontent.google.com/download?id=1lqyVPzhL4HdqT2yqWHkJtnw1CmWbZYQV&export=download&authuser=0  |
 
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.40 | https://web.archive.org/web/20250117233005/https://public.simplyblk.xyz/18.40.zip |
+| 18.40 | Lost |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 19.01 | https://drive.usercontent.google.com/download?id=1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3&export=download&authuser=0 |
-| 19.10 | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar | Requires a payment https://discord.gg/BppnVdkBJE |
+| 19.10 | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar |
 
 ## Season 20
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 20.40 | https://drive.usercontent.google.com/download?id=1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm&export=download&authuser=0 | https://web.archive.org/web/20250115081020/https://public.simplyblk.xyz/20.40.zip |
+| 20.40 | https://drive.usercontent.google.com/download?id=1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm&export=download&authuser=0 | https://web.archive.org/web/20250119063536/https://public.simplyblk.xyz/20.40.zip |
 
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download

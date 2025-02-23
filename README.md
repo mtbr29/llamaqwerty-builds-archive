@@ -23,7 +23,7 @@ All small build contributors will go towards the bottom and large contributors (
 # Notes
 I am not the owner of any of these builds and am not resposible for any of the drives they are on
 
-I will upload more simplyblk versions from Wayback Machine in the future
+I will upload more simplyblk versions from Wayback Machine in the future (Also they don't work when you use download managers!)
 
 Some versions that are in someone's hard drive or are downloadable via manifest will say "Lost"
 

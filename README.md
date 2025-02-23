@@ -195,7 +195,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 11.30 | https://drive.google.com/file/d/18XCCQc8mqrPhCvh-roc3AZ_R2y8RkaP3/view |
 | 11.31 | Unavailable |
 | 11.40 | Lost |
-| 11.50 | Lost |
+| 11.50 | Unavailable |
 
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download

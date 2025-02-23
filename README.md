@@ -361,7 +361,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 28.00 | Only Manifest Obtainable |
 | 28.01 | Only Manifest Obtainable |
-| 28.01.01 | Lost |
+| 28.01.01 | Only Manifest Obtainable |
 | 28.10 | Only Manifest Obtainable |
 | 28.20 | Only Manifest Obtainable |
 | 28.30 | Only Manifest Obtainable |

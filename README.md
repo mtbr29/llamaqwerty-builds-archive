@@ -83,8 +83,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 2.3.1 | Lost |
 | 2.3.2 | Lost |
 | 2.4.0 | https://builds.rebootfn.org/2.4.0.zip | https://drive.google.com/file/d/1AmxU8hd43H0p3kK9zYN9gZhQJV3hn8J3/view | https://galaxiafn.co.uk/2.4.0.zip |
-| 2.4.1 | https://builds.rebootfn.org/2.4.2.zip |
-| 2.4.2 | https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view |
+| 2.4.1 | https://builds.rebootfn.org/2.4.2.zip |  https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view |
+| 2.4.2 | Lost |
 | 2.5.0 | https://builds.rebootfn.org/2.5.0.rar | https://drive.google.com/file/d/1KFJuos918RJk2lgm2_ScZh7bnxmkb8k0/view |
 
 ## Season 3

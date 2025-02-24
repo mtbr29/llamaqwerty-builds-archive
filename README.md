@@ -168,7 +168,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 9.00 | https://builds.rebootfn.org/9.00.zip | https://drive.google.com/file/d/148uC59KQophI1Qfyg7cmvFELbsd_ZUsm/view |
 | 9.01 | https://builds.rebootfn.org/9.01.zip | https://drive.google.com/file/d/1taQGvt9444dtc4LZbkWXVt_4DpWyDw-U/view |
 | 9.10 | https://builds.rebootfn.org/9.10.rar | https://drive.google.com/file/d/1nAUovdtjgECBOXZEW_J5lF0uWNWbHdad/view | https://galaxiafn.co.uk/9.10.zip |
-| 9.20 | Lost |
+| 9.20 | Unavailable |
 | 9.21 | https://builds.rebootfn.org/9.21.zip | https://drive.google.com/file/d/1KdWkOSSIzRsYIfAVPX4KnEHsTpGptaTQ/view |
 | 9.30 | https://builds.rebootfn.org/9.30.zip | https://drive.google.com/file/d/1oCAlptAIoc_wfq6KHW8eZ4gI3fjVLUbI/view |
 | 9.40 | https://builds.rebootfn.org/9.40.zip | https://drive.google.com/file/d/1BpMx8GMlHQuYxurwzYryD8kdYwBhndKN/view |
@@ -182,7 +182,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 10.20 | https://builds.rebootfn.org/10.20.zip | https://drive.google.com/file/d/19idNt6JYotTi5c3YZfv4UJwt2L3efzGy/view |
 | 10.20.1 | Lost |
 | 10.20.2 | Lost |
-| 10.30 | Lost |
+| 10.30 | Unavailable |
 | 10.31 | https://builds.rebootfn.org/10.31.zip | https://drive.google.com/file/d/1OvzEzMTRMRm7PQgx54R7HFii_QGltQ-4/view |
 | 10.40 | https://drive.google.com/file/d/1dGiZ04AXUQJkoQv6YBVN24giqONHQoj_/view |
 | 10.41 | Lost |
@@ -191,14 +191,14 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 11.00 | https://drive.google.com/file/d/1ww56o8oY1HIMlVbt0XDrrve4BBCw7U9P/view | https://galaxiafn.co.uk/11.00.zip |
-| 11.01 | Lost |
+| 11.01 | Unavailable |
 | 11.10 | https://drive.google.com/file/d/1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo/view | https://drive.google.com/file/d/1MsBR3EEksMMKXz-fc6pcybsJhRqmiFwy/view |
-| 11.11 | Lost |
-| 11.20 | Lost |
-| 11.21 | Lost |
+| 11.11 | Unavailable |
+| 11.20 | Unavailable |
+| 11.21 | Unavailable |
 | 11.30 | https://drive.google.com/file/d/18XCCQc8mqrPhCvh-roc3AZ_R2y8RkaP3/view |
 | 11.31 | Unavailable |
-| 11.40 | Lost |
+| 11.40 | Unavailable |
 | 11.50 | https://gofile.io/d/YLdIUc |
 
 ## Season 12
@@ -206,9 +206,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 12.00 | https://drive.google.com/file/d/1onEq3Siqo_9qPhQIPXb-BuqP8s5Xw0xN/view |
 | 12.10 | https://drive.google.com/file/d/1utgxF7vp8xkrDS7NVje2h4B4LtnM2UOD/view |
-| 12.20 | Lost |
+| 12.20 | Unavailable |
 | 12.21 | https://drive.google.com/file/d/1A0zKg5vDmCp5SfPir6NkWWikvfBItlC9/view |
-| 12.30 | Lost |
+| 12.30 | Unavailable |
 | 12.40 | Lost |
 | 12.41 | https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view | https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50 | https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view |
@@ -221,7 +221,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 13.00 | Unavailable |
 | 13.10 | Lost |
 | 13.20 | Lost |
-| 13.30 | Lost |
+| 13.30 | Unavailable |
 | 13.40 | https://drive.google.com/file/d/1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0/view |
 
 ## Season 14
@@ -251,7 +251,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 16.00 | Only Manifest Obtainable |
 | 16.10 | https://drive.google.com/file/d/1oP9neA9V9d0qIgniCDjhKp3wnrHE0d7Z/view |
-| 16.20 | Lost |
+| 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/19Nfv_-59pbkLmhgD6Y4CTEYQK8EBMArK/view |
 | 16.40 | https://drive.google.com/file/d/1D90gT8BA-o4ovg1azhU_0q54tuHzyJLj/view |
 | 16.50 | https://drive.google.com/file/d/1_zlcgNJYWAiNTr4NByBaCLt0AHKiWY2u/view | https://galaxiafn.co.uk/16.50.zip |
@@ -270,7 +270,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.00 | Lost |
+| 18.00 | Unavailable |
 | 18.10 | Only Manifest Obtainable |
 | 18.20 | Only Manifest Obtainable |
 | 18.21 | Only Manifest Obtainable |
@@ -319,8 +319,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 23.00 | Lost |
-| 23.10 | Lost |
+| 23.00 | Unavailable |
+| 23.10 | Unavailable |
 | 23.20 | Lost |
 | 23.30 | Lost |
 | 23.40 | Only Manifest Obtainable |

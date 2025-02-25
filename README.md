@@ -210,10 +210,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.21 | https://drive.google.com/file/d/1A0zKg5vDmCp5SfPir6NkWWikvfBItlC9/view |
 | 12.30 | Unavailable |
 | 12.40 | Lost |
-| 12.41 | https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view | https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://cdn.aufgeladen.dev/12.41.zip |
+| 12.41 | https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50 | https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view |
 | 12.60 | Lost |
-| 12.61 | https://drive.google.com/file/d/10y3Zr_LxAUZi1nsczhdFCFTZ59KAdBHJ/view | 
+| 12.61 | https://drive.google.com/file/d/10y3Zr_LxAUZi1nsczhdFCFTZ59KAdBHJ/view | https://public.privateuser.xyz/12.61.zip |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -222,7 +222,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 13.10 | Lost |
 | 13.20 | Lost |
 | 13.30 | Unavailable |
-| 13.40 | https://drive.google.com/file/d/1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0/view |
+| 13.40 | https://drive.google.com/file/d/1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0/view | https://drive.google.com/file/d/1vtO5dgy6-IRurfY6PdIEI1wSvCgvSO2C/view |
 
 ## Season 14
 | Build | Download | Alternative Download | Alternative Download
@@ -282,7 +282,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 19.00 | Unavailable |
 | 19.01 | https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view |
-| 19.10 | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar |
+| 19.10 | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar |
 | 19.20 | Unavailable |
 | 19.30 | Lost |
 | 19.40 | Unavailable |

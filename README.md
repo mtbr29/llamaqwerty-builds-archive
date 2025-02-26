@@ -17,6 +17,8 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Shoqaratio](https://github.com/Shoqaratio)
 
+[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (PC & Xbox) & 23.40
+
 and to all the people who archived any links in Wayback Machine
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of over 3 builds) will go towards the top
@@ -326,7 +328,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 23.10 | Unavailable |
 | 23.20 | Lost |
 | 23.30 | Lost |
-| 23.40 | Only Manifest Obtainable |
+| 23.40 | https://gofile.io/d/e6hdZm |
 | 23.50 | Only Manifest Obtainable |
 
 ## Season 24
@@ -426,6 +428,5 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 [absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Original upload)
 
-[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (PC & Xbox)
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up)

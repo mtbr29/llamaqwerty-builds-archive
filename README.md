@@ -11,13 +11,15 @@ Thank you to the following archivists for maintaining most of the builds
 
 [ByZNexus](https://github.com/ByZNexus)
 
-[whoever made this idk](https://builds.rebootfn.org/versions.json)
+[Tiva](https://github.com/itztiva)
+
+[Anonymous](https://builds.rebootfn.org/versions.json)
 
 [Shoqaratio](https://github.com/Shoqaratio)
 
 and to all the people who archived any links in Wayback Machine
 
-All small contributors (contributors of 3 or less builds) will go towards the bottom and large contributors (contributors of over 3 builds) will go towards the top
+All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of over 3 builds) will go towards the top
 
 # Contact
 Contact me through Discord (llamaqwerty) or email (llama.dvorak@hotmail.com)
@@ -35,8 +37,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | OT6.5 | https://web.archive.org/web/20250901000000*/https://public.simplyblk.xyz/OT0.6.5.zip | https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view | https://galaxiafn.co.uk/0.6.5.zip |
-| OT10 | PS4 Only Version https://gofile.io/d/DnSgff |
-| OT11 | Unavailable |
+| OT10 | (PS4) https://gofile.io/d/DnSgff |
+| OT11 | (PC) https://gofile.io/d/glDthm | (Xbox) https://gofile.io/d/hP3uzo |
 
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
@@ -422,8 +424,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
-Absolute Spacehead: 11.50
+[absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Original upload)
 
+[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (PC & Xbox)
 
-
-For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno
+For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up)

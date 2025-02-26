@@ -188,7 +188,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 10.20.2 | Lost |
 | 10.30 | Unavailable |
 | 10.31 | https://builds.rebootfn.org/10.31.zip |
-| 10.40 | Unavailable |
+| 10.40 | https://cdn.solarisfn.org/10.40.zip |
 | 10.41 | Lost |
 
 ## Season 11

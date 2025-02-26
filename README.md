@@ -426,7 +426,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
-[absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Original upload)
+[absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50
 
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up)

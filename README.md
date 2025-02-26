@@ -17,7 +17,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Shoqaratio](https://github.com/Shoqaratio)
 
-[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (PC & Xbox) & 23.40
+[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (PC & Xbox), 23.40, & 1.2
 
 and to all the people who archived any links in Wayback Machine
 
@@ -46,7 +46,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | Cert | https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view |
-| 1.2 | Unavailable |
+| 1.2 | https://gofile.io/d/ezVDGl |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
 | 1.4.2 | Lost |

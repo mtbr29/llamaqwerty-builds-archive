@@ -296,7 +296,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 20.00 | Unavailable |
-| 20.10 | Lost |
+| 20.10 | Unavailable |
 | 20.20 | Unavailable |
 | 20.30 | Unavailable |
 | 20.40 | https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view | https://web.archive.org/web/20250119063536/https://public.simplyblk.xyz/20.40.zip |

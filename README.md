@@ -36,13 +36,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | OT6.5 | https://web.archive.org/web/20250901000000*/https://public.simplyblk.xyz/OT0.6.5.zip | https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view | https://galaxiafn.co.uk/0.6.5.zip |
 | OT10 | PS4 Only Version https://gofile.io/d/DnSgff |
-| OT11 | https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0 | (Xbox Only Version) https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0 | (PS4) https://archive.org/details/ot-11-ps4 |
+| OT11 | Unavailable |
 
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | Cert | https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view |
-| 1.2 | https://www.dropbox.com/scl/fi/hww1qpsyhgzme3wz9bg6n/1.2.7z?rlkey=sxv8zhi5400q7tscet78jjs0c&st=75iqfou4&dl=0 |
+| 1.2 | Unavailable |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
 | 1.4.2 | Lost |
@@ -71,7 +71,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 1.8.2 | https://builds.rebootfn.org/1.8.2.rar | https://drive.google.com/file/d/1DFQ7A4C95pZOnjKmgnYudqpvAxXHscL5/view |
 | 1.9 | https://builds.rebootfn.org/1.9.rar | https://drive.google.com/file/d/1zijRjLPncoNKgSUHBm5HKXb30n_3xyUP/view |
 | 1.9.1 | https://builds.rebootfn.org/1.9.1.rar | https://drive.google.com/file/d/19u5rfoHrZdzouJDHg3vf6BMybbAGH_y4/view |
-| 1.10.0 | https://builds.rebootfn.org/1.10.rar | https://drive.google.com/file/d/1rtbOIgVyZFvNl4oPoJKnhMJVHLivXhxT/view | https://www.dropbox.com/scl/fi/fr7h5jx0826ve619z8608/1.10.rar?rlkey=d1bcks9l7ma48jjye7n82knxe&st=yo6otxxb&dl=0 |
+| 1.10.0 | https://builds.rebootfn.org/1.10.rar | https://drive.google.com/file/d/1rtbOIgVyZFvNl4oPoJKnhMJVHLivXhxT/view |
 
 ## Season 2
 | Build | Download | Alternative Download | Alternative Download
@@ -98,7 +98,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 3.31 | Lost |
 | 3.40 | Lost |
 | 3.50 | https://builds.rebootfn.org/3.5.rar | https://drive.google.com/file/d/1QwLu9iNShSME8UCEl5LU3ivdTmQztK_9/view | https://galaxiafn.co.uk/3.5.zip |
-| 3.60 | https://builds.rebootfn.org/3.6.zip | https://drive.google.com/file/d/1CGp3z6aM8InsSv01vaH9J1K1Cb7H9913/view | https://www.dropbox.com/scl/fi/ps1anb1c8z5qqopfsnhjk/3.6.zip?rlkey=327yudw9rupp2rr95bfts56ka&st=wxfoy6t2&dl=0 |
+| 3.60 | https://builds.rebootfn.org/3.6.zip | https://drive.google.com/file/d/1CGp3z6aM8InsSv01vaH9J1K1Cb7H9913/view |
 
 ## Season 4
 | Build | Download | Alternative Download | Alternative Download
@@ -137,7 +137,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 6.21 | https://builds.rebootfn.org/6.21.rar | https://drive.google.com/file/d/1iovXZswCVa0RvQcqcEbKu2IXT0SV66yg/view |
 | 6.22 | https://builds.rebootfn.org/6.22.rar | https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view |
 | 6.30 | https://builds.rebootfn.org/6.30.rar |
-| 6.31 | https://builds.rebootfn.org/6.31.rar | https://drive.google.com/file/d/1Pncp6thx7e0vvf2h4VcBXFzFC7dBWMXe/view |
+| 6.31 | https://builds.rebootfn.org/6.31.rar |
 
 ## Season 7
 | Build | Download | Alternative Download | Alternative Download
@@ -165,53 +165,54 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 9
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 9.00 | https://builds.rebootfn.org/9.00.zip | https://drive.google.com/file/d/148uC59KQophI1Qfyg7cmvFELbsd_ZUsm/view |
-| 9.01 | https://builds.rebootfn.org/9.01.zip | https://drive.google.com/file/d/1taQGvt9444dtc4LZbkWXVt_4DpWyDw-U/view |
-| 9.10 | https://builds.rebootfn.org/9.10.rar | https://drive.google.com/file/d/1nAUovdtjgECBOXZEW_J5lF0uWNWbHdad/view | https://galaxiafn.co.uk/9.10.zip |
+| 9.00 | https://builds.rebootfn.org/9.00.zip |
+| 9.01 | https://builds.rebootfn.org/9.01.zip |
+| 9.10 | https://builds.rebootfn.org/9.10.rar | https://galaxiafn.co.uk/9.10.zip |
 | 9.20 | Unavailable |
-| 9.21 | https://builds.rebootfn.org/9.21.zip | https://drive.google.com/file/d/1KdWkOSSIzRsYIfAVPX4KnEHsTpGptaTQ/view |
-| 9.30 | https://builds.rebootfn.org/9.30.zip | https://drive.google.com/file/d/1oCAlptAIoc_wfq6KHW8eZ4gI3fjVLUbI/view |
-| 9.40 | https://builds.rebootfn.org/9.40.zip | https://drive.google.com/file/d/1BpMx8GMlHQuYxurwzYryD8kdYwBhndKN/view |
-| 9.41 | https://builds.rebootfn.org/9.41.rar | https://drive.google.com/file/d/1YFe2V0WfrhzlZciIty3s45BMZDhT3Cp2/view |
+| 9.21 | https://builds.rebootfn.org/9.21.zip |
+| 9.30 | https://builds.rebootfn.org/9.30.zip |
+| 9.40 | https://builds.rebootfn.org/9.40.zip |
+| 9.41 | https://builds.rebootfn.org/9.41.rar |
 
 ## Season 10
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 10.00 | https://builds.rebootfn.org/10.00.zip | https://drive.google.com/file/d/1Q3zmEFRzLh5Jd-sVC0bYgCXSTQfLFxof/view |
-| 10.10 | https://builds.rebootfn.org/10.10.zip | https://drive.google.com/file/d/1yAgfv3wuplSq5URfZr6CXcmD8C_vioYG/view |
-| 10.20 | https://builds.rebootfn.org/10.20.zip | https://drive.google.com/file/d/19idNt6JYotTi5c3YZfv4UJwt2L3efzGy/view |
+| 10.00 | https://builds.rebootfn.org/10.00.zip |
+| 10.10 | https://builds.rebootfn.org/10.10.zip |
+| 10.20 | https://builds.rebootfn.org/10.20.zip |
 | 10.20.1 | Lost |
 | 10.20.2 | Lost |
 | 10.30 | Unavailable |
-| 10.31 | https://builds.rebootfn.org/10.31.zip | https://drive.google.com/file/d/1OvzEzMTRMRm7PQgx54R7HFii_QGltQ-4/view |
-| 10.40 | https://drive.google.com/file/d/1dGiZ04AXUQJkoQv6YBVN24giqONHQoj_/view |
+| 10.31 | https://builds.rebootfn.org/10.31.zip |
+| 10.40 | Unavailable |
 | 10.41 | Lost |
 
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 11.00 | https://drive.google.com/file/d/1ww56o8oY1HIMlVbt0XDrrve4BBCw7U9P/view | https://galaxiafn.co.uk/11.00.zip |
+| 11.00 | https://galaxiafn.co.uk/11.00.zip |
 | 11.01 | Unavailable |
-| 11.10 | https://drive.google.com/file/d/1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo/view | https://drive.google.com/file/d/1MsBR3EEksMMKXz-fc6pcybsJhRqmiFwy/view |
+| 11.10 | https://drive.google.com/file/d/1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo/view |
 | 11.11 | Unavailable |
 | 11.20 | Unavailable |
 | 11.21 | Unavailable |
-| 11.30 | https://drive.google.com/file/d/18XCCQc8mqrPhCvh-roc3AZ_R2y8RkaP3/view |
+| 11.30 | Unavailable |
 | 11.31 | https://drive.google.com/file/d/17GTA3y33YWpX9yn4Vvdqyj3pHiRuMSZr/view |
 | 11.40 | Unavailable |
+| 11.41 | Lost |
 | 11.50 | https://gofile.io/d/YLdIUc | https://drive.google.com/file/d/1KZszpA4VVoKXNO4eSin6WjQr6apguQIz/view |
 
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 12.00 | https://drive.google.com/file/d/1onEq3Siqo_9qPhQIPXb-BuqP8s5Xw0xN/view |
-| 12.10 | https://drive.google.com/file/d/1utgxF7vp8xkrDS7NVje2h4B4LtnM2UOD/view |
+| 12.00 | Unavailable |
+| 12.10 | Unavailable |
 | 12.20 | Unavailable |
-| 12.21 | https://drive.google.com/file/d/1A0zKg5vDmCp5SfPir6NkWWikvfBItlC9/view |
+| 12.21 | Unavailable |
 | 12.30 | Unavailable |
 | 12.40 | Lost |
-| 12.41 | https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
-| 12.50 | https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view |
+| 12.41 | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
+| 12.50 | Unavailable |
 | 12.60 | Lost |
 | 12.61 | https://drive.google.com/file/d/10y3Zr_LxAUZi1nsczhdFCFTZ59KAdBHJ/view | https://public.privateuser.xyz/12.61.zip |
 
@@ -222,12 +223,12 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 13.10 | Lost |
 | 13.20 | Lost |
 | 13.30 | Unavailable |
-| 13.40 | https://drive.google.com/file/d/1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0/view | https://drive.google.com/file/d/1vtO5dgy6-IRurfY6PdIEI1wSvCgvSO2C/view |
+| 13.40 | https://drive.google.com/file/d/1vtO5dgy6-IRurfY6PdIEI1wSvCgvSO2C/view |
 
 ## Season 14
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 14.00 | https://drive.google.com/file/d/1FCyoH2exoLf6RRjf3GfUDM4o2ibVq5R4/view |
+| 14.00 | Unavailable |
 | 14.10 | Lost |
 | 14.20 | Lost |
 | 14.30 | https://drive.google.com/file/d/1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR/view |
@@ -238,13 +239,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 15.00 | https://drive.google.com/file/d/1wmlN3nMHelfaY9wLa-l2EpeoAB6ZUKSo/view |
-| 15.10 | https://drive.google.com/file/d/17KYc9QK6h3z9iwKAPNDhB5zwjT8vfIob/view |
+| 15.00 | Unavailable |
+| 15.10 | Unavailable |
 | 15.20 | Lost |
 | 15.21 | Lost |
 | 15.30 | Unavailable |
 | 15.40 | Lost |
-| 15.50 | https://drive.google.com/file/d/1OZcdYh39ufJEy7Syleinwk452kO9A3sK/view | https://galaxiafn.co.uk/15.50.zip |
+| 15.50 | https://galaxiafn.co.uk/15.50.zip |
 
 ## Season 16
 | Build | Download | Alternative Download | Alternative Download
@@ -252,9 +253,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 16.00 | Only Manifest Obtainable |
 | 16.10 | https://drive.google.com/file/d/1oP9neA9V9d0qIgniCDjhKp3wnrHE0d7Z/view |
 | 16.20 | Unavailable |
-| 16.30 | https://drive.google.com/file/d/19Nfv_-59pbkLmhgD6Y4CTEYQK8EBMArK/view |
-| 16.40 | https://drive.google.com/file/d/1D90gT8BA-o4ovg1azhU_0q54tuHzyJLj/view |
-| 16.50 | https://drive.google.com/file/d/1_zlcgNJYWAiNTr4NByBaCLt0AHKiWY2u/view | https://galaxiafn.co.uk/16.50.zip |
+| 16.30 | Unavailable |
+| 16.40 | Unavailable |
+| 16.50 | https://galaxiafn.co.uk/16.50.zip |
 
 ## Season 17
 | Build | Download | Alternative Download | Alternative Download
@@ -263,9 +264,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.10 | https://drive.google.com/file/d/1GGOkx9EvBoX29jZ5LLXMVCYG-ycMpBPG/view |
 | 17.20 | Lost |
 | 17.21 | Lost |
-| 17.30 | https://drive.google.com/file/d/1rcV41CxNEmjIP5XOeqNvt7MTqKeznUul/view | https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view |
-| 17.40 | https://drive.google.com/file/d/1WxqsdMLFmw1Injhi7Ywk5mvRDmp0LHeD/view |
-| 17.50 | https://drive.google.com/file/d/1lqyVPzhL4HdqT2yqWHkJtnw1CmWbZYQV/view  |
+| 17.30 | https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view |
+| 17.40 | Unavailable |
+| 17.50 | Unavailable |
 
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
@@ -301,10 +302,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 21.00 | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view |
 | 21.10 | https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view |
-| 21.20 | https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view | https://www.dropbox.com/scl/fi/d468b7pes2yclsyug9raq/21.20.zip?rlkey=fxw7ep75lzf6tr0uscc6vufqu&st=ov8vgitd&dl=0 |
+| 21.20 | https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view |
 | 21.30 | Lost |
 | 21.40 | Lost |
-| 21.50 | https://www.dropbox.com/scl/fi/d7acq1fu6n3pg6iw4tz4e/21.50.zip?rlkey=gi4b6p79gtp9lyyyt99vpehge&st=2dcruetu&dl=0 |
+| 21.50 | Unavailable |
 | 21.51 | Lost |
 
 ## Season 22

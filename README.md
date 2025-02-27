@@ -89,6 +89,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 2.4.0 | https://builds.rebootfn.org/2.4.0.zip | https://drive.google.com/file/d/1AmxU8hd43H0p3kK9zYN9gZhQJV3hn8J3/view | https://galaxiafn.co.uk/2.4.0.zip |
 | 2.4.1 | https://builds.rebootfn.org/2.4.2.zip | https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view |
 | 2.4.2 | Status Pending |
+| 2.4.X | Lost |
 | 2.5.0 | https://builds.rebootfn.org/2.5.0.rar | https://drive.google.com/file/d/1KFJuos918RJk2lgm2_ScZh7bnxmkb8k0/view |
 
 ## Season 3
@@ -113,6 +114,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 4.30 | Lost |
 | 4.40 | https://builds.rebootfn.org/4.4.rar | https://drive.google.com/file/d/17Cwi48TCOy0LdHVmpYxLM85asd5bwthF/view |
 | 4.41 | https://drive.google.com/file/d/15lOxiIf8XghFIAS8A-CBjwM2WBh5ltZ5/view | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
+| 4.4X | Lost |
 | 4.50 | https://builds.rebootfn.org/4.5.rar | https://drive.google.com/file/d/1-a1h_Kb7DS8SB292JV4v2LP6Gyt_lnfh/view |
 
 ## Season 5
@@ -138,6 +140,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 6.10 | https://builds.rebootfn.org/6.10.rar | https://drive.google.com/file/d/14CyQOJa0VS9E9MS3zmc1ycrGgtDL-hDV/view |
 | 6.10.1 | https://builds.rebootfn.org/6.10.1.rar | https://drive.google.com/file/d/1zpgRhTySfAGtODWraXgDtZ6b57Sx8i8g/view |
 | 6.10.2 | https://builds.rebootfn.org/6.10.2.rar | https://drive.google.com/file/d/19RoJ-wTMGgSf0z-1s1P2kjGL-iTo99n1/view |
+| 6.20 | Lost | 
 | 6.21 | https://builds.rebootfn.org/6.21.rar | https://drive.google.com/file/d/1iovXZswCVa0RvQcqcEbKu2IXT0SV66yg/view |
 | 6.22 | https://builds.rebootfn.org/6.22.rar | https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view |
 | 6.30 | https://builds.rebootfn.org/6.30.rar |
@@ -402,6 +405,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 31.20 | Only Manifest Obtainable |
 | 31.30 | Only Manifest Obtainable |
 | 31.40 | Only Manifest Obtainable |
+| 31.41 | Only Manifest Obtainable |
 
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download

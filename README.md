@@ -140,7 +140,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 6.10 | https://builds.rebootfn.org/6.10.rar | https://drive.google.com/file/d/14CyQOJa0VS9E9MS3zmc1ycrGgtDL-hDV/view |
 | 6.10.1 | https://builds.rebootfn.org/6.10.1.rar | https://drive.google.com/file/d/1zpgRhTySfAGtODWraXgDtZ6b57Sx8i8g/view |
 | 6.10.2 | https://builds.rebootfn.org/6.10.2.rar | https://drive.google.com/file/d/19RoJ-wTMGgSf0z-1s1P2kjGL-iTo99n1/view |
-| 6.20 | Lost | 
+| 6.20 | Unavailable | 
 | 6.21 | https://builds.rebootfn.org/6.21.rar | https://drive.google.com/file/d/1iovXZswCVa0RvQcqcEbKu2IXT0SV66yg/view |
 | 6.22 | https://builds.rebootfn.org/6.22.rar | https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view |
 | 6.30 | https://builds.rebootfn.org/6.30.rar |
@@ -150,7 +150,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 7.00 | https://builds.rebootfn.org/7.00.rar | https://drive.google.com/file/d/1s-n8QT0gBrEDBR4if-407v3B8kEtl-Hg/view |
-| 7.01 | Unavailable |
+| 7.01 | Lost |
 | 7.10 | https://builds.rebootfn.org/7.10.rar | https://drive.google.com/file/d/1j9Y2Q1bL0osGP9qCIilDo8xLeWPsi4g_/view |
 | 7.20 | https://builds.rebootfn.org/7.20.rar | https://drive.google.com/file/d/1j9Y2Q1bL0osGP9qCIilDo8xLeWPsi4g_/view |
 | 7.30 | https://builds.rebootfn.org/7.30.zip | https://drive.google.com/file/d/1kFJUm9utFNa0bDbdRSU8E_Or-nb4NMdT/view | https://galaxiafn.co.uk/7.30.zip |

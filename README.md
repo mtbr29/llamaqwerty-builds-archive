@@ -204,10 +204,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 11.20 | Unavailable |
 | 11.21 | Unavailable |
 | 11.30 | Unavailable |
-| 11.31 | https://drive.google.com/file/d/17GTA3y33YWpX9yn4Vvdqyj3pHiRuMSZr/view |
+| 11.31 | Unavailable |
 | 11.40 | Unavailable |
 | 11.41 | Lost |
-| 11.50 | https://gofile.io/d/YLdIUc | https://drive.google.com/file/d/1KZszpA4VVoKXNO4eSin6WjQr6apguQIz/view |
+| 11.50 | Unavailable |
 
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
@@ -221,7 +221,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.41 | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50 | Unavailable |
 | 12.60 | Lost |
-| 12.61 | https://drive.google.com/file/d/10y3Zr_LxAUZi1nsczhdFCFTZ59KAdBHJ/view | https://public.privateuser.xyz/12.61.zip |
+| 12.61 | https://public.privateuser.xyz/12.61.zip |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -258,7 +258,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 16.00 | Only Manifest Obtainable |
-| 16.10 | https://drive.google.com/file/d/1oP9neA9V9d0qIgniCDjhKp3wnrHE0d7Z/view |
+| 16.10 | Unavailable |
 | 16.20 | Unavailable |
 | 16.30 | Unavailable |
 | 16.40 | Unavailable |
@@ -268,7 +268,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00 | Lost |
-| 17.10 | https://drive.google.com/file/d/1GGOkx9EvBoX29jZ5LLXMVCYG-ycMpBPG/view |
+| 17.10 | Unavailable |
 | 17.20 | Lost |
 | 17.21 | Lost |
 | 17.30 | https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view |
@@ -279,11 +279,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 18.00 | Unavailable |
-| 18.10 | https://drive.google.com/file/d/1_R5MSes7YlzNg1nFpfk-YdvrG8Il88pf/view |
+| 18.10 | Unavailable |
 | 18.20 | Unavailable |
 | 18.21 | Unavailable |
 | 18.30 | Unavailable |
-| 18.40 | https://drive.google.com/file/d/1SPkZck-FtrNLpLplXvFXW_8-FB3GaoZI/view |
+| 18.40 | Unavailable |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
@@ -308,8 +308,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 21.00 | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view |
-| 21.10 | https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view |
-| 21.20 | https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view |
+| 21.10 | Unavailable |
+| 21.20 | Unavailable |
 | 21.30 | Lost |
 | 21.40 | Lost |
 | 21.50 | Unavailable |
@@ -320,7 +320,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 22.00 | Lost |
 | 22.10 | Lost |
-| 22.20 | https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view |
+| 22.20 | Unavailable |
 | 22.30 | Lost |
 | 22.40 | Only Manifest Obtainable |
 
@@ -341,7 +341,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 24.01 | Only Manifest Obtainable |
 | 24.10 | Only Manifest Obtainable |
 | 24.20 | https://drive.google.com/file/d/1yu_rattzHO7mfjTEp_ThIwHE5hgbfsuj/view |
-| 24.30 | https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view |
+| 24.30 | Only Manifest Obtainable |
 | 24.40 | Only Manifest Obtainable |
 
 ## Season 25
@@ -359,7 +359,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 26.00 | Only Manifest Obtainable |
 | 26.10 | Only Manifest Obtainable |
 | 26.20 | Only Manifest Obtainable |
-| 26.30 | https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view |
+| 26.30 | Only Manifest Obtainable |
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
@@ -430,7 +430,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
-[absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50
+[absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Unavailable)
 
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up)

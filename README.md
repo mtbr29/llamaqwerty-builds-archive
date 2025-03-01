@@ -307,7 +307,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 21.00 | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view |
+| 21.00 | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view | https://cdn.solarisfn.org/21.00.zip |
 | 21.10 | Unavailable |
 | 21.20 | Unavailable |
 | 21.30 | Lost |

@@ -227,7 +227,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 13.00 | Unavailable |
-| 13.10 | Lost |
 | 13.20 | Lost |
 | 13.30 | Unavailable |
 | 13.40 | https://drive.google.com/file/d/1vtO5dgy6-IRurfY6PdIEI1wSvCgvSO2C/view |
@@ -318,10 +317,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 22
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 22.00 | Lost |
-| 22.10 | Lost |
+| 22.00 | Unavailable |
+| 22.10 | Unavailable |
 | 22.20 | Unavailable |
-| 22.30 | Lost |
+| 22.30 | Unavailable |
 | 22.40 | Only Manifest Obtainable |
 
 ## Season 23

@@ -432,4 +432,4 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 [absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Unavailable)
 
 
-For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up)
+For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up. Only use it for item IDs, and AES keys)

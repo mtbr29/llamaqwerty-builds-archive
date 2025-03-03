@@ -192,7 +192,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 10.30 | Unavailable |
 | 10.31 | https://public.simplyblk.xyz/10.31.zip | https://builds.rebootfn.org/10.31.zip |
 | 10.40 | https://public.simplyblk.xyz/10.40.rar | https://cdn.solarisfn.org/10.40.zip |
-| 10.41 | Lost |
+| 10.41 | Unavailable |
 
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download

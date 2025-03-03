@@ -38,14 +38,14 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Alpha
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| OT6.5 | https://public.simplyblk.xyz/OT0.6.5.zip | https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view | https://galaxiafn.co.uk/0.6.5.zip |
+| OT6.5 | https://public.simplyblk.xyz/OT0.6.5.zip | https://archive.org/download/pre-battle-royal-ot-0.6.5/Pre-Battle-Royal_OT0.6.5.zip | https://galaxiafn.co.uk/0.6.5.zip |
 | OT10 | (PS4) https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | (PS4) https://archive.org/details/fortnite-mailapp-ot10 |
 | OT11 | (PC) https://gofile.io/d/glDthm | (Xbox) https://gofile.io/d/hP3uzo |
 
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| Cert | https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view |
+| Cert | https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
 | 1.2 | https://gofile.io/d/ezVDGl |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
@@ -70,9 +70,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 1
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 1.8 | https://public.simplyblk.xyz/1.8.rar | https://builds.rebootfn.org/1.8.rar | https://drive.google.com/file/d/1Dr_bNxDXNTiEPLTke99oPEld5UaXi-bK/view |
-| 1.8.1 | https://public.simplyblk.xyz/1.8.1.rar | https://builds.rebootfn.org/1.8.1.rar | https://drive.google.com/file/d/1d5NvaF1qsdaVUSXP4YBKab6oJC9vMG2d/view |
-| 1.8.2 | https://public.simplyblk.xyz/1.8.2.rar | https://builds.rebootfn.org/1.8.2.rar | https://drive.google.com/file/d/1DFQ7A4C95pZOnjKmgnYudqpvAxXHscL5/view |
+| 1.8 | https://public.simplyblk.xyz/1.8.rar | https://builds.rebootfn.org/1.8.rar | https://archive.org/download/1.8_20241223/1.8.rar |
+| 1.8.1 | https://public.simplyblk.xyz/1.8.1.rar | https://builds.rebootfn.org/1.8.1.rar | https://archive.org/download/fortnite-release-1.8.1-cl-3729133/%2B%2BFortnite%2BRelease-1.8.1-CL-3729133.rar |
+| 1.8.2 | https://public.simplyblk.xyz/1.8.2.rar | https://builds.rebootfn.org/1.8.2.rar | https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar |
 | 1.9 | https://public.simplyblk.xyz/1.9.rar | https://builds.rebootfn.org/1.9.rar | https://drive.google.com/file/d/1zijRjLPncoNKgSUHBm5HKXb30n_3xyUP/view |
 | 1.9.1 | https://public.simplyblk.xyz/1.9.1.rar | https://builds.rebootfn.org/1.9.1.rar | https://drive.google.com/file/d/19u5rfoHrZdzouJDHg3vf6BMybbAGH_y4/view |
 | 1.10.0 | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar | https://drive.google.com/file/d/1rtbOIgVyZFvNl4oPoJKnhMJVHLivXhxT/view |

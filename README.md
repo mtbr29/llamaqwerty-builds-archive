@@ -39,7 +39,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | OT6.5 | https://public.simplyblk.xyz/OT0.6.5.zip | https://drive.google.com/file/d/1v99QD6xoLf19HTnJMDSrNhSvdl63shvM/view | https://galaxiafn.co.uk/0.6.5.zip |
-| OT10 | (PS4) https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view |
+| OT10 | (PS4) https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | (PS4) https://archive.org/details/fortnite-mailapp-ot10 |
 | OT11 | (PC) https://gofile.io/d/glDthm | (Xbox) https://gofile.io/d/hP3uzo |
 
 ## Pre-Season

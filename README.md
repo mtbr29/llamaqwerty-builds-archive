@@ -45,7 +45,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| Cert | https://drive.google.com/file/d/1zIEAi6U6taT-xuK6d3LUUlgE6kGqpJyp/view | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
+| Cert | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
 | 1.2 | https://gofile.io/d/ezVDGl |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
@@ -73,88 +73,88 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 1.8 | https://public.simplyblk.xyz/1.8.rar | https://builds.rebootfn.org/1.8.rar | https://archive.org/download/1.8_20241223/1.8.rar |
 | 1.8.1 | https://public.simplyblk.xyz/1.8.1.rar | https://builds.rebootfn.org/1.8.1.rar | https://archive.org/download/fortnite-release-1.8.1-cl-3729133/%2B%2BFortnite%2BRelease-1.8.1-CL-3729133.rar |
 | 1.8.2 | https://public.simplyblk.xyz/1.8.2.rar | https://builds.rebootfn.org/1.8.2.rar | https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar |
-| 1.9 | https://public.simplyblk.xyz/1.9.rar | https://builds.rebootfn.org/1.9.rar | https://drive.google.com/file/d/1zijRjLPncoNKgSUHBm5HKXb30n_3xyUP/view |
-| 1.9.1 | https://public.simplyblk.xyz/1.9.1.rar | https://builds.rebootfn.org/1.9.1.rar | https://drive.google.com/file/d/19u5rfoHrZdzouJDHg3vf6BMybbAGH_y4/view |
-| 1.10.0 | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar | https://drive.google.com/file/d/1rtbOIgVyZFvNl4oPoJKnhMJVHLivXhxT/view |
+| 1.9 | https://public.simplyblk.xyz/1.9.rar | https://builds.rebootfn.org/1.9.rar |
+| 1.9.1 | https://public.simplyblk.xyz/1.9.1.rar | https://builds.rebootfn.org/1.9.1.rar |
+| 1.10.0 | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar |
 
 ## Season 2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 1.11.0 | https://public.simplyblk.xyz/1.11.zip | https://builds.rebootfn.org/1.11.zip | https://galaxiafn.co.uk/1.11.zip |
-| 2.1.0 | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip | https://drive.google.com/file/d/1Mh07OKi84mbLpFnYu4eoxnMcEYa9GNfo/view |
-| 2.2.0 | https://public.simplyblk.xyz/2.2.0.rar | https://builds.rebootfn.org/2.2.0.rar | https://drive.google.com/file/d/1Ug1MwlUP89F_XPJQThv3G50oe7iVHCCC/view |
-| 2.3.0 | https://public.simplyblk.xyz/2.3.rar | https://builds.rebootfn.org/2.3.rar | https://drive.google.com/file/d/1VmE4xh43kK_nDjHBqkwhnfcdH0X_n2u6/view |
+| 2.1.0 | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip |
+| 2.2.0 | https://public.simplyblk.xyz/2.2.0.rar | https://builds.rebootfn.org/2.2.0.rar |
+| 2.3.0 | https://public.simplyblk.xyz/2.3.rar | https://builds.rebootfn.org/2.3.rar |
 | 2.3.1 | Lost |
 | 2.3.2 | Lost |
-| 2.4.0 | https://public.simplyblk.xyz/2.4.0.zip | https://builds.rebootfn.org/2.4.0.zip | https://drive.google.com/file/d/1AmxU8hd43H0p3kK9zYN9gZhQJV3hn8J3/view | https://galaxiafn.co.uk/2.4.0.zip |
-| 2.4.1 | https://public.simplyblk.xyz/2.4.2.zip | https://builds.rebootfn.org/2.4.2.zip | https://drive.google.com/file/d/1nflHQuwOa7_E2SNSy-eBVK-QllyeoLsY/view |
+| 2.4.0 | https://public.simplyblk.xyz/2.4.0.zip | https://builds.rebootfn.org/2.4.0.zip | https://galaxiafn.co.uk/2.4.0.zip |
+| 2.4.1 | https://public.simplyblk.xyz/2.4.2.zip | https://builds.rebootfn.org/2.4.2.zip |
 | 2.4.2 | Status Pending |
 | 2.4.X | Lost |
-| 2.5.0 | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar | https://drive.google.com/file/d/1KFJuos918RJk2lgm2_ScZh7bnxmkb8k0/view |
+| 2.5.0 | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar |
 
 ## Season 3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 3.00 | https://public.simplyblk.xyz/3.0.zip | https://builds.rebootfn.org/3.0.zip | https://galaxiafn.co.uk/3.0.zip |
 | 3.10 | https://public.simplyblk.xyz/3.1.rar | https://builds.rebootfn.org/3.1.rar | https://drive.google.com/file/d/1cpFuAyjypwiSq6ntFQXf5ENpwlieloUc/view |
-| 3.11 | https://public.simplyblk.xyz/3.1.1.zip | https://builds.rebootfn.org/3.1.1.zip | https://drive.google.com/file/d/18ysYt1J5yN_bMZUal9SpmScqEs9RimLR/view |
-| 3.20 | https://public.simplyblk.xyz/3.2.zip | https://builds.rebootfn.org/3.2.zip | https://drive.google.com/file/d/1cfuLPrbLrUSoIgmS42WdcG5b2rwEJXR8/view |
+| 3.11 | https://public.simplyblk.xyz/3.1.1.zip | https://builds.rebootfn.org/3.1.1.zip |
+| 3.20 | https://public.simplyblk.xyz/3.2.zip | https://builds.rebootfn.org/3.2.zip |
 | 3.30 | https://public.simplyblk.xyz/3.3.rar | https://builds.rebootfn.org/3.3.rar |
 | 3.31 | Lost |
 | 3.40 | Lost |
-| 3.50 | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://drive.google.com/file/d/1QwLu9iNShSME8UCEl5LU3ivdTmQztK_9/view | https://galaxiafn.co.uk/3.5.zip |
-| 3.60 | https://public.simplyblk.xyz/3.6.zip | https://builds.rebootfn.org/3.6.zip | https://drive.google.com/file/d/1CGp3z6aM8InsSv01vaH9J1K1Cb7H9913/view |
+| 3.50 | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://galaxiafn.co.uk/3.5.zip |
+| 3.60 | https://public.simplyblk.xyz/3.6.zip | https://builds.rebootfn.org/3.6.zip |
 
 ## Season 4
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 4.00 | https://public.simplyblk.xyz/4.0.zip | https://builds.rebootfn.org/4.0.zip | https://drive.google.com/file/d/1i_TX2V5K6Y1kZtMjuWjdDfgQMLwDmfAx/view |
-| 4.10 | https://drive.google.com/file/d/18sBxOd3xk9HUK6x5cHb4WhLKGTMwD2fz/view | https://drive.google.com/file/d/1Cwtq1tvbVhhJXq8q6mpePYxl_Ji53seM/view |
+| 4.00 | https://public.simplyblk.xyz/4.0.zip | https://builds.rebootfn.org/4.0.zip |
+| 4.10 | https://drive.google.com/file/d/1Cwtq1tvbVhhJXq8q6mpePYxl_Ji53seM/view |
 | 4.20 | https://public.simplyblk.xyz/4.2.zip | https://builds.rebootfn.org/4.2.zip | https://galaxiafn.co.uk/4.2.zip |
 | 4.30 | Lost |
-| 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar | https://drive.google.com/file/d/17Cwi48TCOy0LdHVmpYxLM85asd5bwthF/view |
-| 4.41 | https://drive.google.com/file/d/15lOxiIf8XghFIAS8A-CBjwM2WBh5ltZ5/view | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
+| 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar |
+| 4.41 | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
 | 4.4X | Lost |
-| 4.50 | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar | https://drive.google.com/file/d/1-a1h_Kb7DS8SB292JV4v2LP6Gyt_lnfh/view |
+| 4.50 | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar |
 
 ## Season 5
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 5.00 | https://public.simplyblk.xyz/5.00.rar | https://builds.rebootfn.org/5.00.rar | https://drive.google.com/file/d/1cfyOZyTNP4-ERV_RFI-cw6kgz8BU2DRq/view |
-| 5.01 | https://public.simplyblk.xyz/5.0.1.rar | https://builds.rebootfn.org/5.0.1.rar | https://drive.google.com/file/d/15CkEUQeuIxEuuzDsbM_-Gx_p-dl0_n-Z/view |
-| 5.10 | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar | https://drive.google.com/file/d/1nYt74KNt7WB9d6bELfE3uiShgHC7hLtw/view|
+| 5.00 | https://public.simplyblk.xyz/5.00.rar | https://builds.rebootfn.org/5.00.rar |
+| 5.01 | https://public.simplyblk.xyz/5.0.1.rar | https://builds.rebootfn.org/5.0.1.rar |
+| 5.10 | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar |
 | 5.20 | Lost |
-| 5.21 | https://public.simplyblk.xyz/5.21.rar | https://builds.rebootfn.org/5.21.rar | https://drive.google.com/file/d/1uazcX-lLrTfzrep030_M3OK0YlDt9VAW/view |
+| 5.21 | https://public.simplyblk.xyz/5.21.rar | https://builds.rebootfn.org/5.21.rar |
 | 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar | https://drive.google.com/file/d/1F31c6vX2p_oQMpwItDWk1PDMaaoknWSG/view |
-| 5.40 | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar | https://drive.google.com/file/d/1k53i-JCYbpo3q8_ijEOOs6IlYkeowcbK/view |
-| 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://drive.google.com/file/d/1CQaeoYymQ-uR6KU81NZgsg4pnILZDLUf/view | https://galaxiafn.co.uk/5.41.zip |
+| 5.40 | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar |
+| 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip |
 
 ## Season 6
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 6.00 | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar | https://drive.google.com/file/d/1XvmcAsaEoWeN6MmExYOv-sPtiOcrs7FK/view |
-| 6.01 | https://public.simplyblk.xyz/6.01.rar | https://builds.rebootfn.org/6.01.rar | https://drive.google.com/file/d/1xH9BVfcx9FixKt_JPSNombY1roSSYb-f/view|
+| 6.00 | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar |
+| 6.01 | https://public.simplyblk.xyz/6.01.rar | https://builds.rebootfn.org/6.01.rar |
 | 6.01.1 | https://public.simplyblk.xyz/6.1.1.rar | https://builds.rebootfn.org/6.1.1.rar |
-| 6.02 | https://public.simplyblk.xyz/6.02.rar | https://builds.rebootfn.org/6.02.rar | https://drive.google.com/file/d/1gkDutapoha7AA1UmV98KwseCEvmVqJzm/view |
+| 6.02 | https://public.simplyblk.xyz/6.02.rar | https://builds.rebootfn.org/6.02.rar |
 | 6.02.1 | https://public.simplyblk.xyz/6.2.1.rar | https://builds.rebootfn.org/6.2.1.rar |
-| 6.10 | https://public.simplyblk.xyz/6.10.rar | https://builds.rebootfn.org/6.10.rar | https://drive.google.com/file/d/14CyQOJa0VS9E9MS3zmc1ycrGgtDL-hDV/view |
-| 6.10.1 | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar | https://drive.google.com/file/d/1zpgRhTySfAGtODWraXgDtZ6b57Sx8i8g/view |
-| 6.10.2 | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar | https://drive.google.com/file/d/19RoJ-wTMGgSf0z-1s1P2kjGL-iTo99n1/view |
+| 6.10 | https://public.simplyblk.xyz/6.10.rar | https://builds.rebootfn.org/6.10.rar |
+| 6.10.1 | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar |
+| 6.10.2 | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar |
 | 6.20 | Unavailable | 
-| 6.21 | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar | https://drive.google.com/file/d/1iovXZswCVa0RvQcqcEbKu2IXT0SV66yg/view |
-| 6.22 | https://public.simplyblk.xyz/6.22.rar | https://builds.rebootfn.org/6.22.rar | https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view |
+| 6.21 | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar |
+| 6.22 | https://public.simplyblk.xyz/6.22.rar | https://builds.rebootfn.org/6.22.rar |
 | 6.30 | https://public.simplyblk.xyz/6.30.rar | https://builds.rebootfn.org/6.30.rar |
 | 6.31 | https://public.simplyblk.xyz/6.31.rar | https://builds.rebootfn.org/6.31.rar |
 
 ## Season 7
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 7.00 | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar | https://drive.google.com/file/d/1s-n8QT0gBrEDBR4if-407v3B8kEtl-Hg/view |
+| 7.00 | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar |
 | 7.01 | Lost |
-| 7.10 | https://public.simplyblk.xyz/7.10.rar | https://builds.rebootfn.org/7.10.rar | https://drive.google.com/file/d/1j9Y2Q1bL0osGP9qCIilDo8xLeWPsi4g_/view |
-| 7.20 | https://public.simplyblk.xyz/7.20.rar | https://builds.rebootfn.org/7.20.rar | https://drive.google.com/file/d/1j9Y2Q1bL0osGP9qCIilDo8xLeWPsi4g_/view |
+| 7.10 | https://public.simplyblk.xyz/7.10.rar | https://builds.rebootfn.org/7.10.rar |
+| 7.20 | https://public.simplyblk.xyz/7.20.rar | https://builds.rebootfn.org/7.20.rar |
 | 7.30 | https://public.simplyblk.xyz/7.30.zip | https://builds.rebootfn.org/7.30.zip | https://galaxiafn.co.uk/7.30.zip |
-| 7.40 | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://drive.google.com/file/d/1hnRtFxgMKuviipR_2N2ZA1-9pJYiEdKV/view |
+| 7.40 | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar |
 
 ## Season 8
 | Build | Download | Alternative Download | Alternative Download
@@ -163,9 +163,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 8.01 | Lost |
 | 8.10 | Lost |
 | 8.11 | Lost |
-| 8.20 | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar | https://drive.google.com/file/d/1pUxEJ2vbaUoRKviEEACHznFb_YhMrwqC/view |
-| 8.30 | https://public.simplyblk.xyz/8.30.rar | https://builds.rebootfn.org/8.30.rar | https://drive.google.com/file/d/1YU3ycLklrQBeqgeXef1Tl4DshtEqRy0a/view |
-| 8.40 | https://public.simplyblk.xyz/8.40.zip | https://builds.rebootfn.org/8.40.zip | https://drive.google.com/file/d/13pAJ-cwhaM0PT7927OdLr8ibGyrtG46k/view |
+| 8.20 | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar |
+| 8.30 | https://public.simplyblk.xyz/8.30.rar | https://builds.rebootfn.org/8.30.rar |
+| 8.40 | https://public.simplyblk.xyz/8.40.zip | https://builds.rebootfn.org/8.40.zip |
 | 8.50 | https://public.simplyblk.xyz/8.50.zip | https://builds.rebootfn.org/8.50.zip | https://galaxiafn.co.uk/8.50.zip |
 | 8.51 | https://public.simplyblk.xyz/8.51.rar | https://builds.rebootfn.org/8.51.rar | https://galaxiafn.co.uk/8.51.zip |
 
@@ -199,7 +199,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 11.00 | https://public.simplyblk.xyz/11.00.zip | https://galaxiafn.co.uk/11.00.zip |
 | 11.01 | Unavailable |
-| 11.10 | https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view | https://drive.google.com/file/d/1P7wrV5Aum0-03TI6b3fOcB5P400Onsfo/view |
+| 11.10 | https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view |
 | 11.11 | Unavailable |
 | 11.20 | Unavailable |
 | 11.21 | Unavailable |
@@ -207,7 +207,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 11.31 | https://public.simplyblk.xyz/11.31.rar |
 | 11.40 | Unavailable |
 | 11.41 | Lost |
-| 11.50 | https://drive.google.com/file/d/1KZszpA4VVoKXNO4eSin6WjQr6apguQIz/view |
+| 11.50 | Unavailable |
 
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
@@ -221,7 +221,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.41 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view |
 | 12.60 | Lost |
-| 12.61 | https://public.simplyblk.xyz/12.61.zip | https://public.privateuser.xyz/12.61.zip | https://drive.google.com/file/d/10y3Zr_LxAUZi1nsczhdFCFTZ59KAdBHJ/view |
+| 12.61 | https://public.simplyblk.xyz/12.61.zip | https://public.privateuser.xyz/12.61.zip |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -229,7 +229,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 13.00 | https://public.simplyblk.xyz/13.00.rar |
 | 13.20 | Lost |
 | 13.30 | Unavailable |
-| 13.40 | https://public.simplyblk.xyz/13.40.zip | https://drive.google.com/file/d/1vtO5dgy6-IRurfY6PdIEI1wSvCgvSO2C/view |
+| 13.40 | https://public.simplyblk.xyz/13.40.zip |
 
 ## Season 14
 | Build | Download | Alternative Download | Alternative Download
@@ -237,7 +237,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.00 | https://public.simplyblk.xyz/14.00.rar |
 | 14.10 | Lost |
 | 14.20 | Lost |
-| 14.30 | https://drive.google.com/file/d/1H_fTXKdYnIAyyUU130kYUdvkxtSiZTvR/view | https://drive.google.com/file/d/117H8_xWOQKLuUNQ2Jm56UtK7ooFTzdMq/view |
+| 14.30 | https://drive.google.com/file/d/117H8_xWOQKLuUNQ2Jm56UtK7ooFTzdMq/view |
 | 14.40 | https://public.simplyblk.xyz/14.40.rar |
 | 14.50 | Unavailable |
 | 14.60 | https://public.simplyblk.xyz/14.60.rar |
@@ -257,7 +257,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 16.00 | Only Manifest Obtainable |
-| 16.10 | https://drive.google.com/file/d/1oP9neA9V9d0qIgniCDjhKp3wnrHE0d7Z/view |
+| 16.10 | Unavailable |
 | 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
 | 16.40 | https://public.simplyblk.xyz/16.40.rar |
@@ -270,7 +270,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.10 | https://drive.google.com/file/d/1KQHMQX-2-douvRdtQ1cnhp_USJsSWALY/view |
 | 17.20 | Lost |
 | 17.21 | Lost |
-| 17.30 | https://public.simplyblk.xyz/17.30.zip | https://drive.google.com/file/d/1eyovV3X1x-gxGrrhuuzSBbgxsHaq8wtA/view |
+| 17.30 | https://public.simplyblk.xyz/17.30.zip |
 | 17.40 | https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view |
 | 17.50 | https://public.simplyblk.xyz/17.50.zip |
 
@@ -278,7 +278,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 18.00 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view |
-| 18.10 | https://drive.google.com/file/d/1_R5MSes7YlzNg1nFpfk-YdvrG8Il88pf/view |
+| 18.10 | Unavailable |
 | 18.20 | https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view |
 | 18.21 | https://drive.google.com/file/d/1CiwxeQtWdf15laUo-Hrsldb7Jol8KRea/view |
 | 18.30 | https://drive.google.com/file/d/16I49gdBFBNV1frj5c0vf9IgLsFnToeKK/view |
@@ -288,7 +288,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 19.00 | Unavailable |
-| 19.01 | https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view |
+| 19.01 | Unavailable |
 | 19.10 | https://public.simplyblk.xyz/19.10.rar | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar |
 | 19.20 | Unavailable |
 | 19.30 | Lost |
@@ -339,7 +339,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 24.00 | Only Manifest Obtainable |
 | 24.01 | Only Manifest Obtainable |
 | 24.10 | Only Manifest Obtainable |
-| 24.20 | https://drive.google.com/file/d/1yu_rattzHO7mfjTEp_ThIwHE5hgbfsuj/view |
+| 24.20 | Only Manifest Obtainable |
 | 24.30 | Only Manifest Obtainable |
 | 24.40 | Only Manifest Obtainable |
 

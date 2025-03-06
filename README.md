@@ -96,7 +96,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 3.00 | https://public.simplyblk.xyz/3.0.zip | https://builds.rebootfn.org/3.0.zip | https://galaxiafn.co.uk/3.0.zip |
-| 3.10 | https://public.simplyblk.xyz/3.1.rar | https://builds.rebootfn.org/3.1.rar | https://drive.google.com/file/d/1cpFuAyjypwiSq6ntFQXf5ENpwlieloUc/view |
+| 3.10 | https://public.simplyblk.xyz/3.1.rar | https://builds.rebootfn.org/3.1.rar |
 | 3.11 | https://public.simplyblk.xyz/3.1.1.zip | https://builds.rebootfn.org/3.1.1.zip |
 | 3.20 | https://public.simplyblk.xyz/3.2.zip | https://builds.rebootfn.org/3.2.zip |
 | 3.30 | https://public.simplyblk.xyz/3.3.rar | https://builds.rebootfn.org/3.3.rar |

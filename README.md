@@ -109,7 +109,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 4.00 | https://public.simplyblk.xyz/4.0.zip | https://builds.rebootfn.org/4.0.zip |
-| 4.10 | https://drive.google.com/file/d/1Cwtq1tvbVhhJXq8q6mpePYxl_Ji53seM/view |
+| 4.10 | Unavailable |
 | 4.20 | https://public.simplyblk.xyz/4.2.zip | https://builds.rebootfn.org/4.2.zip | https://galaxiafn.co.uk/4.2.zip |
 | 4.30 | Lost |
 | 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar |

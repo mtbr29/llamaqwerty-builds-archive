@@ -38,7 +38,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | OT6.5 | https://public.simplyblk.xyz/OT0.6.5.zip | https://archive.org/download/pre-battle-royal-ot-0.6.5/Pre-Battle-Royal_OT0.6.5.zip | https://galaxiafn.co.uk/0.6.5.zip |
 | OT10 | (PS4) https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | (PS4) https://archive.org/details/fortnite-mailapp-ot10 |
-| OT11 | (PC) https://gofile.io/d/glDthm | (Xbox) https://gofile.io/d/hP3uzo |
+| OT11 | Unavailable |
 
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
@@ -361,8 +361,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00 | Only Manifest Obtainable |
-| 27.10 | Only Manifest Obtainable |
+| 27.00 | https://gofile.io/d/JucYai |
+| 27.10 | https://gofile.io/d/XsU1fV |
 | 27.11 | Only Manifest Obtainable |
 
 ## Season 28
@@ -429,6 +429,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 [absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Unavailable)
 
-[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (Somewhat available PC & Xbox) & 23.40
+[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): 23.40 (Somewhat available)
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up. Only use it for item IDs, and AES keys)

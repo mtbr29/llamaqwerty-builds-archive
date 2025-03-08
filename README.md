@@ -17,8 +17,6 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Shoqaratio](https://github.com/Shoqaratio)
 
-[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (PC & Xbox), 23.40, & 1.2
-
 and to all the people who archived any links in Wayback Machine
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of over 3 builds) will go towards the top
@@ -431,5 +429,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 [absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Unavailable)
 
+[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): OT11 (Somewhat available PC & Xbox) & 23.40
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up. Only use it for item IDs, and AES keys)

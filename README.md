@@ -86,7 +86,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 2.3.2 | Lost |
 | 2.4.0 | https://public.simplyblk.xyz/2.4.0.zip | https://builds.rebootfn.org/2.4.0.zip | https://galaxiafn.co.uk/2.4.0.zip |
 | 2.4.1 | https://public.simplyblk.xyz/2.4.2.zip | https://builds.rebootfn.org/2.4.2.zip |
-| 2.4.2 | Status Pending |
+| 2.4.2 | Lost |
 | 2.4.X | Lost |
 | 2.5.0 | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar |
 

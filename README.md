@@ -424,6 +424,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 34.00 | Only Manifest Obtainable |
+| 34.00 | Current |
 
 # Small Contributors
 

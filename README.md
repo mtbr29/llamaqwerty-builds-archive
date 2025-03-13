@@ -355,17 +355,19 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 26.00 | Status Pending |
-| 26.10 | Status Pending |
-| 26.20 | Status Pending |
-| 26.30 | Unavailable |
+| 26.00-CL-27233190 | Status Pending |
+| 26.00-CL-27424790 | Status Pending |
+| 26.10-CL-27681420 | Status Pending |
+| 26.20-CL-28096793 | Status Pending |
+| 26.30-CL-28509302 | Unavailable |
+| 26.30-CL-28688692 | Unavailable |
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00 | Unavailable |
-| 27.10 | Unavailable |
-| 27.11 | Unavailable |
+| 27.00-CL-29072304 | LINK SOON, Unavailable |
+| 27.10-CL-29552510 | https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view |
+| 27.11-CL-29739262 | Unavailable |
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download

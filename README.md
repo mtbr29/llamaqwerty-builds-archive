@@ -256,7 +256,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 16
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 16.00 | Only Manifest Obtainable |
+| 16.00 | Status Pending, might be obtainable with manifest |
 | 16.10 | Unavailable |
 | 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
@@ -321,7 +321,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 22.10 | Unavailable |
 | 22.20 | Unavailable |
 | 22.30 | Unavailable |
-| 22.40 | Only Manifest Obtainable |
+| 22.40 | Status Pending, might be obtainable with manifest |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
@@ -331,102 +331,102 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 23.20 | Lost |
 | 23.30 | Lost |
 | 23.40 | https://gofile.io/d/e6hdZm |
-| 23.50 | Only Manifest Obtainable |
+| 23.50 | Unavailable |
 
 ## Season 24
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 24.00 | Only Manifest Obtainable |
-| 24.01 | Only Manifest Obtainable |
-| 24.10 | Only Manifest Obtainable |
-| 24.20 | Only Manifest Obtainable |
-| 24.30 | Only Manifest Obtainable |
-| 24.40 | Only Manifest Obtainable |
+| 24.00 | Unavailable, might be obtainable with manifest |
+| 24.01 | Unavailable, might be obtainable with manifest |
+| 24.10 | Unavailable, might be obtainable with manifest |
+| 24.20 | Unavailable |
+| 24.30 | Unavailable |
+| 24.40 | Unavailable |
 
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.00 | Only Manifest Obtainable |
-| 25.10 | Only Manifest Obtainable |
-| 25.11 | Only Manifest Obtainable |
-| 25.20 | Only Manifest Obtainable |
-| 25.30 | Only Manifest Obtainable |
+| 25.00 | Unavailable |
+| 25.10 | Status Pending |
+| 25.11 | Unavailable |
+| 25.20 | Status Pending |
+| 25.30 | Unavailable |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 26.00 | Only Manifest Obtainable |
-| 26.10 | Only Manifest Obtainable |
-| 26.20 | Only Manifest Obtainable |
-| 26.30 | Only Manifest Obtainable |
+| 26.00 | Status Pending |
+| 26.10 | Status Pending |
+| 26.20 | Status Pending |
+| 26.30 | Unavailable |
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00 | https://gofile.io/d/JucYai |
-| 27.10 | https://gofile.io/d/XsU1fV |
-| 27.11 | Only Manifest Obtainable |
+| 27.00 | Unavailable |
+| 27.10 | Unavailable |
+| 27.11 | Unavailable |
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 28.00 | Only Manifest Obtainable |
-| 28.01 | Only Manifest Obtainable |
-| 28.01.01 | Only Manifest Obtainable |
-| 28.10 | Only Manifest Obtainable |
-| 28.20 | Only Manifest Obtainable |
-| 28.30 | Only Manifest Obtainable |
+| 28.00 | Unavailable |
+| 28.01 | Status Pending |
+| 28.01.01 | Status Pending |
+| 28.10 | Status Pending |
+| 28.20 | Status Pending |
+| 28.30 | Unavailable |
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.00 | Only Manifest Obtainable |
-| 29.01 | Only Manifest Obtainable |
-| 29.10 | Only Manifest Obtainable |
-| 29.20 | Only Manifest Obtainable |
-| 29.30 | Only Manifest Obtainable |
-| 29.40 | Only Manifest Obtainable |
+| 29.00 | Unavailable |
+| 29.01 | Unavailable |
+| 29.10 | Status Pending |
+| 29.20 | Unavailable |
+| 29.30 | Status Pending |
+| 29.40 | Unavailable |
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 30.00 | Only Manifest Obtainable |
-| 30.10 | Only Manifest Obtainable |
-| 30.20 | Only Manifest Obtainable |
-| 30.30 | Only Manifest Obtainable |
-| 30.40 | Only Manifest Obtainable |
+| 30.00 | https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view |
+| 30.10 | Status Pending |
+| 30.20 | Unavailable |
+| 30.30 | Unavailable |
+| 30.40 | Unavailable |
 
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.00 | Only Manifest Obtainable |
-| 31.10 | Only Manifest Obtainable |
-| 31.20 | Only Manifest Obtainable |
-| 31.30 | Only Manifest Obtainable |
-| 31.40 | Only Manifest Obtainable |
-| 31.41 | Only Manifest Obtainable |
+| 31.00 | Unavailable |
+| 31.10 | Unavailable |
+| 31.20 | Unavailable |
+| 31.30 | Unavailable |
+| 31.40 | Unavailable |
+| 31.41 | Unavailable |
 
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 32.00 | Only Manifest Obtainable |
-| 32.10 | Only Manifest Obtainable |
-| 32.11 | Only Manifest Obtainable |
+| 32.00 | Unavailable |
+| 32.10 | Unavailable |
+| 32.11 | Unavailable |
 
 ## Season 33
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 33.00 | Only Manifest Obtainable |
-| 33.10 | Only Manifest Obtainable |
-| 33.11 | Only Manifest Obtainable |
-| 33.20 | Only Manifest Obtainable |
-| 33.30 | Only Manifest Obtainable |
+| 33.00 | Unavailable |
+| 33.10 | Unavailable |
+| 33.11 | Unavailable |
+| 33.20 | Unavailable |
+| 33.30 | Unavailable |
 
 ## Season 34
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 34.00 | Only Manifest Obtainable |
-| 34.10 | Current |
+| 34.00 | Unavailable |
+| 34.10 | Current, only obtainable with manifest |
 
 # Small Contributors
 
@@ -434,4 +434,4 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 [sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): 23.40 (Somewhat available)
 
-For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is outdated and messed up. Only use it for item IDs, and AES keys)
+For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)

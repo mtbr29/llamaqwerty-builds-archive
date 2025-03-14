@@ -256,7 +256,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 16
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 16.00 | Status Pending, might be obtainable with manifest |
+| 16.00 | Unavailable, might be manifest obtainable |
 | 16.10 | Unavailable |
 | 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
@@ -321,7 +321,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 22.10 | Unavailable |
 | 22.20 | Unavailable |
 | 22.30 | Unavailable |
-| 22.40 | Status Pending, might be obtainable with manifest |
+| 22.40 | Unavailable, might be manifest obtainable |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download

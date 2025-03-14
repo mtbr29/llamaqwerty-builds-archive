@@ -333,7 +333,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 23.20-CL-23783097 | Lost |
 | 23.30-CL-23901854 | Lost |
 | 23.30-CL-23986860 | Lost |
-| 23.40-CL-24087481 | https://gofile.io/d/e6hdZm |
+| 23.40-CL-24087481 | (Somewhat available) https://gofile.io/d/e6hdZm |
 | 23.50-CL-24376996 | Status Pending |
 | 23.50-CL-24441668 | Status Pending |
 
@@ -467,6 +467,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 # Small Contributors
 
 [sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): 23.40 (Somewhat available)
+
+[Snoopy](https://x.com/Snoopity_Dog420): 31.00-CL-35447195
+
+[Sweefy](https://www.youtube.com/channel/UCqR_6j5aFBDOoJMIiqjFf1g): 29.40-CL-33629566
 
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)

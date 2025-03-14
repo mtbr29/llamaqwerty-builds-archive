@@ -462,7 +462,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40398515 | Status Pending |
 | 34.00-CL-40446427 | Status Pending |
-| 34.10-CL-40567068 | Current, only obtainable with manifest |
+| 34.10-CL-40567068 | Current, Only Manifest Obtainable |
 
 # Small Contributors
 

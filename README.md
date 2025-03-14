@@ -466,8 +466,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
-[absoluteSpacehead](https://github.com/absoluteSpacehead): 11.50 (Unavailable)
-
 [sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): 23.40 (Somewhat available)
+
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)

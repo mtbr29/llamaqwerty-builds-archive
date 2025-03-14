@@ -358,11 +358,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.00-CL- | Unavailable |
-| 25.10-CL- | Status Pending |
-| 25.11-CL- | Unavailable |
-| 25.20-CL- | Status Pending |
-| 25.30-CL- | Unavailable |
+| 25.00-CL-25784668 | Status Pending |
+| 25.00-CL-25909622 | Unavailable |
+| 25.10-CL-260000959 | Status Pending |
+| 25.11-CL-26171015 | Unavailable |
+| 25.20-CL-26474516 | Status Pending |
+| 25.20-CL-26629111 | Status Pending |
+| 25.30-CL-26867995 | Unavailable |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
@@ -371,7 +373,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 26.00-CL-27424790 | Status Pending |
 | 26.10-CL-27681420 | Status Pending |
 | 26.20-CL-28096793 | Status Pending |
-| 26.30-CL-28509302 | Status Pending |
+| 26.30-CL-28509302 | Unavailable |
 | 26.30-CL-28688692 | Unavailable |
 
 ## Season 27
@@ -384,64 +386,83 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 28.00-CL- | Unavailable |
-| 28.01-CL- | Status Pending |
-| 28.01-CL- | Unavailable |
-| 28.10-CL- | Status Pending |
-| 28.20-CL- | Status Pending |
-| 28.30-CL- | Unavailable |
+| 28.00-CL-29915848 | Unavailable |
+| 28.01-CL-30106568 | Status Pending |
+| 28.01-CL-30313795 | Unavailable |
+| 28.10-CL-30676362 | Status Pending |
+| 28.10-CL-30835064 | Status Pending |
+| 28.20-CL-31165234 | Status Pending |
+| 28.20-CL-31286935 | Status Pending |
+| 28.30-CL-31511038 | Unavailable |
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.00-CL- | Unavailable |
-| 29.01-CL- | Unavailable |
+| 29.00-CL-31978752 | Status Pending |
+| 29.00-CL-32116959 | Status Pending
+| 29.01-CL-32291970 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
 | 29.10-CL-32567225 | Unavailable |
-| 29.20-CL- | Unavailable |
-| 29.30-CL- | Status Pending |
-| 29.40-CL- | Unavailable |
+| 29.20-CL-32716692 | Unavailable |
+| 29.30-CL-32982357 | Status Pending |
+| 29.40-CL-33291686 | Status Pending |
+| 29.40-CL-33502036 | Status Pending |
+| 29.40-CL-33629566 | Status Pending |
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 30.00-CL- | https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view |
-| 30.10-CL- | Status Pending |
-| 30.20-CL- | Unavailable |
-| 30.30-CL- | Unavailable |
-| 30.40-CL- | Unavailable |
+| 30.00-CL-33760522 | Unavailable
+| 30.00-CL-33962396 | https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view |
+| 30.10-CL-34184790 | Status Pending |
+| 30.10-CL-34261954 | Status Pending |
+| 30.10-CL-34399867 | Status Pending |
+| 30.20-CL-34488544 | Status Pending |
+| 30.20-CL-34597766 | Status Pending |
+| 30.30-CL-34891016 | Unavailable |
+| 30.40-CL-35235494 | Unavailable |
 
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.00-CL- | Unavailable |
-| 31.10-CL- | Unavailable |
-| 31.20-CL- | Unavailable |
-| 31.30-CL- | Unavailable |
-| 31.40-CL- | Unavailable |
-| 31.41-CL- | Unavailable |
+| 31.00-CL-35447195 | Unavailable |
+| 31.10-CL-35815136 | Unavailable |
+| 31.20-CL-36253989 | Unavailable |
+| 31.20-CL-36348034 | Status Pending |
+| 31.30-CL-36600465 | Unavailable |
+| 31.40-CL-36874825 | Unavailable |
+| 31.40-CL-37076506 | Status Pending |
+| 31.41-CL-37324991 | Unavailable |
 
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 32.00-CL- | Unavailable |
-| 32.10-CL- | Unavailable |
-| 32.11-CL- | Unavailable |
+| 32.00-CL-37505882 | Status Pending |
+| 32.00-CL-37770125 | Unavailable |
+| 32.10-CL-37958378 | Unavailable |
+| 32.11-CL-38202817 | Status Pending |
+| 32.11-CL-38371047 | Unavailable |
 
 ## Season 33
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 33.00-CL- | Unavailable |
-| 33.10-CL- | Unavailable |
-| 33.11-CL- | Unavailable |
-| 33.20-CL- | Unavailable |
-| 33.30-CL- | Unavailable |
+| 33.00-CL-38324112 | Unavailable |
+| 33.00-CL-38504598 | Status Pending |
+| 33.10-CL-38630093 | Unavailable |
+| 33.11-CL-38773622 | Unavailable |
+| 33.20-CL-39082670 | Status Pending |
+| 33.20-CL-39277041 | Status Pending |
+| 33.30-CL-39435251 | Status Pending |
+| 33.30-CL-39768313 | Status Pending |
 
 ## Season 34
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 34.00-CL- | Unavailable |
-| 34.10 | Current, only obtainable with manifest |
+| 34.00-CL-40085084 | Unavailable |
+| 34.00-CL-40228973 | Unavailable |
+| 34.00-CL-40398515 | Status Pending |
+| 34.00-CL-40446427 | Status Pending |
+| 34.10-CL-40567068 | Current, only obtainable with manifest |
 
 # Small Contributors
 

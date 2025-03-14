@@ -272,7 +272,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.21 | Lost |
 | 17.30 | https://public.simplyblk.xyz/17.30.zip |
 | 17.40 | https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view |
-| 17.50 | https://public.simplyblk.xyz/17.50.zip |
+| 17.50 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
 
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download

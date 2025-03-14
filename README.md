@@ -362,8 +362,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 25.00-CL-25909622 | Unavailable |
 | 25.10-CL-260000959 | Status Pending |
 | 25.11-CL-26171015 | Unavailable |
-| 25.20-CL-26474516 | Status Pending |
-| 25.20-CL-26629111 | Status Pending |
+| 25.20-CL-26474516 | Unavailable |
+| 25.20-CL-26629111 | Unavailable |
 | 25.30-CL-26867995 | Unavailable |
 
 ## Season 26
@@ -391,47 +391,47 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 28.01-CL-30313795 | Unavailable |
 | 28.10-CL-30676362 | Status Pending |
 | 28.10-CL-30835064 | Status Pending |
-| 28.20-CL-31165234 | Status Pending |
-| 28.20-CL-31286935 | Status Pending |
+| 28.20-CL-31165234 | Unavailable |
+| 28.20-CL-31286935 | Unavailable |
 | 28.30-CL-31511038 | Unavailable |
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 29.00-CL-31978752 | Status Pending |
-| 29.00-CL-32116959 | Status Pending
+| 29.00-CL-32116959 | Status Pending |
 | 29.01-CL-32291970 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
 | 29.10-CL-32567225 | Unavailable |
 | 29.20-CL-32716692 | Unavailable |
-| 29.30-CL-32982357 | Status Pending |
+| 29.30-CL-32982357 | Unavailable |
 | 29.40-CL-33291686 | Status Pending |
 | 29.40-CL-33502036 | Status Pending |
-| 29.40-CL-33629566 | Status Pending |
+| 29.40-CL-33629566 | https://www.swisstransfer.com/d/a9e20060-5ef4-44bb-8136-764cfaaf5831 |
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 30.00-CL-33760522 | Unavailable
+| 30.00-CL-33760522 | Unavailable |
 | 30.00-CL-33962396 | https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view |
 | 30.10-CL-34184790 | Status Pending |
-| 30.10-CL-34261954 | Status Pending |
+| 30.10-CL-34261954 | Unavailable |
 | 30.10-CL-34399867 | Status Pending |
 | 30.20-CL-34488544 | Status Pending |
-| 30.20-CL-34597766 | Status Pending |
+| 30.20-CL-34597766 | Unavailable |
 | 30.30-CL-34891016 | Unavailable |
 | 30.40-CL-35235494 | Unavailable |
 
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.00-CL-35447195 | Unavailable |
+| 31.00-CL-35447195 | https://gofile.io/d/WTrPy2 |
 | 31.10-CL-35815136 | Unavailable |
 | 31.20-CL-36253989 | Unavailable |
-| 31.20-CL-36348034 | Status Pending |
+| 31.20-CL-36348034 | Unavailable |
 | 31.30-CL-36600465 | Unavailable |
 | 31.40-CL-36874825 | Unavailable |
-| 31.40-CL-37076506 | Status Pending |
+| 31.40-CL-37076506 | Unavailable |
 | 31.41-CL-37324991 | Unavailable |
 
 ## Season 32
@@ -447,11 +447,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 33.00-CL-38324112 | Unavailable |
-| 33.00-CL-38504598 | Status Pending |
+| 33.00-CL-38504598 | Unavailable |
 | 33.10-CL-38630093 | Unavailable |
 | 33.11-CL-38773622 | Unavailable |
-| 33.20-CL-39082670 | Status Pending |
-| 33.20-CL-39277041 | Status Pending |
+| 33.20-CL-39082670 | Unavailable |
+| 33.20-CL-39277041 | Unavailable |
 | 33.30-CL-39435251 | Status Pending |
 | 33.30-CL-39768313 | Status Pending |
 

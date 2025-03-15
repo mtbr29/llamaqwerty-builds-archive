@@ -327,7 +327,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | Unavailable |
-| 23.10-CL-23572221 | Status Pending |
+| 23.10-CL-23443094 | Status Pending |
 | 23.10-CL-23572221 | Status Pending |
 | 23.20-CL-23659353 | Lost |
 | 23.20-CL-23783097 | Lost |

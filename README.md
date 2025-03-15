@@ -372,7 +372,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 26.00-CL-27233190 | Status Pending |
 | 26.00-CL-27424790 | Status Pending |
 | 26.10-CL-27681420 | Status Pending |
-| 26.20-CL-28096793 | Status Pending |
+| 26.20-CL-28096793 | Unavailable |
 | 26.30-CL-28509302 | Unavailable |
 | 26.30-CL-28688692 | Unavailable |
 

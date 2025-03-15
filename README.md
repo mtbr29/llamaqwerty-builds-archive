@@ -379,7 +379,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00-CL-29072304 | LINK SOON, Unavailable |
+| 27.00-CL-29072304 | Unavailable |
 | 27.10-CL-29552510 | https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view |
 | 27.11-CL-29739262 | Unavailable |
 

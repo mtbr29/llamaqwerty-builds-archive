@@ -17,6 +17,8 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Shoqaratio](https://github.com/Shoqaratio)
 
+[SunSwift](https://www.youtube.com/channel/UCs9AGXvgDBPKyHFoo--Sgsw): 4.10, 27.11-CL-29739262, & 29.00-CL-31978752
+
 and to all the people who archived any links in Wayback Machine
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of over 3 builds) will go towards the top
@@ -381,7 +383,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 27.00-CL-29072304 | Unavailable |
 | 27.10-CL-29552510 | https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view |
-| 27.11-CL-29739262 | Unavailable |
+| 27.11-CL-29739262 | https://gofile.io/d/cBUDZ9 |
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
@@ -465,8 +467,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.10-CL-40567068 | Current, Only Manifest Obtainable |
 
 # Small Contributors
-
-[SunSwift](https://www.youtube.com/channel/UCs9AGXvgDBPKyHFoo--Sgsw): 4.10 & 29.00-CL-31978752
 
 [Anonymous](https://fn-builds.net/Fn-builds-Gigafile.html): 19.20
 

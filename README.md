@@ -359,7 +359,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | Status Pending |
-| 25.00-CL-25909622 | Unavailable |
+| 25.00-CL-25909622 | https://gofile.io/vbnBe3 |
 | 25.10-CL-260000959 | Status Pending |
 | 25.11-CL-26171015 | Unavailable |
 | 25.20-CL-26474516 | Unavailable |

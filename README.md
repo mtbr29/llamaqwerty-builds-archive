@@ -290,7 +290,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 19.00 | Unavailable |
 | 19.01 | https://archive.org/compress/fortnite-19.01.7z |
 | 19.10 | https://public.simplyblk.xyz/19.10.rar | https://web.archive.org/web/20240824224349/https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar |
-| 19.20 | Unavailable |
+| 19.20 | (Translate page) https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
 | 19.30 | Lost |
 | 19.40 | Unavailable |
 
@@ -359,7 +359,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | Status Pending |
-| 25.00-CL-25909622 | https://gofile.io/vbnBe3 |
+| 25.00-CL-25909622 | Unavailable |
 | 25.10-CL-260000959 | Status Pending |
 | 25.11-CL-26171015 | Unavailable |
 | 25.20-CL-26474516 | Unavailable |
@@ -398,7 +398,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.00-CL-31978752 | Status Pending |
+| 29.00-CL-31978752 | https://gofile.io/d/un70Ro |
 | 29.00-CL-32116959 | Status Pending |
 | 29.01-CL-32291970 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
@@ -466,9 +466,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
+[Anonymous](https://fn-builds.net/Fn-builds-Gigafile.html): 19.20
+
 [sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): 23.40 (Somewhat available)
 
-[AeptaX](https://www.twitch.tv/aeptax): 26.20
+[AeptaX](https://www.twitch.tv/aeptax): 26.20-CL-28096793
+
+[SunSwift](https://www.youtube.com/channel/UCs9AGXvgDBPKyHFoo--Sgsw): 29.00-CL-31978752
 
 [Sweefy](https://www.youtube.com/channel/UCqR_6j5aFBDOoJMIiqjFf1g): 29.40-CL-33629566
 

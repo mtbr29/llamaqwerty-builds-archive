@@ -40,7 +40,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | OT6.5 | https://public.simplyblk.xyz/OT0.6.5.zip | https://archive.org/download/pre-battle-royal-ot-0.6.5/Pre-Battle-Royal_OT0.6.5.zip | https://galaxiafn.co.uk/0.6.5.zip |
 | OT10 | (PS4) https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | (PS4) https://archive.org/details/fortnite-mailapp-ot10 |
-| OT11 | Unavailable |
+| OT11 | (PS4) https://archive.org/compress/fortnite_ot11_ps4 |
 
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download

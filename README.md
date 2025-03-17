@@ -274,7 +274,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.10 | https://drive.google.com/file/d/1KQHMQX-2-douvRdtQ1cnhp_USJsSWALY/view |
 | 17.20 | Lost |
 | 17.21 | Lost |
-| 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/17.30-CL-17004569.7z |
+| 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/17.30-CL-17004569.7z | https://drive.google.com/file/d/1orQOWFVs95SfZK48NqXYEtTa1II4Dn46/view |
 | 17.40 | https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view |
 | 17.50 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
 

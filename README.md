@@ -28,8 +28,6 @@ All small contributors (contributors of 2 or less builds) will go towards the bo
 # Contact
 Contact me through Discord (llamaqwerty) or email (llama.dvorak@hotmail.com)
 
-MAJOR UPDATE, PLEASE SEE THIS! ALL MANIFESTS AFTER S24 HAVE BEEN SENT TO THE ABYSS, IF YOU HAVE ONE UPLOAD IT IMMEDIATELY! If you want to upload some builds, here is a list of [highly prioritized builds](https://drive.google.com/file/d/18XMsUxZ9IO88L45xRkc1hCBGCfyrqnHV/view?usp=sharing)
-
 I would love to have feedback so I know what to improve in future updates, also please address issues to me immediately
 
 Both methods are acceptable if you have a build you want to contribute 
@@ -38,6 +36,8 @@ Both methods are acceptable if you have a build you want to contribute
 I am not the owner of any of these builds and am not resposible for any of the drives they are on
 
 If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY&ab_channel=Soggs)
+
+Many download links from [fn-builds.net](https://fn-builds.net) have been malfunctioning, I am aware and are contacting the host. I am hoping to resolve the issue soon!
 
 ## Alpha
 | Build | Download | Alternative Download | Alternative Download

@@ -136,7 +136,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 6
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 6.00 | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/6.00.rar |
+| 6.00 | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/ |
 | 6.01 | https://public.simplyblk.xyz/6.01.rar | https://builds.rebootfn.org/6.01.rar |
 | 6.01.1 | https://public.simplyblk.xyz/6.1.1.rar | https://builds.rebootfn.org/6.1.1.rar |
 | 6.02 | https://public.simplyblk.xyz/6.02.rar | https://builds.rebootfn.org/6.02.rar |
@@ -153,12 +153,12 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 7
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 7.00 | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/7.00-CL-4629139.rar |
+| 7.00 | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 7.01 | Lost |
 | 7.10 | https://public.simplyblk.xyz/7.10.rar | https://builds.rebootfn.org/7.10.rar |
 | 7.20 | https://public.simplyblk.xyz/7.20.rar | https://builds.rebootfn.org/7.20.rar |
 | 7.30 | https://public.simplyblk.xyz/7.30.zip | https://builds.rebootfn.org/7.30.zip | https://galaxiafn.co.uk/7.30.zip |
-| 7.40 | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/7.40-CL-5046157.rar |
+| 7.40 | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 
 ## Season 8
 | Build | Download | Alternative Download | Alternative Download
@@ -167,7 +167,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 8.01 | Lost |
 | 8.10 | Lost |
 | 8.11 | Lost |
-| 8.20 | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/8.20.rar |
+| 8.20 | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 8.30 | https://public.simplyblk.xyz/8.30.rar | https://builds.rebootfn.org/8.30.rar |
 | 8.40 | https://public.simplyblk.xyz/8.40.zip | https://builds.rebootfn.org/8.40.zip |
 | 8.50 | https://public.simplyblk.xyz/8.50.zip | https://builds.rebootfn.org/8.50.zip | https://galaxiafn.co.uk/8.50.zip |
@@ -176,7 +176,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 9
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 9.00 | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/9.00.7z |
+| 9.00 | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 9.01 | https://public.simplyblk.xyz/9.01.zip | https://builds.rebootfn.org/9.01.zip |
 | 9.10 | https://public.simplyblk.xyz/9.10.rar | https://builds.rebootfn.org/9.10.rar | https://galaxiafn.co.uk/9.10.zip |
 | 9.20 | Unavailable |
@@ -188,7 +188,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 10
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 10.00 | https://public.simplyblk.xyz/10.00.zip | https://builds.rebootfn.org/10.00.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/10.00.7z |
+| 10.00 | https://public.simplyblk.xyz/10.00.zip | https://builds.rebootfn.org/10.00.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 10.10 | https://public.simplyblk.xyz/10.10.zip | https://builds.rebootfn.org/10.10.zip |
 | 10.20 | https://public.simplyblk.xyz/10.20.zip | https://builds.rebootfn.org/10.20.zip |
 | 10.20.1 | Lost |
@@ -201,13 +201,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 11.00 | https://public.simplyblk.xyz/11.00.zip | https://galaxiafn.co.uk/11.00.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/11.00.7z |
+| 11.00 | https://public.simplyblk.xyz/11.00.zip | https://galaxiafn.co.uk/11.00.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 11.01 | Unavailable |
 | 11.10 | https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view |
 | 11.11 | Unavailable |
 | 11.20 | Unavailable |
 | 11.21 | Unavailable |
-| 11.30 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/11.30.7z | https://drive.google.com/file/d/1QvpQkFZupxFym1T6s_RwGdBt2pVnWf8_/view |
+| 11.30 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | https://drive.google.com/file/d/1QvpQkFZupxFym1T6s_RwGdBt2pVnWf8_/view |
 | 11.31 | https://public.simplyblk.xyz/11.31.rar |
 | 11.40 | Unavailable |
 | 11.41 | Lost |
@@ -230,7 +230,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 13.00 | https://public.simplyblk.xyz/13.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/13.00.7z |
+| 13.00 | https://public.simplyblk.xyz/13.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 13.20 | Lost |
 | 13.30 | Unavailable |
 | 13.40 | https://public.simplyblk.xyz/13.40.zip |
@@ -238,13 +238,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 14
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 14.00 | https://public.simplyblk.xyz/14.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/14.00.7z |
+| 14.00 | https://public.simplyblk.xyz/14.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 14.10 | Lost |
 | 14.20 | Lost |
 | 14.30 | https://drive.google.com/file/d/117H8_xWOQKLuUNQ2Jm56UtK7ooFTzdMq/view |
 | 14.40 | https://public.simplyblk.xyz/14.40.rar |
 | 14.50 | Unavailable |
-| 14.60 | https://public.simplyblk.xyz/14.60.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/14.60-CL-14786821.rar |
+| 14.60 | https://public.simplyblk.xyz/14.60.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
@@ -265,7 +265,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
 | 16.40 | https://public.simplyblk.xyz/16.40.rar |
-| 16.50 | https://galaxiafn.co.uk/16.50.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/16.50-CL-16432754.7z | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
+| 16.50 | https://galaxiafn.co.uk/16.50.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
 
 ## Season 17
 | Build | Download | Alternative Download | Alternative Download
@@ -274,7 +274,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.10 | https://drive.google.com/file/d/1KQHMQX-2-douvRdtQ1cnhp_USJsSWALY/view |
 | 17.20 | Lost |
 | 17.21 | Lost |
-| 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/17.30-CL-17004569.7z | https://drive.google.com/file/d/1orQOWFVs95SfZK48NqXYEtTa1II4Dn46/view |
+| 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | https://drive.google.com/file/d/1orQOWFVs95SfZK48NqXYEtTa1II4Dn46/view |
 | 17.40 | https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view |
 | 17.50 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
 
@@ -286,15 +286,15 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 18.20 | https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view | https://fn-builds.net/S18 |
 | 18.21 | https://drive.google.com/file/d/1CiwxeQtWdf15laUo-Hrsldb7Jol8KRea/view | https://fn-builds.net/S18 |
 | 18.30 | https://drive.google.com/file/d/16I49gdBFBNV1frj5c0vf9IgLsFnToeKK/view | https://fn-builds.net/S18 |
-| 18.40 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/S18/18.40-CL-18163738.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/18.40-CL-18163738.zip |
+| 18.40 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/S18/18.40-CL-18163738.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 19.00 | Unavailable |
 | 19.01 | https://archive.org/compress/fortnite-19.01.7z |
-| 19.10 | https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/19.10.rar |
-| 19.20 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/19.20-CL-18775446.7z | (Page translation needed) https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
+| 19.10 | https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
+| 19.20 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | (Page translation needed) https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
 | 19.30 | Lost |
 | 19.40 | Unavailable |
 
@@ -305,7 +305,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 20.10 | https://drive.google.com/file/d/1jyz58FgapfWOfFOT9IbRmUxJYVrrXaMa/view |
 | 20.20 | https://drive.google.com/file/d/1-yQyE8fFlzJZ2BoBp5ayIjy2CRJF0vyc/view |
 | 20.30 | https://drive.google.com/file/d/17tDHJqRYka77G7NbokewWbOhHluxpOzK/view |
-| 20.40 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/20.40-CL-20244966.7z | https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view |
+| 20.40 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view |
 
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download

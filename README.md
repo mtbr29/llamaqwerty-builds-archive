@@ -216,16 +216,16 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 12.00 | https://public.simplyblk.xyz/12.00.rar | https://fn-builds.net/S12/12.00.rar |
+| 12.00 | https://public.simplyblk.xyz/12.00.rar | https://fn-builds.net/S12 |
 | 12.10 | https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view |
 | 12.20 | Unavailable |
 | 12.21 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view |
 | 12.30 | Unavailable |
 | 12.40 | Lost |
 | 12.41 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
-| 12.50 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://fn-builds.net/S12/12.50.7z |
+| 12.50 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://fn-builds.net/S12 |
 | 12.60 | Lost |
-| 12.61 | https://public.simplyblk.xyz/12.61.zip | https://public.privateuser.xyz/12.61.zip | https://fn-builds.net/S12/12.61.7z |
+| 12.61 | https://public.simplyblk.xyz/12.61.zip | https://public.privateuser.xyz/12.61.zip | https://fn-builds.net/S12 |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -281,11 +281,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.00 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.net/S18/18.00-CL-17468642.7z |
+| 18.00 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.net/S18 |
 | 18.10 | https://fn-builds.net/S18/18.10-CL-17661844.7z |
-| 18.20 | https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view | https://fn-builds.net/S18/18.20-CL-17792290.7z |
-| 18.21 | https://drive.google.com/file/d/1CiwxeQtWdf15laUo-Hrsldb7Jol8KRea/view | https://fn-builds.net/S18/18.21-CL-17811397.7z |
-| 18.30 | https://drive.google.com/file/d/16I49gdBFBNV1frj5c0vf9IgLsFnToeKK/view | https://fn-builds.net/S18/18.30-CL-17882303.7z |
+| 18.20 | https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view | https://fn-builds.net/S18 |
+| 18.21 | https://drive.google.com/file/d/1CiwxeQtWdf15laUo-Hrsldb7Jol8KRea/view | https://fn-builds.net/S18 |
+| 18.30 | https://drive.google.com/file/d/16I49gdBFBNV1frj5c0vf9IgLsFnToeKK/view | https://fn-builds.net/S18 |
 | 18.40 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/S18/18.40-CL-18163738.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/18.40-CL-18163738.zip |
 
 ## Season 19
@@ -312,129 +312,129 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 21.00 | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view | https://cdn.solarisfn.org/21.00.zip | https://drive.google.com/file/d/1Ra0RcUDEt0YGYVcFieeLf1QnYkiNfycA/view |
 | 21.10 | https://drive.google.com/file/d/1neQuCrdw47agga6i8SoN8OoyDmB79Vl5/view |
-| 21.20 | https://drive.google.com/file/d/1sxkvt72c6-G6Sxrc5lrY0JBxpWxzOCvw/view | https://fn-builds.net/S21/21.20-CL-21035704.7z |
-| 21.30 | https://fn-builds.net/S21/21.30-CL-21155462.7z |
-| 21.40 | https://fn-builds.net/S21/21.40-CL-21407327.7z |
+| 21.20 | https://drive.google.com/file/d/1sxkvt72c6-G6Sxrc5lrY0JBxpWxzOCvw/view | https://fn-builds.net/S21 |
+| 21.30 | https://fn-builds.net/S21 |
+| 21.40 | https://fn-builds.net/S21 |
 | 21.50 | https://drive.google.com/file/d/1ot2hO-Vj6bOYiZGNm44UBqW9_EOm7MqK/view |
-| 21.51 | https://fn-builds.net/S21/21.51-CL-21735703.7z |
+| 21.51 | https://fn-builds.net/S21 |
 
 ## Season 22
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 22.00 | https://fn-builds.net/S22/22.00-CL-22149829.zip |
-| 22.10 | https://fn-builds.net/S22/22.10-CL-22429549.zip |
-| 22.20 | https://fn-builds.net/S22/22.20-CL-22600409.zip |
+| 22.00 | https://fn-builds.net/S22 |
+| 22.10 | https://fn-builds.net/S22 |
+| 22.20 | https://fn-builds.net/S22 |
 | 22.30 | Unavailable |
-| 22.40 | https://fn-builds.net/S22/22.40-CL-23070899.zip |
+| 22.40 | https://fn-builds.net/S22 |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 23.00-CL-23344627 | https://fn-builds.net/S23/23.00-CL-23344627.zip |
+| 23.00-CL-23344627 | https://fn-builds.net/S23 |
 | 23.10-CL-23443094 | Status Pending |
-| 23.10-CL-23572221 | https://fn-builds.net/S23/23.10-CL-23572221.zip |
+| 23.10-CL-23572221 | https://fn-builds.net/S23 |
 | 23.20-CL-23659353 | Lost |
-| 23.20-CL-23783097 | https://fn-builds.net/S23/23.20-CL-23783097.zip |
+| 23.20-CL-23783097 | https://fn-builds.net/S23 |
 | 23.30-CL-23901854 | Lost |
 | 23.30-CL-23986860 | Lost |
-| 23.40-CL-24087481 | https://fn-builds.net/S23/23.40-CL-24087481.zip | (Somewhat available) https://gofile.io/d/e6hdZm |
+| 23.40-CL-24087481 | https://fn-builds.net/S23 |
 | 23.50-CL-24376996 | Status Pending |
 | 23.50-CL-24441668 | Status Pending |
 
 ## Season 24
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 24.00-CL-24554913 | https://fn-builds.net/S24/24.00-CL-24554913.zip |
-| 24.01-CL-24672685 | https://fn-builds.net/S24/24.01-CL-24672685.zip |
+| 24.00-CL-24554913 | https://fn-builds.net/S24 |
+| 24.01-CL-24672685 | https://fn-builds.net/S24 |
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | Unavailable, might be obtainable with manifest |
-| 24.10-CL-24903530 | https://fn-builds.net/S24/24.10-CL-24903530.zip | https://fn-builds.net/S24/24.10-CL-24903530-NoUEFN.zip |
+| 24.10-CL-24903530 | https://fn-builds.net/S24 |
 | 24.20-CL-24939793 | Status Pending |
 | 24.20-CL-25019967 | Status Pending |
 | 24.20-CL-25058254 | Status Pending |
-| 24.20-CL-25156858 | https://fn-builds.net/S24/24.20-CL-25156858.zip |
+| 24.20-CL-25156858 | https://fn-builds.net/S24 |
 | 24.30-CL-25210886 | Unavailable |
-| 24.30-CL-25347382 | https://fn-builds.net/S24/24.30-CL-25347382.zip |
+| 24.30-CL-25347382 | https://fn-builds.net/S24 |
 | 24.40-CL-25420516 | Unavailable |
-| 24.40-CL-25521145 | https://fn-builds.net/S24/24.40-CL-25521145.zip |
-| 24.40-CL-25595478 | https://fn-builds.net/S24/24.40-CL-25595478.zip |
+| 24.40-CL-25521145 | https://fn-builds.net/S24 |
+| 24.40-CL-25595478 | https://fn-builds.net/S24 |
 
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | Status Pending |
-| 25.00-CL-25909622 | https://fn-builds.net/S25/25.00-CL-25909622.7z |
-| 25.10-CL-260000959 | https://fn-builds.net/S25/25.10-CL-26000959.7z |
-| 25.11-CL-26171015 | https://fn-builds.net/S25/25.11-CL-26171015.7z |
-| 25.20-CL-26474516 | https://fn-builds.net/S25/25.20-CL-26474516.7z |
-| 25.20-CL-26629111 | https://fn-builds.net/S25/25.20-CL-26629111.7z |
-| 25.30-CL-26867995 | https://fn-builds.net/S25/25.30-CL-26867995.7z |
+| 25.00-CL-25909622 | https://fn-builds.net/S25 |
+| 25.10-CL-26000959 | https://fn-builds.net/S25 |
+| 25.11-CL-26171015 | https://fn-builds.net/S25 |
+| 25.20-CL-26474516 | https://fn-builds.net/S25 |
+| 25.20-CL-26629111 | https://fn-builds.net/S25 |
+| 25.30-CL-26867995 | https://fn-builds.net/S25 |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 26.00-CL-27233190 | https://fn-builds.net/S26/26.00-CL-27233190.zip |
-| 26.00-CL-27424790 | https://fn-builds.net/S26/26.00-CL-27424790.7z |
-| 26.10-CL-27681420 | https://fn-builds.net/S26/26.10-CL-27681420.7z |
-| 26.20-CL-28096793 | https://fn-builds.net/S26/26.20-CL-28096793.7z | https://gofile.io/d/MPwIvf |
+| 26.00-CL-27233190 | https://fn-builds.net/S26 |
+| 26.00-CL-27424790 | https://fn-builds.net/S26 |
+| 26.10-CL-27681420 | https://fn-builds.net/S26 |
+| 26.20-CL-28096793 | https://fn-builds.net/S26 | https://gofile.io/d/MPwIvf |
 | 26.30 (CL is not checked) | https://drive.google.com/file/d/1XS1nOnOkTvBnSsSV_RGSXIn3UCg_GJwW/view |
 | 26.30-CL-28509302 | Unavailable |
-| 26.30-CL-28688692 | https://fn-builds.net/S26/26.30-CL-28688692.7z |
+| 26.30-CL-28688692 | https://fn-builds.net/S26 |
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00-CL-29072304 | https://fn-builds.net/S27/27.00-CL-29072304.7z |
-| 27.10-CL-29552510 | https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view | https://fn-builds.net/S27/27.10-CL-29552510.7z |
-| 27.11-CL-29739262 | https://fn-builds.net/S27/27.11-CL-29739262.7z | https://gofile.io/d/cBUDZ9 |
+| 27.00-CL-29072304 | https://fn-builds.net/S27 |
+| 27.10-CL-29552510 | https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view | https://fn-builds.net/S27 |
+| 27.11-CL-29739262 | https://fn-builds.net/S27 | https://gofile.io/d/cBUDZ9 |
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 28.00-CL-29915848 | https://fn-builds.net/S28/28.00-CL-29915848.7z |
-| 28.01-CL-30106568 | https://fn-builds.net/S28/28.01-CL-30106568.7z |
-| 28.01-CL-30313795 | https://fn-builds.net/S28/28.01-CL-30313795(28.01.01).7z |
-| 28.10-CL-30676362 | https://fn-builds.net/S28/28.10-CL-30676362.7z |
+| 28.00-CL-29915848 | https://fn-builds.net/S28 |
+| 28.01-CL-30106568 | https://fn-builds.net/S28 |
+| 28.01-CL-30313795 | https://fn-builds.net/S28 |
+| 28.10-CL-30676362 | https://fn-builds.net/S28 |
 | 28.10-CL-30835064 | Status Pending |
 | 28.20-CL-31165234 | Unavailable |
-| 28.20-CL-31286935 | https://fn-builds.net/S28/28.20-CL-31286935.7z | https://gofile.io/d/AFyKBP |
-| 28.30-CL-31511038 | https://fn-builds.net/S28/28.30-CL-31511038.7z |
+| 28.20-CL-31286935 | https://fn-builds.net/S28 | https://gofile.io/d/AFyKBP |
+| 28.30-CL-31511038 | https://fn-builds.net/S28 |
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 29.00-CL-31978752 | https://gofile.io/d/un70Ro |
-| 29.00-CL-32116959 | https://fn-builds.net/S29/29.00-CL-32116959.7z |
-| 29.01-CL-32291970 | https://fn-builds.net/S29/29.01-CL-32291970.7z |
-| 29.10-CL-32391220 | https://fn-builds.net/S29/29.10-CL-32391220.7z |
-| 29.10-CL-32567225 | https://fn-builds.net/S29/29.10-CL-32567225.7z |
-| 29.20-CL-32716692 | https://fn-builds.net/S29/29.20-CL-32716692.7z |
-| 29.30-CL-32982357 | https://fn-builds.net/S29/29.30-CL-32982357.7z |
+| 29.00-CL-32116959 | https://fn-builds.net/S29 |
+| 29.01-CL-32291970 | https://fn-builds.net/S29 |
+| 29.10-CL-32391220 | https://fn-builds.net/S29 |
+| 29.10-CL-32567225 | https://fn-builds.net/S29 |
+| 29.20-CL-32716692 | https://fn-builds.net/S29 |
+| 29.30-CL-32982357 | https://fn-builds.net/S29 |
 | 29.40-CL-33291686 | Status Pending |
 | 29.40-CL-33502036 | Status Pending |
-| 29.40-CL-33629566 | https://fn-builds.net/S29/29.40-CL-33629566.7z | https://www.swisstransfer.com/d/a9e20060-5ef4-44bb-8136-764cfaaf5831 |
+| 29.40-CL-33629566 | https://fn-builds.net/S29 | https://www.swisstransfer.com/d/a9e20060-5ef4-44bb-8136-764cfaaf5831 |
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 30.00-CL-33760522 | Unavailable |
-| 30.00-CL-33962396 | https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view | https://fn-builds.net/S30/30.00-CL-33962396.7z |
+| 30.00-CL-33962396 | https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view | https://fn-builds.net/S30 |
 | 30.10-CL-34184790 | Status Pending |
-| 30.10-CL-34261954 | https://fn-builds.net/S30/30.10-CL-34261954.7z |
+| 30.10-CL-34261954 | https://fn-builds.net/S30 |
 | 30.10-CL-34399867 | Status Pending |
 | 30.20-CL-34488544 | Status Pending |
-| 30.20-CL-34597766 | https://fn-builds.net/S30/30.20-CL-34597766.7z |
-| 30.30-CL-34891016 | https://fn-builds.net/S30/30.30-CL-34891016.7z |
+| 30.20-CL-34597766 | https://fn-builds.net/S30 |
+| 30.30-CL-34891016 | https://fn-builds.net/S30 |
 | 30.40-CL-35235494 | Unavailable |
 
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.00-CL-35447195 | https://fn-builds.net/S31/31.00-CL-35447195.7z | https://gofile.io/d/WTrPy2 |
-| 31.10-CL-35815136 | https://fn-builds.net/S31/31.10-CL-35815136.7z |
+| 31.00-CL-35447195 | https://fn-builds.net/S31 | https://gofile.io/d/WTrPy2 |
+| 31.10-CL-35815136 | https://fn-builds.net/S31 |
 | 31.20-CL-36253989 | Unavailable |
 | 31.20-CL-36348034 | Unavailable |
-| 31.30-CL-36600465 | https://fn-builds.net/S31/31.30-CL-36600465.7z |
+| 31.30-CL-36600465 | https://fn-builds.net/S31 |
 | 31.40-CL-36874825 | Unavailable |
 | 31.40-CL-37076506 | Unavailable |
 | 31.41-CL-37324991 | Unavailable |
@@ -442,10 +442,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 32.00-CL-37505882 | https://fn-builds.net/S32/32.00-CL-37505882.7z |
+| 32.00-CL-37505882 | https://fn-builds.net/S32 |
 | 32.00-CL-37770125 | Unavailable |
 | 32.10-CL-37958378 | Unavailable |
-| 32.11-CL-38202817 | https://fn-builds.net/S32/32.11-CL-38202817.7z |
+| 32.11-CL-38202817 | https://fn-builds.net/S32 |
 | 32.11-CL-38371047 | Unavailable |
 
 ## Season 33
@@ -453,11 +453,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 33.00-CL-38324112 | Unavailable |
 | 33.00-CL-38504598 | Unavailable |
-| 33.10-CL-38630093 | https://fn-builds.net/S33/33.10-CL-38630093.7z |
-| 33.11-CL-38773622 | https://fn-builds.net/S33/33.11-CL-38773622.7z |
-| 33.20-CL-39082670 | https://fn-builds.net/S33/33.20-CL-39082670.7z |
+| 33.10-CL-38630093 | https://fn-builds.net/S33 |
+| 33.11-CL-38773622 | https://fn-builds.net/S33 |
+| 33.20-CL-39082670 | https://fn-builds.net/S33 |
 | 33.20-CL-39277041 | Unavailable |
-| 33.30-CL-39435251 | https://fn-builds.net/S33/33.30-CL-39435251.7z |
+| 33.30-CL-39435251 | https://fn-builds.net/S33 |
 | 33.30-CL-39768313 | Status Pending |
 
 ## Season 34
@@ -472,8 +472,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 # Small Contributors
 
 [Anonymous](https://fn-builds.net/Fn-builds-Gigafile.html): 19.20
-
-[sideleek03588](https://www.youtube.com/channel/UCX0XV_fTQ4FY-Ro1fef-ytQ): 23.40 (Somewhat available)
 
 [AeptaX](https://www.twitch.tv/aeptax): 26.20-CL-28096793
 

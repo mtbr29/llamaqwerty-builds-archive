@@ -145,7 +145,7 @@ Many download links from [fn-builds.net](https://fn-builds.net) have been malfun
 | 6.10.1 | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar |
 | 6.10.2 | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar |
 | 6.20 | Unavailable | 
-| 6.21 | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar |
+| 6.21 | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar | https://galaxiafn.co.uk/6.21.zip |
 | 6.22 | https://public.simplyblk.xyz/6.22.rar | https://builds.rebootfn.org/6.22.rar |
 | 6.30 | https://public.simplyblk.xyz/6.30.rar | https://builds.rebootfn.org/6.30.rar |
 | 6.31 | https://public.simplyblk.xyz/6.31.rar | https://builds.rebootfn.org/6.31.rar |
@@ -158,7 +158,7 @@ Many download links from [fn-builds.net](https://fn-builds.net) have been malfun
 | 7.10 | https://public.simplyblk.xyz/7.10.rar | https://builds.rebootfn.org/7.10.rar |
 | 7.20 | https://public.simplyblk.xyz/7.20.rar | https://builds.rebootfn.org/7.20.rar |
 | 7.30 | https://public.simplyblk.xyz/7.30.zip | https://builds.rebootfn.org/7.30.zip | https://galaxiafn.co.uk/7.30.zip |
-| 7.40 | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
+| 7.40 | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://galaxiafn.co.uk/7.40.zip |
 
 ## Season 8
 | Build | Download | Alternative Download | Alternative Download
@@ -183,7 +183,7 @@ Many download links from [fn-builds.net](https://fn-builds.net) have been malfun
 | 9.21 | https://public.simplyblk.xyz/9.21.zip | https://builds.rebootfn.org/9.21.zip |
 | 9.30 | https://public.simplyblk.xyz/9.30.zip | https://builds.rebootfn.org/9.30.zip |
 | 9.40 | https://public.simplyblk.xyz/9.40.zip | https://builds.rebootfn.org/9.40.zip |
-| 9.41 | https://public.simplyblk.xyz/9.41.rar | https://builds.rebootfn.org/9.41.rar |
+| 9.41 | https://public.simplyblk.xyz/9.41.rar | https://builds.rebootfn.org/9.41.rar | https://galaxiafn.co.uk/9.41.zip |
 
 ## Season 10
 | Build | Download | Alternative Download | Alternative Download

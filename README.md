@@ -129,7 +129,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 5.10 | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar |
 | 5.20 | Lost |
 | 5.21 | https://public.simplyblk.xyz/5.21.rar | https://builds.rebootfn.org/5.21.rar |
-| 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar | https://drive.google.com/file/d/1F31c6vX2p_oQMpwItDWk1PDMaaoknWSG/view |
+| 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar |
 | 5.40 | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar |
 | 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip |
 
@@ -250,7 +250,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 15.00 | https://drive.google.com/file/d/1iiZdgbc42_o_d3vE2aIHDIT7LzxXJaKB/view |
-| 15.10 | https://drive.google.com/file/d/109syBfdyO9H4Yw0TvnPLtqDRn0AYIhQH/view |
+| 15.10 | Unavailable |
 | 15.20 | Lost |
 | 15.21 | Lost |
 | 15.30 | https://public.simplyblk.xyz/15.30.rar |
@@ -274,18 +274,18 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.10 | https://drive.google.com/file/d/1KQHMQX-2-douvRdtQ1cnhp_USJsSWALY/view |
 | 17.20 | Lost |
 | 17.21 | Lost |
-| 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | https://drive.google.com/file/d/1orQOWFVs95SfZK48NqXYEtTa1II4Dn46/view |
-| 17.40 | https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view |
+| 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
+| 17.40 | Unavailable |
 | 17.50 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
 
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 18.00 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.net/S18 |
-| 18.10 | https://fn-builds.net/S18/18.10-CL-17661844.7z |
-| 18.20 | https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view | https://fn-builds.net/S18 |
-| 18.21 | https://drive.google.com/file/d/1CiwxeQtWdf15laUo-Hrsldb7Jol8KRea/view | https://fn-builds.net/S18 |
-| 18.30 | https://drive.google.com/file/d/16I49gdBFBNV1frj5c0vf9IgLsFnToeKK/view | https://fn-builds.net/S18 |
+| 18.10 | https://fn-builds.net/S18 |
+| 18.20 | https://fn-builds.net/S18 |
+| 18.21 | https://fn-builds.net/S18 |
+| 18.30 | https://fn-builds.net/S18 |
 | 18.40 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/S18/18.40-CL-18163738.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 
 ## Season 19
@@ -301,21 +301,21 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 20
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 20.00 | https://drive.google.com/file/d/14JuzmFPncrw02pU1CAOhYMlr5A_R0RrV/view |
-| 20.10 | https://drive.google.com/file/d/1jyz58FgapfWOfFOT9IbRmUxJYVrrXaMa/view |
-| 20.20 | https://drive.google.com/file/d/1-yQyE8fFlzJZ2BoBp5ayIjy2CRJF0vyc/view |
-| 20.30 | https://drive.google.com/file/d/17tDHJqRYka77G7NbokewWbOhHluxpOzK/view |
-| 20.40 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | https://drive.google.com/file/d/1FUs0iOGbKV6KTQCDJbnDDXiZzw-3WzGm/view |
+| 20.00 | Unavailable |
+| 20.10 | Unavailable |
+| 20.20 | Unavailable |
+| 20.30 | Unavailable |
+| 20.40 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 21.00 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view | https://cdn.solarisfn.org/21.00.zip |
-| 21.10 | https://drive.google.com/file/d/1neQuCrdw47agga6i8SoN8OoyDmB79Vl5/view |
-| 21.20 | https://drive.google.com/file/d/1sxkvt72c6-G6Sxrc5lrY0JBxpWxzOCvw/view | https://fn-builds.net/S21 |
+| 21.10 | Unavailable |
+| 21.20 | https://fn-builds.net/S21 |
 | 21.30 | https://fn-builds.net/S21 |
 | 21.40 | https://fn-builds.net/S21 |
-| 21.50 | https://drive.google.com/file/d/1ot2hO-Vj6bOYiZGNm44UBqW9_EOm7MqK/view |
+| 21.50 | Unavailable |
 | 21.51 | https://fn-builds.net/S21 |
 
 ## Season 22
@@ -377,7 +377,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 26.00-CL-27424790 | https://fn-builds.net/S26 |
 | 26.10-CL-27681420 | https://fn-builds.net/S26 |
 | 26.20-CL-28096793 | https://fn-builds.net/S26 | https://gofile.io/d/MPwIvf |
-| 26.30 (CL is not checked) | https://drive.google.com/file/d/1XS1nOnOkTvBnSsSV_RGSXIn3UCg_GJwW/view |
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
 | 26.30-CL-28688692 | https://fn-builds.net/S26 |
 
@@ -385,7 +384,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 27.00-CL-29072304 | https://fn-builds.net/S27 |
-| 27.10-CL-29552510 | https://drive.google.com/file/d/1-JSxLpqTwn-LWMgWhWiW-AU48p-DHrut/view | https://fn-builds.net/S27 |
+| 27.10-CL-29552510 | https://fn-builds.net/S27 |
 | 27.11-CL-29739262 | https://fn-builds.net/S27 | https://gofile.io/d/cBUDZ9 |
 
 ## Season 28
@@ -418,7 +417,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 30.00-CL-33760522 | Unavailable |
-| 30.00-CL-33962396 | https://drive.google.com/file/d/1E0rLStfQrjHyJLQc_h9MRo_M6ZlZOUC_/view | https://fn-builds.net/S30 |
+| 30.00-CL-33962396 | https://fn-builds.net/S30 |
 | 30.10-CL-34184790 | Status Pending |
 | 30.10-CL-34261954 | https://fn-builds.net/S30 |
 | 30.10-CL-34399867 | Status Pending |
@@ -467,7 +466,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40398515 | Status Pending |
 | 34.00-CL-40446427 | Status Pending |
-| 34.10-CL-40567068 | Current, Only Manifest Obtainable |
+| 34.10-CL-40567068 | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |
 
 # Small Contributors
 

@@ -37,8 +37,6 @@ I am not the owner of any of these builds and am not resposible for any of the d
 
 If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY&ab_channel=Soggs)
 
-Many download links from [fn-builds.net](https://fn-builds.net) have been malfunctioning, I am aware and are contacting the host. I am hoping to resolve the issue soon!
-
 ## Alpha
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|

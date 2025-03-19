@@ -378,7 +378,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 26.10-CL-27681420 | https://fn-builds.net/S26 |
 | 26.20-CL-28096793 | https://fn-builds.net/S26 | https://gofile.io/d/MPwIvf |
 | 26.30 (CL is not checked) | https://drive.google.com/file/d/1XS1nOnOkTvBnSsSV_RGSXIn3UCg_GJwW/view |
-| 26.30-CL-28509302 | Unavailable |
+| 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
 | 26.30-CL-28688692 | https://fn-builds.net/S26 |
 
 ## Season 27

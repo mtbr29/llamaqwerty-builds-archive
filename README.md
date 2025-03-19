@@ -292,7 +292,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 19.00 | Unavailable |
-| 19.01 | https://archive.org/compress/fortnite-19.01.7z |
+| 19.01 | https://r2.ploosh.dev/19.01.zip | https://archive.org/compress/fortnite-19.01.7z |
 | 19.10 | https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 19.20 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | (Page translation needed) https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
 | 19.30 | Lost |
@@ -310,7 +310,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 21.00 | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view | https://cdn.solarisfn.org/21.00.zip | https://drive.google.com/file/d/1Ra0RcUDEt0YGYVcFieeLf1QnYkiNfycA/view |
+| 21.00 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view | https://cdn.solarisfn.org/21.00.zip |
 | 21.10 | https://drive.google.com/file/d/1neQuCrdw47agga6i8SoN8OoyDmB79Vl5/view |
 | 21.20 | https://drive.google.com/file/d/1sxkvt72c6-G6Sxrc5lrY0JBxpWxzOCvw/view | https://fn-builds.net/S21 |
 | 21.30 | https://fn-builds.net/S21 |

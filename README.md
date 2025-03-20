@@ -2,6 +2,8 @@ Welcome to the largest up-to-date Fortnite build archive.
 
 A build collection like no other.
 
+IMPORTANT INFO: Recently I just created a discord bot that can give out fortnite build links privately without them getting taken down!
+
 # Credits
 Thank you to the following archivists for maintaining most of the builds
 

@@ -115,7 +115,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 4.00 | https://public.simplyblk.xyz/4.0.zip | https://builds.rebootfn.org/4.0.zip |
-| 4.10 | https://gofile.io/d/PNuLSQ |
+| 4.10 | https://gofile.io/d/PNuLSQ | https://gofile.io/d/WAM4KE |
 | 4.20 | https://public.simplyblk.xyz/4.2.zip | https://builds.rebootfn.org/4.2.zip | https://galaxiafn.co.uk/4.2.zip |
 | 4.30 | Lost |
 | 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar |
@@ -433,6 +433,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 31.00-CL-35447195 | https://fn-builds.net/S31 | https://gofile.io/d/WTrPy2 |
 | 31.10-CL-35815136 | https://fn-builds.net/S31 |
+| 31.20 with unknown CL | https://gofile.io/d/Xx3LUL |
 | 31.20-CL-36253989 | Unavailable |
 | 31.20-CL-36348034 | Unavailable |
 | 31.30-CL-36600465 | https://fn-builds.net/S31 |

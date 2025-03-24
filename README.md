@@ -283,11 +283,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.00 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.net/S18 |
-| 18.10 | https://fn-builds.net/S18 |
-| 18.20 | https://fn-builds.net/S18 |
-| 18.21 | https://fn-builds.net/S18 |
-| 18.30 | https://fn-builds.net/S18 |
+| 18.00 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja |
+| 18.10 | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja |
+| 18.20 | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja |
+| 18.21 | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja |
+| 18.30 | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja |
 | 18.40 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/S18/18.40-CL-18163738.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 
 ## Season 19
@@ -314,34 +314,34 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 21.00 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view | https://cdn.solarisfn.org/21.00.zip |
 | 21.10 | Unavailable |
-| 21.20 | https://fn-builds.net/S21 |
+| 21.20 | https://fn-builds.net/S21 | https://gofile.io/d/slTmyk |
 | 21.30 | https://fn-builds.net/S21 |
 | 21.40 | https://fn-builds.net/S21 |
 | 21.50 | Unavailable |
-| 21.51 | https://fn-builds.net/S21 |
+| 21.51 | https://fn-builds.net/S21 | https://gofile.io/d/slTmyk |
 
 ## Season 22
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 22.00 | https://fn-builds.net/S22 |
-| 22.10 | https://fn-builds.net/S22 |
+| 22.00 | https://fn-builds.net/S22 | https://gofile.io/d/zVvQtz |
+| 22.10 | https://fn-builds.net/S22 | https://gofile.io/d/zVvQtz
 | 22.20 | https://fn-builds.net/S22 |
 | 22.30 | Unavailable |
-| 22.40 | https://fn-builds.net/S22 |
+| 22.40 | https://fn-builds.net/S22 | https://gofile.io/d/zVvQtz |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 23.00-CL-23344627 | https://fn-builds.net/S23 |
+| 23.00-CL-23344627 | https://fn-builds.net/S23 | https://gofile.io/d/O0XivD |
 | 23.10-CL-23443094 | Lost |
-| 23.10-CL-23572221 | https://fn-builds.net/S23 |
+| 23.10-CL-23572221 | https://fn-builds.net/S23 | https://gofile.io/d/O0XivD |
 | 23.20-CL-23659353 | Lost |
 | 23.20-CL-23783097 | https://fn-builds.net/S23 |
 | 23.30-CL-23901854 | Lost |
 | 23.30-CL-23986860 | Lost |
-| 23.40-CL-24087481 | https://fn-builds.net/S23 |
+| 23.40-CL-24087481 | https://fn-builds.net/S23 | https://gofile.io/d/O0XivD |
 | 23.50-CL-24376996 | Lost |
-| 23.50-CL-24441668 | Lost |
+| 23.50-CL-24441668 | https://gofile.io/d/O0XivD |
 
 ## Season 24
 | Build | Download | Alternative Download | Alternative Download
@@ -365,29 +365,29 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | Lost |
-| 25.00-CL-25909622 | https://fn-builds.net/S25 |
-| 25.10-CL-26000959 | https://fn-builds.net/S25 |
-| 25.11-CL-26171015 | https://fn-builds.net/S25 |
-| 25.20-CL-26474516 | https://fn-builds.net/S25 |
-| 25.20-CL-26629111 | https://fn-builds.net/S25 |
-| 25.30-CL-26867995 | https://fn-builds.net/S25 |
+| 25.00-CL-25909622 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
+| 25.10-CL-26000959 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
+| 25.11-CL-26171015 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
+| 25.20-CL-26474516 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
+| 25.20-CL-26629111 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
+| 25.30-CL-26867995 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 26.00-CL-27233190 | https://fn-builds.net/S26 |
-| 26.00-CL-27424790 | https://fn-builds.net/S26 |
-| 26.10-CL-27681420 | https://fn-builds.net/S26 |
+| 26.00-CL-27233190 | https://fn-builds.net/S26 | https://gofile.io/d/WM6b8V |
+| 26.00-CL-27424790 | https://fn-builds.net/S26 | https://gofile.io/d/WM6b8V |
+| 26.10-CL-27681420 | https://fn-builds.net/S26 | https://gofile.io/d/WM6b8V |
 | 26.20-CL-28096793 | https://fn-builds.net/S26 | https://gofile.io/d/MPwIvf |
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
-| 26.30-CL-28688692 | https://fn-builds.net/S26 |
+| 26.30-CL-28688692 | https://fn-builds.net/S26 | https://gofile.io/d/WM6b8V |
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00-CL-29072304 | https://fn-builds.net/S27 |
-| 27.10-CL-29552510 | https://fn-builds.net/S27 |
-| 27.11-CL-29739262 | https://fn-builds.net/S27 | https://gofile.io/d/cBUDZ9 |
+| 27.00-CL-29072304 | https://fn-builds.net/S27 | https://gofile.io/d/U1fRO1 |
+| 27.10-CL-29552510 | https://fn-builds.net/S27 | https://gofile.io/d/U1fRO1 |
+| 27.11-CL-29739262 | https://fn-builds.net/S27 | https://gofile.io/d/cBUDZ9 | https://gofile.io/d/U1fRO1 |
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download

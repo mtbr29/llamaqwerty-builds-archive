@@ -121,7 +121,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar |
 | 4.41 | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
 | 4.4X | Lost |
-| 4.50 | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar |
+| 4.50 | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar | https://public-build-archives-bucket.fluxapp.dev/4.5.zip |
 
 ## Season 5
 | Build | Download | Alternative Download | Alternative Download

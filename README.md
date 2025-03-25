@@ -364,7 +364,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 25.00-CL-25784668 | Lost |
+| 25.00-CL-25784668 | Unavailable |
 | 25.00-CL-25909622 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
 | 25.10-CL-26000959 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |
 | 25.11-CL-26171015 | https://fn-builds.net/S25 | https://gofile.io/d/dhRnNF |

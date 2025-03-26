@@ -131,7 +131,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 5.00 | https://public.simplyblk.xyz/5.00.rar | https://builds.rebootfn.org/5.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96/5.00.rar |
-| 5.01 | https://public.simplyblk.xyz/5.0.1.rar | https://builds.rebootfn.org/5.0.1.rar |
+| 5.00.1 | https://public.simplyblk.xyz/5.0.1.rar | https://builds.rebootfn.org/5.0.1.rar |
 | 5.10 | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar |
 | 5.20 | Lost |
 | 5.21 | https://public.simplyblk.xyz/5.21.rar | https://builds.rebootfn.org/5.21.rar |

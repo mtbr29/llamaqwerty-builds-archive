@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-Want an even more accurate archive with even more links? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/t54fn0zh8oxm96hw8ec8o/Fortnite-Builds-Text-Archive-1.00.txt?rlkey=phncr9lclbnd2xz6m9k0vxml9&e=1&st=oohc9b5d&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH MORE THE MOST WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/cc33f35wz0gxic90hwi4m/Fortnite-Builds-Text-Archive-2.00.txt?rlkey=md96p1cmhwgvvj05umzzo1eou&e=1&st=6ddejsp7&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds

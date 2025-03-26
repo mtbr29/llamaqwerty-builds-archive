@@ -97,8 +97,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 2.3.1 | Lost |
 | 2.3.2 | Lost |
 | 2.4.0 | https://public.simplyblk.xyz/2.4.0.zip | https://builds.rebootfn.org/2.4.0.zip | https://galaxiafn.co.uk/2.4.0.zip |
-| 2.4.1 | https://public.simplyblk.xyz/2.4.2.zip | https://builds.rebootfn.org/2.4.2.zip |
-| 2.4.2 | Lost |
+| 2.4.2 | https://public.simplyblk.xyz/2.4.2.zip | https://builds.rebootfn.org/2.4.2.zip |
 | 2.4.X | Lost |
 | 2.5.0 | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar |
 
@@ -107,10 +106,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 3.00 | https://public.simplyblk.xyz/3.0.zip | https://builds.rebootfn.org/3.0.zip | https://galaxiafn.co.uk/3.0.zip |
 | 3.10 | https://public.simplyblk.xyz/3.1.rar | https://builds.rebootfn.org/3.1.rar |
-| 3.11 | https://public.simplyblk.xyz/3.1.1.zip | https://builds.rebootfn.org/3.1.1.zip |
+| 3.10.1 | https://public.simplyblk.xyz/3.1.1.zip | https://builds.rebootfn.org/3.1.1.zip |
 | 3.20 | https://public.simplyblk.xyz/3.2.zip | https://builds.rebootfn.org/3.2.zip |
 | 3.30 | https://public.simplyblk.xyz/3.3.rar | https://builds.rebootfn.org/3.3.rar |
-| 3.31 | Lost |
 | 3.40 | Lost |
 | 3.50 | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://galaxiafn.co.uk/3.5.zip |
 | 3.60 | https://public.simplyblk.xyz/3.6.zip | https://builds.rebootfn.org/3.6.zip |
@@ -123,7 +121,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 4.20 | https://public.simplyblk.xyz/4.2.zip | https://builds.rebootfn.org/4.2.zip | https://galaxiafn.co.uk/4.2.zip |
 | 4.30 | Lost |
 | 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar |
-| 4.41 | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
+| 4.40.1 | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
 | 4.4X | Lost |
 | 4.50 | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar | https://public-build-archives-bucket.fluxapp.dev/4.5.zip |
 

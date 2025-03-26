@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-Want even more links? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/t54fn0zh8oxm96hw8ec8o/Fortnite-Builds-Text-Archive-1.00.txt?rlkey=phncr9lclbnd2xz6m9k0vxml9&st=rb8cqdfx&dl=0)
+Want an even more accurate archive with even more links? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/t54fn0zh8oxm96hw8ec8o/Fortnite-Builds-Text-Archive-1.00.txt?rlkey=phncr9lclbnd2xz6m9k0vxml9&e=1&st=oohc9b5d&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -94,7 +94,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 2.1.0 | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip |
 | 2.2.0 | https://public.simplyblk.xyz/2.2.0.rar | https://builds.rebootfn.org/2.2.0.rar |
 | 2.3.0 | https://public.simplyblk.xyz/2.3.rar | https://builds.rebootfn.org/2.3.rar |
-| 2.3.1 | Lost |
 | 2.3.2 | Lost |
 | 2.4.0 | https://public.simplyblk.xyz/2.4.0.zip | https://builds.rebootfn.org/2.4.0.zip | https://galaxiafn.co.uk/2.4.0.zip |
 | 2.4.2 | https://public.simplyblk.xyz/2.4.2.zip | https://builds.rebootfn.org/2.4.2.zip |
@@ -214,7 +213,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 11.30 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 11.31 | https://public.simplyblk.xyz/11.31.rar |
 | 11.40 | Unavailable |
-| 11.41 | Lost |
 | 11.50 | Unavailable |
 
 ## Season 12

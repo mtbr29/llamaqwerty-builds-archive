@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH MORE THE MOST WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/cc33f35wz0gxic90hwi4m/Fortnite-Builds-Text-Archive-2.00.txt?rlkey=md96p1cmhwgvvj05umzzo1eou&e=1&st=6ddejsp7&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH MORE THE MOST WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/3d8lhfmpc0dka0a1nkgsc/Fortnite-Builds-Text-Archive-2.10.txt?rlkey=fpaw383jfb2auzhclifiikjt0&st=gqsi6xg5&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -26,6 +26,8 @@ Thank you to the following archivists for maintaining most of the builds
 [0729たいがー](https://fn-builds.net)
 
 [notsamicc](https://github.com/notsamicc)
+
+[Me](https://github.com/llamaqwerty)
 
 and to all the people who archived any links in Wayback Machine
 
@@ -55,7 +57,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| Cert | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
+| Cert | https://gofile.io/d/u0hnwT | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
 | 1.2.0 | Unavailable |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
@@ -84,28 +86,28 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 1.8.1 | https://public.simplyblk.xyz/1.8.1.rar | https://builds.rebootfn.org/1.8.1.rar | https://archive.org/download/fortnite-release-1.8.1-cl-3729133/%2B%2BFortnite%2BRelease-1.8.1-CL-3729133.rar |
 | 1.8.2 | https://public.simplyblk.xyz/1.8.2.rar | https://builds.rebootfn.org/1.8.2.rar | https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar |
 | 1.9.0 | https://public.simplyblk.xyz/1.9.rar | https://builds.rebootfn.org/1.9.rar |
-| 1.9.1 | https://public.simplyblk.xyz/1.9.1.rar | https://builds.rebootfn.org/1.9.1.rar |
-| 1.10.0 | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar |
+| 1.9.1 | https://public.simplyblk.xyz/1.9.1.rar | https://builds.rebootfn.org/1.9.1.rar | https://gofile.io/d/YPDmgK |
+| 1.10.0 | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar | https://gofile.io/d/DDfdzD |
 
 ## Season 2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 1.11.0 | https://public.simplyblk.xyz/1.11.zip | https://builds.rebootfn.org/1.11.zip | https://galaxiafn.co.uk/1.11.zip |
-| 2.1.0 | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip |
+| 2.1.0 | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip | https://gofile.io/d/y5PUjT |
 | 2.2.0 | https://public.simplyblk.xyz/2.2.0.rar | https://builds.rebootfn.org/2.2.0.rar |
 | 2.3.0 | https://public.simplyblk.xyz/2.3.rar | https://builds.rebootfn.org/2.3.rar |
 | 2.3.2 | Lost |
 | 2.4.0 | https://public.simplyblk.xyz/2.4.0.zip | https://builds.rebootfn.org/2.4.0.zip | https://galaxiafn.co.uk/2.4.0.zip |
 | 2.4.2 | https://public.simplyblk.xyz/2.4.2.zip | https://builds.rebootfn.org/2.4.2.zip |
 | 2.4.X | Lost |
-| 2.5.0 | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar |
+| 2.5.0 | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar | https://gofile.io/d/XicaJY |
 
 ## Season 3
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 3.00 | https://public.simplyblk.xyz/3.0.zip | https://builds.rebootfn.org/3.0.zip | https://galaxiafn.co.uk/3.0.zip |
 | 3.10 | https://public.simplyblk.xyz/3.1.rar | https://builds.rebootfn.org/3.1.rar |
-| 3.10.1 | https://public.simplyblk.xyz/3.1.1.zip | https://builds.rebootfn.org/3.1.1.zip |
+| 3.10.1 | https://public.simplyblk.xyz/3.1.1.zip | https://builds.rebootfn.org/3.1.1.zip | https://gofile.io/d/pOsmKt |
 | 3.20 | https://public.simplyblk.xyz/3.2.zip | https://builds.rebootfn.org/3.2.zip |
 | 3.30 | https://public.simplyblk.xyz/3.3.rar | https://builds.rebootfn.org/3.3.rar |
 | 3.40 | Lost |
@@ -120,7 +122,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 4.20 | https://public.simplyblk.xyz/4.2.zip | https://builds.rebootfn.org/4.2.zip | https://galaxiafn.co.uk/4.2.zip |
 | 4.30 | Lost |
 | 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar |
-| 4.40.1 | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
+| 4.40.1 | https://gofile.io/d/ftCVBl | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
 | 4.4X | Lost |
 | 4.50 | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar | https://public-build-archives-bucket.fluxapp.dev/4.5.zip |
 
@@ -132,9 +134,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 5.10 | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar |
 | 5.20 | Lost |
 | 5.21 | https://public.simplyblk.xyz/5.21.rar | https://builds.rebootfn.org/5.21.rar |
-| 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar |
+| 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar | https://gofile.io/d/hejfIq |
 | 5.40 | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar |
-| 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip |
+| 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip | https://gofile.io/d/jR3Tqy |
 
 ## Season 6
 | Build | Download | Alternative Download | Alternative Download
@@ -473,8 +475,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.20-CL-40965447 | Current |
 
 # Small Contributors
-
-[Me](https://github.com/llamaqwerty): 4.10
 
 [Anonymous](https://fn-builds.net/Fn-builds-Gigafile.html): 19.20
 

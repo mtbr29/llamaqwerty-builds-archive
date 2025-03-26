@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/3d8lhfmpc0dka0a1nkgsc/Fortnite-Builds-Text-Archive-2.10.txt?rlkey=fpaw383jfb2auzhclifiikjt0&st=gqsi6xg5&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/w1qfelk9cfcdq08jgbduc/Fortnite-Builds-Text-Archive-2.11.txt?rlkey=ew05qtvq9hwxr5dtv77oz05x1&st=8gjp3phm&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -93,7 +93,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 1.11.0 | https://public.simplyblk.xyz/1.11.zip | https://builds.rebootfn.org/1.11.zip | https://galaxiafn.co.uk/1.11.zip |
-| 2.1.0 | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip | https://gofile.io/d/y5PUjT |
+| 2.1.0 | https://public.simplyblk.xyz/2.1.0.zip | https://builds.rebootfn.org/2.1.0.zip |
 | 2.2.0 | https://public.simplyblk.xyz/2.2.0.rar | https://builds.rebootfn.org/2.2.0.rar |
 | 2.3.0 | https://public.simplyblk.xyz/2.3.rar | https://builds.rebootfn.org/2.3.rar |
 | 2.3.2 | Lost |

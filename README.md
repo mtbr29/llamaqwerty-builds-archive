@@ -433,7 +433,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.00-CL-35447195 | https://fn-builds.net/S31 | https://gofile.io/d/WTrPy2 | https://gofile.io/d/DGzp10 |
+| 31.00-CL-35447195 | https://fn-builds.net/S31 | https://gofile.io/d/DGzp10 |
 | 31.10-CL-35815136 | https://fn-builds.net/S31 | https://gofile.io/d/uwzzfu | https://gofile.io/d/DGzp10 |
 | 31.20 with unknown CL | https://gofile.io/d/Xx3LUL |
 | 31.20-CL-36253989 | Unavailable |

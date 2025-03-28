@@ -275,7 +275,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00 | Lost |
-| 17.10 | Unavailable |
+| 17.10 | https://mega.nz/file/HAsSzSLZ#bCt6DSkgfpa46cMqWJEfQtYfFxAbxL3rGn7fKk-pti8 |
 | 17.20 | Lost |
 | 17.21 | Lost |
 | 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
@@ -335,7 +335,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | https://fn-builds.net/S23 | https://gofile.io/d/O0XivD |
-| 23.10-CL-23443094 | Lost |
+| 23.10-CL-23443094 | Unavailable |
 | 23.10-CL-23572221 | https://fn-builds.net/S23 | https://gofile.io/d/O0XivD |
 | 23.20-CL-23659353 | Lost |
 | 23.20-CL-23783097 | https://fn-builds.net/S23 |
@@ -475,6 +475,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.20-CL-40965447 | Current |
 
 # Small Contributors
+
+[ka pum](https://x.com/KPMisParrot): 17.10
 
 [Anonymous](https://fn-builds.net/Fn-builds-Gigafile.html): 19.20
 

@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/08cg918a3e9jclz525c15/Fortnite-Builds-Text-Archive-2.20.txt?rlkey=zlpk4lm5nezibbkykb16oy5ff&e=1&st=hsuvxnyh&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/tdg9dc72x6cmatyrimi4l/Fortnite-Builds-Text-Archive-2.21.txt?rlkey=in9swtq5q1jfjcps5lsu65unb&st=qdikury9&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -29,7 +29,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[ka pum](https://x.com/KPMisParrot): 17.10 (Links 1 and 2), 17.40, 23.10-CL-23443094
+[ka pum](https://x.com/KPMisParrot): 17.10 (Links 1 and 2), 17.40, 23.10-CL-23443094, 30.40-CL-35235494
 
 and to all the people who archived any links in Wayback Machine
 
@@ -297,8 +297,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.00 | Unavailable |
-| 19.01 | https://r2.ploosh.dev/19.01.zip | https://archive.org/compress/fortnite-19.01.7z |
+| 19.00 | https://archive.org/compress/fortnite-19.01.7z |
+| 19.01 | https://r2.ploosh.dev/19.01.zip |
 | 19.10 | https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 | 19.20 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | (Page translation needed) https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
 | 19.30 | Lost |
@@ -430,7 +430,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 30.20-CL-34488544 | Lost |
 | 30.20-CL-34597766 | https://fn-builds.net/S30 | https://gofile.io/d/cBOnCQ |
 | 30.30-CL-34891016 | https://fn-builds.net/S30 | https://gofile.io/d/cBOnCQ |
-| 30.40-CL-35235494 | https://gofile.io/d/cBOnCQ |
+| 30.40-CL-35235494 | https://gofile.io/d/cBOnCQ | https://gofile.io/d/IObwJn |
 
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download

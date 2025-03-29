@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/mxphnqfsftklyqcrwmtf4/Fortnite-Builds-Text-Archive-2.13.txt?rlkey=ea2or0hmqfdb46m14mtvn3hik&st=kzkscl8u&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/tp5qyn3s2gho7m06v7t5j/Fortnite-Builds-Text-Archive-2.14.txt?rlkey=5i9f2u63rn9gl0rgzl1vhuub2&e=1&st=21xqo4ly&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -275,7 +275,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00 | Lost |
-| 17.10 | https://mega.nz/file/HAsSzSLZ#bCt6DSkgfpa46cMqWJEfQtYfFxAbxL3rGn7fKk-pti8 |
+| 17.10 | https://gofile.io/d/IObwJn | https://mega.nz/file/HAsSzSLZ#bCt6DSkgfpa46cMqWJEfQtYfFxAbxL3rGn7fKk-pti8 |
 | 17.20 | Lost |
 | 17.21 | Lost |
 | 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
@@ -476,7 +476,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
-[ka pum](https://x.com/KPMisParrot): 17.10
+[ka pum](https://x.com/KPMisParrot): 17.10 (Links 1 and 2)
 
 [Anonymous](https://fn-builds.net/Fn-builds-Gigafile.html): 19.20
 

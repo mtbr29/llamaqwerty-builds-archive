@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/tp5qyn3s2gho7m06v7t5j/Fortnite-Builds-Text-Archive-2.14.txt?rlkey=5i9f2u63rn9gl0rgzl1vhuub2&e=1&st=21xqo4ly&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/08cg918a3e9jclz525c15/Fortnite-Builds-Text-Archive-2.20.txt?rlkey=zlpk4lm5nezibbkykb16oy5ff&e=1&st=hsuvxnyh&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -28,6 +28,8 @@ Thank you to the following archivists for maintaining most of the builds
 [notsamicc](https://github.com/notsamicc)
 
 [Me](https://github.com/llamaqwerty)
+
+[ka pum](https://x.com/KPMisParrot): 17.10 (Links 1 and 2), 17.40, 23.10-CL-23443094
 
 and to all the people who archived any links in Wayback Machine
 
@@ -279,7 +281,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.20 | Lost |
 | 17.21 | Lost |
 | 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
-| 17.40 | Unavailable |
+| 17.40 | https://gofile.io/d/IObwJn |
 | 17.50 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
 
 ## Season 18
@@ -335,7 +337,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | https://fn-builds.net/S23 | https://gofile.io/d/O0XivD |
-| 23.10-CL-23443094 | Unavailable |
+| 23.10-CL-23443094 | https://gofile.io/d/IObwJn |
 | 23.10-CL-23572221 | https://fn-builds.net/S23 | https://gofile.io/d/O0XivD |
 | 23.20-CL-23659353 | Lost |
 | 23.20-CL-23783097 | https://fn-builds.net/S23 |
@@ -475,8 +477,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.20-CL-40965447 | Current |
 
 # Small Contributors
-
-[ka pum](https://x.com/KPMisParrot): 17.10 (Links 1 and 2)
 
 [Anonymous](https://fn-builds.net/Fn-builds-Gigafile.html): 19.20
 

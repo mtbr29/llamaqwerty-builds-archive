@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/tdg9dc72x6cmatyrimi4l/Fortnite-Builds-Text-Archive-2.21.txt?rlkey=in9swtq5q1jfjcps5lsu65unb&st=qdikury9&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/jgjkjulp2pr4xe6lrivtv/Fortnite-Builds-Text-Archive-3.00.txt?rlkey=ath8j1k29lk8nrv8nyzc8xzfe&st=1vq6u31f&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -199,7 +199,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 10.10 | https://public.simplyblk.xyz/10.10.zip | https://builds.rebootfn.org/10.10.zip |
 | 10.20 | https://public.simplyblk.xyz/10.20.zip | https://builds.rebootfn.org/10.20.zip |
 | 10.20.1 | Lost |
-| 10.20.2 | Lost |
+| 10.20.2 | Unavailable |
 | 10.30 | Unavailable |
 | 10.31 | https://public.simplyblk.xyz/10.31.zip | https://builds.rebootfn.org/10.31.zip |
 | 10.40 | https://public.simplyblk.xyz/10.40.rar | https://cdn.solarisfn.org/10.40.zip |
@@ -245,8 +245,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 14.00 | https://public.simplyblk.xyz/14.00.rar | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
-| 14.10 | Lost |
-| 14.20 | Lost |
+| 14.10 | Unavailable |
+| 14.20 | Unavailable |
 | 14.30 | Unavailable |
 | 14.40 | https://public.simplyblk.xyz/14.40.rar |
 | 14.50 | Unavailable |
@@ -258,9 +258,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 15.00 | Unavailable |
 | 15.10 | Unavailable |
 | 15.20 | Lost |
-| 15.21 | Lost |
+| 15.21 | Unavailable |
 | 15.30 | https://public.simplyblk.xyz/15.30.rar |
-| 15.40 | Lost |
+| 15.40 | Unavailable |
 | 15.50 | https://galaxiafn.co.uk/15.50.zip | https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |
 
 ## Season 16

@@ -258,7 +258,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 15.00 | Unavailable |
 | 15.10 | Unavailable |
 | 15.20 | Lost |
-| 15.21 | Unavailable |
+| 15.21 | Lost |
 | 15.30 | https://public.simplyblk.xyz/15.30.rar |
 | 15.40 | Unavailable |
 | 15.50 | https://galaxiafn.co.uk/15.50.zip | https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |

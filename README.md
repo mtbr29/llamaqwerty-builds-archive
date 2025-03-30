@@ -17,7 +17,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Tiva](https://github.com/itztiva)
 
-[Auties]([https://builds.rebootfn.org/versions.json](https://github.com/Auties00))
+[Auties](https://github.com/Auties00)
 
 [Shoqaratio](https://github.com/Shoqaratio)
 

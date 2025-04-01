@@ -292,7 +292,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 18.20 | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja | https://88.gigafile.nu/0527-gc2653064a070ca25b5824fca38b43648 |
 | 18.21 | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja | https://20.gigafile.nu/0528-n1a98617eb389b7c9999b4694d881265e |
 | 18.30 | https://fn-builds.net/S18 | https://gofile.io/d/ZZ6Dja | https://20.gigafile.nu/0528-hc4edfe27925f831211bb1821f331dd59 |
-| 18.40 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/S18/18.40-CL-18163738.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
+| 18.40 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/S18 | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download

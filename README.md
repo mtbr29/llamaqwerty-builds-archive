@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/sxv5lhpor11yoy2hucsds/Fortnite-Builds-Text-Archive-4.00.txt?rlkey=hgwh0clxtzay4ka21ovgecu53&st=4fjc45xy&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/2nrsn3r0uj7g480lucqiy/Fortnite-Builds-Text-Archive-4.01.txt?rlkey=mgjytemfxtf2l0fvsxs42dr03&st=uglfc3ci&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -457,7 +457,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 33
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 33.00-CL-38324112 | Unavailable |
+| 33.00-CL-38324112 | https://gofile.io/d/99tGnd |
 | 33.00-CL-38504598 | Unavailable |
 | 33.10-CL-38630093 | https://fn-builds.net/S33 | https://gofile.io/d/MmOF1j |
 | 33.11-CL-38773622 | https://fn-builds.net/S33 |
@@ -474,13 +474,14 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.00-CL-40398515 | Status Pending |
 | 34.00-CL-40446427 | Status Pending |
 | 34.10-CL-40567068 | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |
-| 34.20-CL-40965447 | Current |
+| 34.20-CL-40965447 | Manifest Obtainable |
+| 34.21-CL-41092960 | Current |
 
 # Small Contributors
 
 [AeptaX](https://www.twitch.tv/aeptax): 26.20-CL-28096793
 
-P2X Optic: 28.20-CL-31286935
+P2X Optic: 28.20-CL-31286935, 
 
 [Sweefy](https://www.youtube.com/channel/UCqR_6j5aFBDOoJMIiqjFf1g): 29.40-CL-33629566
 

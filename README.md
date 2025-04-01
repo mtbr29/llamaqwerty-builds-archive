@@ -481,7 +481,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 [AeptaX](https://www.twitch.tv/aeptax): 26.20-CL-28096793
 
-P2X Optic: 28.20-CL-31286935, 
+P2X Optic: 28.20-CL-31286935, 33.00-CL-38324112
 
 [Sweefy](https://www.youtube.com/channel/UCqR_6j5aFBDOoJMIiqjFf1g): 29.40-CL-33629566
 

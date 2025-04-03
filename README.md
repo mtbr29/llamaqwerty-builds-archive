@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/2nrsn3r0uj7g480lucqiy/Fortnite-Builds-Text-Archive-4.01.txt?rlkey=mgjytemfxtf2l0fvsxs42dr03&st=uglfc3ci&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/hjmd9i72kk2tfl9621xxc/Fortnite-Builds-Text-Archive-4.02.txt?rlkey=yozwec0vd4v8cbg8232cx3rmn&st=rfoytt2d&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -310,7 +310,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 20.00 | Unavailable |
 | 20.10 | Unavailable |
 | 20.20 | Unavailable |
-| 20.30 | Unavailable |
+| 20.30 | https://gofile.io/d/IObwJn |
 | 20.40 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.net/%E3%81%9D%E3%81%AE%E4%BB%96 | https://106.gigafile.nu/0612-hdbb75bc1c502fb2091cbaee77e997ac3 |
 
 ## Season 21

@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/hjmd9i72kk2tfl9621xxc/Fortnite-Builds-Text-Archive-4.02.txt?rlkey=yozwec0vd4v8cbg8232cx3rmn&st=rfoytt2d&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/vua18nshp3qzyjbqkbocq/Fortnite-Builds-Text-Archive-4.03.txt?rlkey=twqrbwdsphbtoacfdfhbgqkwh&st=05oi50fw&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -436,7 +436,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 31.00-CL-35447195 | https://fn-builds.net/S31 | https://gofile.io/d/DGzp10 | https://13.gigafile.nu/1223-jb4261280f4e88e8a9722f8c3e33f8a43 |
-| 31.10-CL-35815136 | https://fn-builds.net/S31 | https://gofile.io/d/uwzzfu | https://gofile.io/d/DGzp10 | https://13.gigafile.nu/1223-ke026b91ee6b866d6c10497b366122133 |
+| 31.10-CL-35815136 | https://fn-builds.net/S31 | https://gofile.io/d/uwzzfu | https://13.gigafile.nu/1223-ke026b91ee6b866d6c10497b366122133 |
 | 31.20 with unknown CL | https://gofile.io/d/Xx3LUL |
 | 31.20-CL-36253989 | Unavailable |
 | 31.20-CL-36348034 | Unavailable |

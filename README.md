@@ -29,7 +29,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[ka pum](https://x.com/KPMisParrot): 17.10 (Links 1 and 2), 17.40, 23.10-CL-23443094, 30.40-CL-35235494
+[ka pum](https://x.com/KPMisParrot): 17.10 (Links 1 and 2), 17.40, 20.30, 23.10-CL-23443094, 30.40-CL-35235494
 
 and to all the people who archived any links in Wayback Machine
 

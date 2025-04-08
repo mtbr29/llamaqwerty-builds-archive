@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/tdxu514v3lagtcjxmujk6/Fortnite-Builds-Text-Archive-5.00.txt?rlkey=f6jd9vy73fjxl9gd0mmw9pj3z&st=esyi86ha&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/k2rwvz1gn3u4tveidta2q/Fortnite-Builds-Text-Archive-5.01.txt?rlkey=sggwgnlxcvriugnc12cprtadd&st=4oapo60s&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -114,7 +114,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 3.30 | https://public.simplyblk.xyz/3.3.rar | https://builds.rebootfn.org/3.3.rar | https://gofile.io/d/2G35Jg |
 | 3.40 | Lost |
 | 3.50 | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://galaxiafn.co.uk/3.5.zip |
-| 3.60 | http://builds.eclipsemp.org/3.6.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
+| 3.60 | http://builds.eclipsemp.org/3.6.zip | https://gofile.io/d/8kJeyY | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
 
 ## Season 4
 | Build | Download | Alternative Download | Alternative Download
@@ -487,5 +487,8 @@ P2X Optic: 28.20-CL-31286935, 33.00-CL-38324112
 
 [Snoopy](https://x.com/Snoopity_Dog420): 31.20 with unknown CL
 
+Milestones:
+
+10 Stars, April 7th, 2025
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)

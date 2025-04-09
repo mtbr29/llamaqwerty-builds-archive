@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/asy9828ead4umyinds4lq/Fortnite-Builds-Text-Archive-7.00.txt?rlkey=4zpi677jyv8qxdf1vydxubxhu&st=q4pw154g&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/n3m3x1ekidpzkzi0bmwuz/Fortnite-Builds-Text-Archive-7.01.txt?rlkey=apxjurhgvx8qswz1pyd98tafx&st=3wsrvavq&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -221,7 +221,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 12.00 | https://public.simplyblk.xyz/12.00.rar | https://fn-builds.net/season-html/S12.html
-| 12.10 | https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view |
+| 12.10 | https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view | https://gofile.io/d/coTI0e |
 | 12.20 | Unavailable |
 | 12.21 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view |
 | 12.30 | Unavailable |

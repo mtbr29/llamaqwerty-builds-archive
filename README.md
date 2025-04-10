@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/n3m3x1ekidpzkzi0bmwuz/Fortnite-Builds-Text-Archive-7.01.txt?rlkey=apxjurhgvx8qswz1pyd98tafx&st=3wsrvavq&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ujtn3kq13ej1on90u68kj/Fortnite-Builds-Text-Archive-7.02.txt?rlkey=f8lv48q8ur4er0y5xu7rz0agt&st=5u8b8ub6&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -118,7 +118,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 4.00 | https://public.simplyblk.xyz/4.0.zip | https://builds.rebootfn.org/4.0.zip | https://gofile.io/d/KFyjWE |
-| 4.10 | https://gofile.io/d/WAM4KE |
+| 4.10 | https://gofile.io/d/vKl59V | https://gofile.io/d/WAM4KE |
 | 4.20 | https://public.simplyblk.xyz/4.2.zip | https://builds.rebootfn.org/4.2.zip | https://galaxiafn.co.uk/4.2.zip |
 | 4.30 | Lost |
 | 4.40 | https://public.simplyblk.xyz/4.4.rar | https://builds.rebootfn.org/4.4.rar | https://gofile.io/d/6a0dJw |
@@ -268,7 +268,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 16.10 | Unavailable |
 | 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
-| 16.40 | https://public.simplyblk.xyz/16.40.rar |
+| 16.40 | https://public.simplyblk.xyz/16.40.rar | https://gofile.io/d/LvLdwV |
 | 16.50 | https://galaxiafn.co.uk/16.50.zip | https://fn-builds.net/season-html/S99.html | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
 
 ## Season 17
@@ -472,7 +472,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.00-CL-40446427 | Lost |
 | 34.10-CL-40567068 | https://fn-builds.net/season-html/S34.html | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |
 | 34.20-CL-40965447 | https://fn-builds.net/season-html/S34.html |
-| 34.21-CL-41092960 | Current |
+| 34.21-CL-41092960 | Manifest Available |
+| 34.30-CL-41387772 | Current |
 
 # Small Contributors
 

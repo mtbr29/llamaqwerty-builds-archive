@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/c94voqac2q6ifrpmh9jyc/Fortnite-Builds-Text-Archive-7.03.txt?rlkey=ltrlls0kwdn61v01x7ny1h4y6&st=cvcdco21&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/e0ulw3rvr86w5b89qfiop/Fortnite-Builds-Text-Archive-7.04.txt?rlkey=gnf8i5natydlcw0oky3u6vypj&st=w32p0jhn&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -367,9 +367,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | Unavailable |
-| 25.00-CL-25909622 | https://fn-builds.net/season-html/S25.html |
+| 25.00-CL-25909622 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/wm1azP |
 | 25.10-CL-26000959 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/dhRnNF |
-| 25.11-CL-26171015 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/dhRnNF |
+| 25.11-CL-26171015 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/YjQoyg | https://gofile.io/d/dhRnNF |
 | 25.20-CL-26474516 | https://fn-builds.net/season-html/S25.html |
 | 25.20-CL-26629111 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/dhRnNF |
 | 25.30-CL-26867995 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/dhRnNF |

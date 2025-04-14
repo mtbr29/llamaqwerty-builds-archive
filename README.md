@@ -4,7 +4,7 @@ A build collection like no other.
 
 # Extra Links
 
-WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/6tahbfmuspyteb3qr50se/Fortnite-Builds-Text-Archive-7.10.txt?rlkey=iip0n804osn9zqt4ziqgjus9y&st=qjqpdzt2&dl=0)
+WANT THE MOST DETAILED ARCHIVE EVER WITH EVEN MORE WORKING LINKS? [Check this out!](https://dl.dropboxusercontent.com/scl/fi/rihjwcptwvzhcaweg86tu/Fortnite-Builds-Text-Archive-7.11.txt?rlkey=7mnyn7sx5c1gmj35g9rnt3yc8&st=3mvms6ey&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -329,7 +329,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 22.10 | https://fn-builds.net/season-html/S22.html |
 | 22.20 | https://fn-builds.net/season-html/S22.html |
 | 22.30 | Unavailable |
-| 22.40 | https://fn-builds.net/season-html/S22.html |
+| 22.40 | https://fn-builds.net/season-html/S22.html | https://gofile.io/d/EotoHe |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
@@ -454,7 +454,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 33
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 33.00-CL-38324112 | https://gofile.io/d/99tGnd |
+| 33.00-CL-38324112 | Unavailable |
 | 33.00-CL-38504598 | Unavailable |
 | 33.10-CL-38630093 | https://fn-builds.net/season-html/S33.html |
 | 33.11-CL-38773622 | https://fn-builds.net/season-html/S33.html |
@@ -483,7 +483,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
-P2X Optic: 33.00-CL-38324112
+Somebody contribute builds to get your name put here!
+
 
 Milestones:
 

@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/gll9u7xom22wy353a087u/Fortnite-Builds-Text-Archive-Temp.txt?rlkey=ppym2zbug8bzcjplut0icx1kx&st=pnfej9ej&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/cne6ml78rbphv2ly7ec2q/Fortnite-Builds-Text-Archive-8.00.txt?rlkey=gkv7yxjw4us3nsiduzhgqkxwy&st=m2xy6w1z&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds

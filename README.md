@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/cne6ml78rbphv2ly7ec2q/Fortnite-Builds-Text-Archive-8.00.txt?rlkey=gkv7yxjw4us3nsiduzhgqkxwy&st=m2xy6w1z&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/aq35cz69t5fetxw4xlmfs/Fortnite-Builds-Text-Archive-8.01.txt?rlkey=a69ngncjbr8e6uur4b0oy1aot&st=oxui4iap&dl=0)
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -447,7 +447,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 32.00-CL-37505882 | https://fn-builds.net/season-html/S32.html |
 | 32.00-CL-37770125 | Unavailable |
 | 32.10-CL-37958378 | Unavailable |
-| 32.11-CL-38202817 | https://fn-builds.net/season-html/S32.html |
+| 32.11-CL-38202817 | https://fn-builds.net/season-html/S32.html | Text Archive Exclusive Available |
 | 32.11-CL-38371047 | Unavailable |
 
 ## Season 33
@@ -484,6 +484,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 # Small Contributors
  
 [P2X Optic](https://www.youtube.com/@Yanny57): 30.00-CL-33760522
+
+[WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
 
 
 Milestones:

@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ak4psk4hokh4e583vu34k/Fortnite-Builds-Text-Archive-9.01.txt?rlkey=qruy9eeraqpamzciahikve6yz&st=08r7zce6&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ecr6xxxvoityeizgvqvvt/Fortnite-Builds-Text-Archive-9.02.txt?rlkey=ctbtymu6nub4xp80zlbu1fso3&st=tdvt6iu3&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -29,6 +29,8 @@ Thank you to the following archivists for maintaining most of the builds
 [Me](https://github.com/llamaqwerty)
 
 [SideLeek03588](https://gofile.io/d/OSgxd5): OT11 (PC & Xbox), 1.2.0, 16.30, 17.10
+
+[ka pum](https://x.com/KPMisParrot): 17.10, 30.40-CL-35235494, 31.40-CL-36874825
 
 and to all the people who archived any links in Wayback Machine
 
@@ -439,7 +441,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 31.20-CL-36253989 | Unavailable |
 | 31.20-CL-36348034 | Unavailable |
 | 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://cold-na-phx-7.gofile.io/download/web/63099d31-e131-4b03-a33e-0dc0cc8bdf12/31.30-CL-36600465.7z | https://gofile.io/d/DGzp10 |
-| 31.40-CL-36874825 | Unavailable |
+| 31.40-CL-36874825 | https://gofile.io/d/nWzIOp | https://store8.gofile.io/download/web/709d08aa-e86f-42d1-b76c-fdd3b24dd0db/31.40-CL-36874825.zip |
 | 31.40-CL-37076506 | Unavailable |
 | 31.41-CL-37324991 | Unavailable |
 
@@ -484,8 +486,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 35.00 | Future Release |
 
 # Small Contributors
-
-[ka pum](https://x.com/KPMisParrot): 17.10, 30.40-CL-35235494
  
 [P2X Optic](https://www.youtube.com/@Yanny57): 30.00-CL-33760522
 

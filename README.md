@@ -3,7 +3,9 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/aq35cz69t5fetxw4xlmfs/Fortnite-Builds-Text-Archive-8.01.txt?rlkey=a69ngncjbr8e6uur4b0oy1aot&st=oxui4iap&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/z2scdz9btf0fnqqyywqa3/Fortnite-Builds-Text-Archive-9.00.txt?rlkey=vssx6avyyxe6ys135iosxu3pg&st=qdroqasu&dl=0)
+
+Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
 # Credits
 Thank you to the following archivists for maintaining most of the builds
@@ -26,7 +28,9 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[ka pum](https://x.com/KPMisParrot): 17.10, 17.40, 30.40-CL-35235494
+[ka pum](https://x.com/KPMisParrot): 17.10, 30.40-CL-35235494
+
+[SideLeek03588](https://gofile.io/d/OSgxd5): OT11 (PC & Xbox), 1.2.0, 16.30, 17.10
 
 and to all the people who archived any links in Wayback Machine
 
@@ -51,13 +55,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | OT6.5 | https://public.simplyblk.xyz/OT0.6.5.zip | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://galaxiafn.co.uk/0.6.5.zip |
 | OT10.1 | (PS4) https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | (PS4) https://archive.org/details/fortnite-mailapp-ot10 |
-| OT11 | (PS4) https://archive.org/compress/fortnite_ot11_ps4 |
+| OT11 (EXC) | (PS4) https://archive.org/compress/fortnite_ot11_ps4 | (PC) https://gofile.io/d/SPaBoB | (Xbox One) https://gofile.io/d/uIR7kc |
 
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | Cert | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
-| 1.2.0 | Unavailable |
+| 1.2.0 | https://gofile.io/d/OSgxd5 | https://store-eu-par-1.gofile.io/download/web/a3078b48-79cd-4572-8075-90ec261d76e8/1.2.rar |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
 | 1.4.2 | Lost |
@@ -266,7 +270,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 16.00 | Unavailable |
 | 16.10 | Unavailable |
 | 16.20 | Unavailable |
-| 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
+| 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view | https://gofile.io/d/AXywNv | https://store4.gofile.io/download/web/dec0050d-fbab-4f7b-93a8-bb2522799f34/%2B%2BFortnite%2BRelease-16.30-CL-16163563.zip |
 | 16.40 | https://public.simplyblk.xyz/16.40.rar | https://gofile.io/d/LvLdwV | https://cold-na-phx-6.gofile.io/download/web/7172b08f-8764-4f10-a3d6-d12f72c9ae09/16.40.rar |
 | 16.50 | https://galaxiafn.co.uk/16.50.zip | https://fn-builds.net/season-html/S99.html | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
 
@@ -274,11 +278,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00 | Lost |
-| 17.10 | https://cold-na-phx-6.gofile.io/download/web/3bf3ec13-ec36-4ce1-9bf6-f352e8c87503/17.10-CL-16745144.rar | https://gofile.io/d/IObwJn |
+| 17.10 | https://gofile.io/d/zDAagZ | https://cold-na-phx-6.gofile.io/download/web/dbfbaa80-c883-4be9-a6c9-136c088eba2a/17.10-CL-16745144.rar | https://cold-na-phx-6.gofile.io/download/web/3bf3ec13-ec36-4ce1-9bf6-f352e8c87503/17.10-CL-16745144.rar |
 | 17.20 | Lost |
 | 17.21 | Lost |
 | 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-kffaa33191a502187fc5025d33fe315a1 |
-| 17.40 | https://cold-na-phx-4.gofile.io/download/web/2b2ad742-30af-4d1d-8636-c6823d63c780/17.40-CL-17269705.7z | https://cold-na-phx-4.gofile.io/download/web/787de76f-c658-4b85-bcd9-97d60f01be8a/17.40-CL-17269705.7z | https://gofile.io/d/zYEwlT |
+| 17.40 | https://cold-na-phx-4.gofile.io/download/web/787de76f-c658-4b85-bcd9-97d60f01be8a/17.40-CL-17269705.7z | https://gofile.io/d/zYEwlT |
 | 17.50 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
 
 ## Season 18
@@ -447,7 +451,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 32.00-CL-37505882 | https://fn-builds.net/season-html/S32.html |
 | 32.00-CL-37770125 | Unavailable |
 | 32.10-CL-37958378 | Unavailable |
-| 32.11-CL-38202817 | https://fn-builds.net/season-html/S32.html | Text Archive Exclusive Available |
+| 32.11-CL-38202817 (EXC) | https://fn-builds.net/season-html/S32.html |
 | 32.11-CL-38371047 | Unavailable |
 
 ## Season 33

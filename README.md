@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ecr6xxxvoityeizgvqvvt/Fortnite-Builds-Text-Archive-9.02.txt?rlkey=ctbtymu6nub4xp80zlbu1fso3&st=tdvt6iu3&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/mae75h7clfhphx9qmifch/Fortnite-Builds-Text-Archive-9.03.txt?rlkey=d012t65zh3wbcpt7ikvp8y4ym&st=jsodxbwn&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -60,7 +60,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| Cert | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
+| Cert (EXC) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
 | 1.2.0 | https://gofile.io/d/OSgxd5 | https://store-eu-par-1.gofile.io/download/web/a3078b48-79cd-4572-8075-90ec261d76e8/1.2.rar |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
@@ -137,7 +137,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 5.10 | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar |
 | 5.20 | Lost |
 | 5.21 | https://public.simplyblk.xyz/5.21.rar | https://builds.rebootfn.org/5.21.rar |
-| 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar |
+| 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar | https://builds.eclipsemp.org/5.30.zip |
 | 5.40 | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar |
 | 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip |
 
@@ -145,13 +145,14 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 6.00 | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar | https://fn-builds.net/season-html/S99.html |
+| 6.00.1 | Unavailable |
 | 6.01 | https://public.simplyblk.xyz/6.01.rar | https://builds.rebootfn.org/6.01.rar |
-| 6.01.1 | https://public.simplyblk.xyz/6.1.1.rar | https://builds.rebootfn.org/6.1.1.rar |
+| 6.01.1 (EXC) | https://public.simplyblk.xyz/6.1.1.rar | https://builds.rebootfn.org/6.1.1.rar |
 | 6.02 | https://public.simplyblk.xyz/6.02.rar | https://builds.rebootfn.org/6.02.rar |
-| 6.02.1 | https://public.simplyblk.xyz/6.2.1.rar | https://builds.rebootfn.org/6.2.1.rar |
+| 6.02.1 (EXC) | https://public.simplyblk.xyz/6.2.1.rar | https://builds.rebootfn.org/6.2.1.rar |
 | 6.10 | https://public.simplyblk.xyz/6.10.rar | https://builds.rebootfn.org/6.10.rar |
-| 6.10.1 | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar |
-| 6.10.2 | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar |
+| 6.10.1 (EXC) | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar |
+| 6.10.2 (EXC) | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar |
 | 6.20 | Unavailable | 
 | 6.21 | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar | https://galaxiafn.co.uk/6.21.zip |
 | 6.22 | https://public.simplyblk.xyz/6.22.rar | https://builds.rebootfn.org/6.22.rar |
@@ -163,7 +164,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 7.00 | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar | https://fn-builds.net/season-html/S99.html |
 | 7.01 | Lost |
-| 7.10 | https://public.simplyblk.xyz/7.10.rar | https://builds.rebootfn.org/7.10.rar |
+| 7.10 (EXC) | https://public.simplyblk.xyz/7.10.rar | https://builds.rebootfn.org/7.10.rar |
 | 7.20 | https://public.simplyblk.xyz/7.20.rar | https://builds.rebootfn.org/7.20.rar |
 | 7.30 | https://public.simplyblk.xyz/7.30.zip | https://builds.rebootfn.org/7.30.zip | https://galaxiafn.co.uk/7.30.zip |
 | 7.40 | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://galaxiafn.co.uk/7.40.zip |

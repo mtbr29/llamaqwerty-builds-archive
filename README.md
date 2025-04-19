@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/mae75h7clfhphx9qmifch/Fortnite-Builds-Text-Archive-9.03.txt?rlkey=d012t65zh3wbcpt7ikvp8y4ym&st=jsodxbwn&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/53liu9u4ht7vgoj75m4t9/Fortnite-Builds-Text-Archive-9.04.txt?rlkey=cftt9uleqxit2rfdic45ngd7s&st=69x1q7j7&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -139,7 +139,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 5.21 | https://public.simplyblk.xyz/5.21.rar | https://builds.rebootfn.org/5.21.rar |
 | 5.30 | https://public.simplyblk.xyz/5.30.rar | https://builds.rebootfn.org/5.30.rar | https://builds.eclipsemp.org/5.30.zip |
 | 5.40 | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar |
-| 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip |
+| 5.41 | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip | https://public-build-archives-bucket.erafn.dev/5.41.zip |
 
 ## Season 6
 | Build | Download | Alternative Download | Alternative Download

@@ -46,7 +46,7 @@ Both methods are acceptable if you have a build you want to contribute
 # Notes
 I am not the owner of any of these builds and am not resposible for any of the drives they are on
 
-[Here is a list of builds that are highly prioritized](https://drive.google.com/file/d/1ueDPAiu76IsUhjuH5b_mMB7u444X9AYs/view) so if you have them, I recommend uploading these if you have them.
+If you have a build considered lost or unavailable then try uploading it and send me the link!
 
 If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY&ab_channel=Soggs)
 

@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ffvbx5iqtr9w167t8znfk/Fortnite-Builds-Text-Archive-9.06.txt?rlkey=plz4wnnukiv08hurr9t4qw4bf&st=8jwzh8xv&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/q8ptl5i0nbz75bf8im305/Fortnite-Builds-Text-Archive-9.07.txt?rlkey=mfgaqgiqrn65rl305ecuyrssp&st=hsimeuqn&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -115,7 +115,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 3.30 | https://public.simplyblk.xyz/3.3.rar | https://builds.rebootfn.org/3.3.rar | https://cold-na-phx-2.gofile.io/download/web/58a99e9e-21db-46a8-a1ab-0663bf1b3933/3.3.rar |
 | 3.40 | Lost |
 | 3.50 | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://galaxiafn.co.uk/3.5.zip |
-| 3.60 | http://builds.eclipsemp.org/3.6.zip | https://cold-na-phx-6.gofile.io/download/web/5e8cd702-49a6-462b-962e-77dc767c7c54/3.6.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z |
+| 3.60 | https://cold-na-phx-6.gofile.io/download/web/5e8cd702-49a6-462b-962e-77dc767c7c54/3.6.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z | https://gofile.io/d/8kJeyY |
 
 ## Season 4
 | Build | Download | Alternative Download | Alternative Download

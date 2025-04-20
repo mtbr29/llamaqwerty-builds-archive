@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/lius596iera08y10r5tma/Fortnite-Builds-Text-Archive-9.05.txt?rlkey=3744v2w45p0x60zupx6781nzz&st=wruvu8rj&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ffvbx5iqtr9w167t8znfk/Fortnite-Builds-Text-Archive-9.06.txt?rlkey=plz4wnnukiv08hurr9t4qw4bf&st=8jwzh8xv&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -404,7 +404,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html |
 | 28.10-CL-30835064 | Lost |
 | 28.20-CL-31165234 | Unavailable |
-| 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html |
+| 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/i0Q85G | https://store9.gofile.io/download/web/11d5c91c-1d4e-4cce-be1e-5c69c1d153e2/c5s1.zip |
 | 28.30-CL-31511038 | https://fn-builds.net/season-html/S28.html | https://cold2.gofile.io/download/web/42ed331f-9a0d-467e-936d-492ff6c750c4/28.30-CL-31511038.7z | https://gofile.io/d/U8bXBu |
 
 ## Season 29
@@ -488,7 +488,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
  
-[P2X Optic](https://www.youtube.com/@Yanny57): 30.00-CL-33760522
+[P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522
 
 [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
 

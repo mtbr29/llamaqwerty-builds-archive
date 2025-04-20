@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/q8ptl5i0nbz75bf8im305/Fortnite-Builds-Text-Archive-9.07.txt?rlkey=mfgaqgiqrn65rl305ecuyrssp&st=hsimeuqn&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/bbdt89vpwykwucxzaw38p/Fortnite-Builds-Text-Archive-9.08.txt?rlkey=qinmy86ug3ddwml78ktoiz3lf&st=pppzk0ra&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -441,7 +441,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 31.10-CL-35815136 | https://fn-builds.net/season-html/S31.html |
 | 31.20-CL-36253989 | Unavailable |
 | 31.20-CL-36348034 | Unavailable |
-| 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://cold-na-phx-7.gofile.io/download/web/63099d31-e131-4b03-a33e-0dc0cc8bdf12/31.30-CL-36600465.7z | https://gofile.io/d/DGzp10 |
+| 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html |
 | 31.40-CL-36874825 | https://gofile.io/d/nWzIOp | https://store8.gofile.io/download/web/709d08aa-e86f-42d1-b76c-fdd3b24dd0db/31.40-CL-36874825.zip |
 | 31.40-CL-37076506 | Unavailable |
 | 31.41-CL-37324991 | Unavailable |

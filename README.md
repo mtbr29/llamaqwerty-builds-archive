@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/53liu9u4ht7vgoj75m4t9/Fortnite-Builds-Text-Archive-9.04.txt?rlkey=cftt9uleqxit2rfdic45ngd7s&st=69x1q7j7&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/lius596iera08y10r5tma/Fortnite-Builds-Text-Archive-9.05.txt?rlkey=3744v2w45p0x60zupx6781nzz&st=wruvu8rj&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -30,7 +30,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [SideLeek03588](https://gofile.io/d/OSgxd5): OT11 (PC & Xbox), 1.2.0, 16.30, 17.10
 
-[ka pum](https://x.com/KPMisParrot): 17.10, 30.40-CL-35235494, 31.40-CL-36874825
+[ka pum](https://x.com/KPMisParrot): 14.30, 17.10, 30.40-CL-35235494, 31.40-CL-36874825
 
 and to all the people who archived any links in Wayback Machine
 
@@ -249,7 +249,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.00 | https://public.simplyblk.xyz/14.00.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-n00ea0635522bca86784c824a5c81316c |
 | 14.10 | Unavailable |
 | 14.20 | Unavailable |
-| 14.30 | Unavailable |
+| 14.30 | https://gofile.io/d/47NC7f | https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar |
 | 14.40 | https://public.simplyblk.xyz/14.40.rar |
 | 14.50 | Unavailable |
 | 14.60 | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-i262d0f01ceecdb2570b7296a375f3701 |

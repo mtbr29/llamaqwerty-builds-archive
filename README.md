@@ -3,7 +3,7 @@ Welcome to the largest up-to-date Fortnite build archive.
 A build collection like no other.
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/8bp53v3evd2ahsc9qnuzq/Fortnite-Builds-Text-Archive-9.20.txt?rlkey=p96wxy28zih2uqzcrxy0l2qhk&st=ajxk0lyd&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/i92vny007l4m3d45wbmk8/Fortnite-Builds-Text-Archive-9.21.txt?rlkey=sq6dnx6am96p3ozy3brk97vl2&st=7fz484o1&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -232,7 +232,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.40 | Lost |
 | 12.41 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://fn-builds.net/season-html/S12.html |
-| 12.60 | Lost |
+| 12.60 | Unavailable |
 | 12.61 | https://public.simplyblk.xyz/12.61.zip | https://public.privateuser.xyz/12.61.zip | https://fn-builds.net/season-html/S12.html |
 
 ## Season 13

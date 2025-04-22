@@ -2,6 +2,8 @@ Welcome to the largest up-to-date Fortnite build archive.
 
 A build collection like no other.
 
+[If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
+
 # Extra Links
 If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/i92vny007l4m3d45wbmk8/Fortnite-Builds-Text-Archive-9.21.txt?rlkey=sq6dnx6am96p3ozy3brk97vl2&st=7fz484o1&dl=0)
 

@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/w1e1t4l5jp2wputj8kkps/Fortnite-Builds-Text-Archive-9.32.txt?rlkey=1cdh5wmyc3oca068bz1oa1328&st=q683b0o4&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/bx2yj1duv2p3y2tzc5ti9/Fortnite-Builds-Text-Archive-9.33.txt?rlkey=m65joccsrg63ogubn6u68vxyn&st=q82s2e8r&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -483,7 +483,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.21-CL-41092960 | Manifest Available |
 | 34.30-CL-41387772 | https://fn-builds.net/season-html/S34.html |
 | 34.30-CL-41588354 | https://fn-builds.net/season-html/S34.html |
-| 34.40 | Releases April 22nd, 2025 |
+| 34.40-CL-41753727 | Current |
 
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download

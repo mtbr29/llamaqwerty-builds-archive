@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/7sy2qe472mex1jgtdggxe/Fortnite-Builds-Text-Archive-9.34.txt?rlkey=giyd59xjbjfvoqtrg80bnmulq&st=qn7s4s2n&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/5y7edi7j2a6ssdux8aoda/Fortnite-Builds-Text-Archive-9.35.txt?rlkey=l2jwhc227xrgh5d4636zk4k6s&st=qlouw39m&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -35,6 +35,8 @@ Thank you to the following archivists for maintaining most of the builds
 [ka pum](https://x.com/KPMisParrot): 14.30, 17.10, 30.40-CL-35235494, 31.40-CL-36874825
 
 [P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
+
+[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00, 16.00, 28.00-CL-29915848
 
 and to all the people who archived any links in Wayback Machine
 
@@ -261,7 +263,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 15.00 | Unavailable |
+| 15.00 | https://gofile.io/d/ikpxzV | https://store10.gofile.io/download/web/e8565eb5-1213-4f52-89a9-3d5e44ba09dd/FortniteClient-15.00-CL-14835335.7z |
 | 15.10 | https://gofile.io/d/xSdcVK | https://cold5.gofile.io/download/web/8507c77e-c532-43b6-935b-0dcf5fc36e96/15.10%20%5B15014719%5D.zip |
 | 15.20 | Lost |
 | 15.21 | Lost |
@@ -272,7 +274,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 16
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 16.00 | https://gofile.io/d/ikpxzV | https://cold3.gofile.io/download/web/c60a33ee-c6b1-48c6-986b-75417be7846c/FortniteClient-16.00-CL-15685441.7z |
+| 16.00 | https://gofile.io/d/ikpxzV | https://gofile.io/d/ikpxzV | https://store10.gofile.io/download/web/e8565eb5-1213-4f52-89a9-3d5e44ba09dd/FortniteClient-15.00-CL-14835335.7zhttps://cold3.gofile.io/download/web/c60a33ee-c6b1-48c6-986b-75417be7846c/FortniteClient-16.00-CL-15685441.7z |
 | 16.10 | Unavailable |
 | 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view | https://gofile.io/d/AXywNv | https://store4.gofile.io/download/web/dec0050d-fbab-4f7b-93a8-bb2522799f34/%2B%2BFortnite%2BRelease-16.30-CL-16163563.zip |
@@ -402,7 +404,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 28.00-CL-29915848 | https://fn-builds.net/season-html/S28.html |
+| 28.00-CL-29915848 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/xCiLzn | https://store-ap-tyo-1.gofile.io/download/web/9e8bb34a-7e15-4e4e-be0b-fb315e28ec46/FortniteClient-28.00-CL-29915848.7z |
 | 28.01-CL-30106568 | https://fn-builds.net/season-html/S28.html |
 | 28.01-CL-30313795 | https://fn-builds.net/season-html/S28.html | https://cold-na-phx-2.gofile.io/download/web/2fa05c7c-2086-44d2-a204-7c5381b08901/28.01-CL-30313795(28.01.01).7z | https://gofile.io/d/U8bXBu |
 | 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html |
@@ -493,8 +495,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 # Small Contributors
 
 [MTOnline](https://x.com/MTOnline_): 10.20.2 (10.20-CL-8456527), 15.10-CL-15014719
-
-[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 16.00
 
 [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
 

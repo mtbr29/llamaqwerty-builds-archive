@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/bx2yj1duv2p3y2tzc5ti9/Fortnite-Builds-Text-Archive-9.33.txt?rlkey=m65joccsrg63ogubn6u68vxyn&st=q82s2e8r&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/7sy2qe472mex1jgtdggxe/Fortnite-Builds-Text-Archive-9.34.txt?rlkey=giyd59xjbjfvoqtrg80bnmulq&st=qn7s4s2n&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -272,7 +272,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 16
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 16.00 | Unavailable |
+| 16.00 | https://gofile.io/d/ikpxzV | https://cold3.gofile.io/download/web/c60a33ee-c6b1-48c6-986b-75417be7846c/FortniteClient-16.00-CL-15685441.7z |
 | 16.10 | Unavailable |
 | 16.20 | Unavailable |
 | 16.30 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view | https://gofile.io/d/AXywNv | https://store4.gofile.io/download/web/dec0050d-fbab-4f7b-93a8-bb2522799f34/%2B%2BFortnite%2BRelease-16.30-CL-16163563.zip |
@@ -493,6 +493,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 # Small Contributors
 
 [MTOnline](https://x.com/MTOnline_): 10.20.2 (10.20-CL-8456527), 15.10-CL-15014719
+
+[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 16.00
 
 [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
 

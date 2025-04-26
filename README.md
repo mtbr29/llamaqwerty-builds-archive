@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/5y7edi7j2a6ssdux8aoda/Fortnite-Builds-Text-Archive-9.35.txt?rlkey=l2jwhc227xrgh5d4636zk4k6s&st=qlouw39m&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/gll9u7xom22wy353a087u/Fortnite-Builds-Text-Archive-Temp.txt?rlkey=ppym2zbug8bzcjplut0icx1kx&st=ccaajijx&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 

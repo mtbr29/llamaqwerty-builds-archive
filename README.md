@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/gll9u7xom22wy353a087u/Fortnite-Builds-Text-Archive-Temp.txt?rlkey=ppym2zbug8bzcjplut0icx1kx&st=ccaajijx&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/5xr3fkck3ejxghpoht0z1/Fortnite-Builds-Text-Archive-10.00.txt?rlkey=s207ccdd2f1hhragu33p53k2m&st=kdhy9869&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -36,7 +36,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
 
-[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00, 16.00, 28.00-CL-29915848
+[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00, 16.00, 28.00-CL-29915848, 28.10-CL-30676362, 29.00-CL-32116959
 
 and to all the people who archived any links in Wayback Machine
 
@@ -159,7 +159,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 6.10 | https://public.simplyblk.xyz/6.10.rar | https://builds.rebootfn.org/6.10.rar |
 | 6.10.1 (EXC) | https://public.simplyblk.xyz/6.10.1.rar | https://builds.rebootfn.org/6.10.1.rar |
 | 6.10.2 (EXC) | https://public.simplyblk.xyz/6.10.2.rar | https://builds.rebootfn.org/6.10.2.rar |
-| 6.20 | Unavailable | 
+| 6.20 | https://gofile.io/d/vBry3c | https://store-eu-par-1.gofile.io/download/web/ff5de1f8-7639-4b45-a427-fa4a7fcd7503/6.20.rar |
 | 6.21 | https://public.simplyblk.xyz/6.21.rar | https://builds.rebootfn.org/6.21.rar | https://galaxiafn.co.uk/6.21.zip |
 | 6.22 | https://public.simplyblk.xyz/6.22.rar | https://builds.rebootfn.org/6.22.rar |
 | 6.30 | https://public.simplyblk.xyz/6.30.rar | https://builds.rebootfn.org/6.30.rar |
@@ -194,7 +194,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 9.00 | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip | https://fn-builds.net/season-html/S99.html |
 | 9.01 | https://public.simplyblk.xyz/9.01.zip | https://builds.rebootfn.org/9.01.zip |
 | 9.10 | https://public.simplyblk.xyz/9.10.rar | https://builds.rebootfn.org/9.10.rar | https://galaxiafn.co.uk/9.10.zip |
-| 9.20 | Unavailable |
+| 9.20 | https://gofile.io/d/F11VXp | https://cold5.gofile.io/download/web/a6b0b589-4d12-4cd2-a382-f7d5e772e6ea/9.20.rar |
 | 9.21 | https://public.simplyblk.xyz/9.21.zip | https://builds.rebootfn.org/9.21.zip |
 | 9.30 | https://public.simplyblk.xyz/9.30.zip | https://builds.rebootfn.org/9.30.zip |
 | 9.40 | https://public.simplyblk.xyz/9.40.zip | https://builds.rebootfn.org/9.40.zip |
@@ -235,7 +235,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.20 | Unavailable |
 | 12.21 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view |
 | 12.30 | Unavailable |
-| 12.40 | Lost |
+| 12.40 | Unavailable |
 | 12.41 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://fn-builds.net/season-html/S12.html |
 | 12.60 | Unavailable |
@@ -245,7 +245,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 13.00 | https://public.simplyblk.xyz/13.00.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-of795412b96d23ab2e617991f3bee29f7 |
-| 13.20 | Lost |
+| 13.20 | Unavailable |
 | 13.30 | Unavailable |
 | 13.40 | https://public.simplyblk.xyz/13.40.zip | https://106.gigafile.nu/0613-kde058e24ee6275334fd8ec3ee0def647 |
 
@@ -258,15 +258,15 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.30 | https://gofile.io/d/47NC7f | https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar |
 | 14.40 | https://public.simplyblk.xyz/14.40.rar |
 | 14.50 | Unavailable |
-| 14.60 | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-i262d0f01ceecdb2570b7296a375f3701 |
+| 14.60 | https://public.simplyblk.xyz/14.60.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-i262d0f01ceecdb2570b7296a375f3701 |
 
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 15.00 | https://gofile.io/d/ikpxzV | https://store10.gofile.io/download/web/e8565eb5-1213-4f52-89a9-3d5e44ba09dd/FortniteClient-15.00-CL-14835335.7z |
 | 15.10 | https://gofile.io/d/xSdcVK | https://cold5.gofile.io/download/web/8507c77e-c532-43b6-935b-0dcf5fc36e96/15.10%20%5B15014719%5D.zip |
-| 15.20 | Lost |
-| 15.21 | Lost |
+| 15.20 | Unavailable |
+| 15.21 | Unavailable |
 | 15.30 | https://public.simplyblk.xyz/15.30.rar |
 | 15.40 | Unavailable |
 | 15.50 | https://galaxiafn.co.uk/15.50.zip | https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |
@@ -284,10 +284,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 17
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 17.00 | Lost |
+| 17.00 | Unavailable |
 | 17.10 | https://gofile.io/d/zDAagZ | https://cold-na-phx-6.gofile.io/download/web/dbfbaa80-c883-4be9-a6c9-136c088eba2a/17.10-CL-16745144.rar | https://cold-na-phx-6.gofile.io/download/web/3bf3ec13-ec36-4ce1-9bf6-f352e8c87503/17.10-CL-16745144.rar |
-| 17.20 | Lost |
-| 17.21 | Lost |
+| 17.20 | Unavailable |
+| 17.21 | Unavailable |
 | 17.30 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-kffaa33191a502187fc5025d33fe315a1 |
 | 17.40 | https://cold-na-phx-4.gofile.io/download/web/787de76f-c658-4b85-bcd9-97d60f01be8a/17.40-CL-17269705.7z | https://gofile.io/d/zYEwlT |
 | 17.50 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
@@ -309,7 +309,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 19.01 | https://r2.ploosh.dev/19.01.zip |
 | 19.10 | https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar | https://fn-builds.net/season-html/S99.html |
 | 19.20 | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
-| 19.30 | Lost |
+| 19.30 | Unavailable |
 | 19.40 | Unavailable |
 
 ## Season 20
@@ -407,7 +407,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 28.00-CL-29915848 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/xCiLzn | https://store-ap-tyo-1.gofile.io/download/web/9e8bb34a-7e15-4e4e-be0b-fb315e28ec46/FortniteClient-28.00-CL-29915848.7z |
 | 28.01-CL-30106568 | https://fn-builds.net/season-html/S28.html |
 | 28.01-CL-30313795 | https://fn-builds.net/season-html/S28.html | https://cold-na-phx-2.gofile.io/download/web/2fa05c7c-2086-44d2-a204-7c5381b08901/28.01-CL-30313795(28.01.01).7z | https://gofile.io/d/U8bXBu |
-| 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html |
+| 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/xCiLzn | https://cold2.gofile.io/download/web/80299d50-b897-4cc2-8c73-16ba07b76f2c/FortniteClient-28.10-CL-30676362.7z |
 | 28.10-CL-30835064 | Lost |
 | 28.20-CL-31165234 | Unavailable |
 | 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/i0Q85G | https://store9.gofile.io/download/web/11d5c91c-1d4e-4cce-be1e-5c69c1d153e2/c5s1.zip |
@@ -417,7 +417,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 29.00-CL-31978752 | Unavailable |
-| 29.00-CL-32116959 | https://fn-builds.net/season-html/S29.html |
+| 29.00-CL-32116959 | https://fn-builds.net/season-html/S29.html | https://gofile.io/d/xCiLzn | https://store8.gofile.io/download/web/4c7a623f-8943-4a44-9e59-8189852acbe2/FortniteClient-29.00-CL-32116959.7z |
 | 29.01-CL-32291970 | https://fn-builds.net/season-html/S29.html |
 | 29.10-CL-32391220 | https://fn-builds.net/season-html/S29.html | https://cold-na-phx-3.gofile.io/download/web/759b8b99-5f7a-4f76-ae5a-9ebb86a039b1/29.10-CL-32391220.7z | https://gofile.io/d/1mGZZ0 |
 | 29.10-CL-32567225 | https://fn-builds.net/season-html/S29.html |
@@ -497,6 +497,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 [MTOnline](https://x.com/MTOnline_): 10.20.2 (10.20-CL-8456527), 15.10-CL-15014719
 
 [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
+
+[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20, 9.20
 
 
 Milestones:

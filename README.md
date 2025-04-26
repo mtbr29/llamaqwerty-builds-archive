@@ -432,7 +432,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 30.00-CL-33760522 | https://gofile.io/d/iDKss9 | https://cold-na-phx-3.gofile.io/download/web/73b7d8b0-41c0-481d-bcc3-b559acec7c82/c5s3.zip |
 | 30.00-CL-33962396 | https://fn-builds.net/season-html/S30.html | https://cold7.gofile.io/download/web/ea6ac02f-51e4-4c10-9709-37c47cda3966/30.00-CL-33962396.7z | https://gofile.io/d/cBOnCQ |
-| 30.10-CL-34184790 | Lost |
+| 30.10-CL-34184790 | Unavailable |
 | 30.10-CL-34261954 | https://fn-builds.net/season-html/S30.html |
 | 30.10-CL-34399867 | Unavailable |
 | 30.20-CL-34488544 | Lost |

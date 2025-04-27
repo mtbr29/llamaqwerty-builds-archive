@@ -43,7 +43,7 @@ and to all the people who archived any links in Wayback Machine
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
 # Contact
-Contact me through Discord (llamaqwerty) or email (llama.dvorak@hotmail.com)
+Contact me through my Discord server (llamaqwerty) or email (llama.dvorak@hotmail.com)
 
 I would love to have feedback so I know what to improve in future updates, also please address issues to me immediately
 

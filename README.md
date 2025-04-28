@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/hrpp0tmcnkzk6q15ari2n/Fortnite-Builds-Text-Archive-10.11.txt?rlkey=zixg770ygocu64a1xt94vq4gj&st=6gqeu8v1&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/mitc8y1v8eo7zyndufqhm/Fortnite-Builds-Text-Archive-10.12.txt?rlkey=fc5a7xjeut2sgkfywgttw7t5d&st=8aalwsjd&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -555,7 +555,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00-CL-29072304 | https://fn-builds.net/season-html/S27.html |
+| 27.00-CL-29072304 | https://fn-builds.net/season-html/S27.html | https://gofile.io/d/5Tmunk | https://store3.gofile.io/download/web/61486d16-b0ef-48fd-a3e8-df96f750248d/27.00-CL-29072304.7z |
 | 27.10-CL-29552510 | https://fn-builds.net/season-html/S27.html |
 | 27.11-CL-29739262 | https://fn-builds.net/season-html/S27.html | https://cold-na-phx-7.gofile.io/download/web/fa1058b3-a9c4-492e-abde-2c842b4871c6/27.11-CL-29739262.7z | https://gofile.io/d/U1fRO1 |
 
@@ -653,6 +653,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 # Small Contributors
 
 [MTOnline](https://x.com/MTOnline_): 10.20.2 (10.20-CL-8456527), 15.10-CL-15014719
+
+peppa pig: 27.00-CL-29072304, 34.10-CL-40567068
 
 [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848, 31.20-CL-36253989
 

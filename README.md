@@ -84,7 +84,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | OT6 (4.11.0-2801990) | Lost |
 | OT6.1 (4.1?.0-???????) | Lost |
 | OT6.2 (4.1?.0-???????) | Lost |
-| OT6.5 | https://public.simplyblk.xyz/OT0.6.5.zip | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://galaxiafn.co.uk/0.6.5.zip |
+| OT6.5 (4.12.0-2870186) (Windows, Windows, Windows) | https://public.simplyblk.xyz/OT0.6.5.zip | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://galaxiafn.co.uk/0.6.5.zip |
 | OT6.6 (4.12.0-2898795) | Lost |
 | OT6.7 (4.12.0-2919741) | Lost |
 | OT7 (4.12.0-3012530) | Lost |

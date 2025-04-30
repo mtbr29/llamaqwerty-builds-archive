@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/vsnko56kregrd7iihvyj4/Fortnite-Builds-Text-Archive-11.00.txt?rlkey=0balmgyxhpeqqvqkkftqz72ad&st=ly26r5tl&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/3x373vjxx7ubqq4e1r3nk/Fortnite-Builds-Text-Archive-11.10.txt?rlkey=80eosppoeqclsuj6d3lvtz4f2&st=aqx181y1&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -30,15 +30,17 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[SideLeek03588](https://gofile.io/d/OSgxd5): OT11 (PC & Xbox), 1.2.0, 16.30, 17.10
+[SideLeek03588](https://gofile.io/d/OSgxd5): OT11 (PC & Xbox), 1.2.0, 16.30-CL-16163563, 17.10-CL-16745144
 
-[ka pum](https://x.com/KPMisParrot): 14.30, 17.10, 30.40-CL-35235494, 31.40-CL-36874825
+[ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520, 17.10-CL-16745144, 30.40-CL-35235494, 31.40-CL-36874825
 
 [P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
 
-[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00, 16.00, 28.00-CL-29915848, 28.10-CL-30676362, 29.00-CL-32116959, 31.10-CL-35815136, 31.30-CL-36600465
+[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00-CL-14835335, 16.00-CL-15685441, 28.00-CL-29915848, 28.10-CL-30676362, 29.00-CL-32116959, 31.10-CL-35815136, 31.30-CL-36600465
 
-[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20, 9.20, 10.30, 11.01, 11.11, 11.21, 15.20
+[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 15.20-CL-15070882
+
+peppa pig: 4.10-CL-4053532, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068
 
 and to all the people who archived any links in Wayback Machine
 
@@ -175,7 +177,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 4.00 (4.0-CL-4039451) | https://public.simplyblk.xyz/4.0.zip | https://builds.rebootfn.org/4.0.zip |
-| 4.10 (4.1-CL-4053532) | https://gofile.io/d/vKl59V | https://gofile.io/d/WAM4KE |
+| 4.10 (4.1-CL-4053532) (EXC) | https://cold-na-phx-3.gofile.io/download/web/78c2c098-0117-40d3-abd6-2fb949c68508/4.10-CL-4053532.zip | https://cold-na-phx-6.gofile.io/download/web/7296b906-ffd0-4973-9573-25f1f6886123/4.1.rar | https://gofile.io/d/vKl59V |
 | 4.20 (4.2-CL-4072250) | https://public.simplyblk.xyz/4.2.zip | https://builds.rebootfn.org/4.2.zip | https://galaxiafn.co.uk/4.2.zip |
 | 4.30 (4.3-CL-4095806) | Lost |
 | 4.30.1 (4.3-CL-4103483) | Lost |
@@ -408,15 +410,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 17
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 17.00 with unknown CL | Unavailable |
-| 17.00-CL-16555138 | Status Pending |
-| 17.00-CL-16593740 | Status Pending |
+| 17.00-CL-16555138 | Lost |
+| 17.00-CL-16593740 | https://gofile.io/d/OGflPM |
 | 17.10-CL-16701187 | Lost |
 | 17.10-CL-16745144 | https://gofile.io/d/cw0eee | https://cold-na-phx-6.gofile.io/download/web/45d3d2f2-13e0-44d3-87ac-cfcf004f73d8/17.10-CL-16745144.rar | https://cold-na-phx-6.gofile.io/download/web/dbfbaa80-c883-4be9-a6c9-136c088eba2a/17.10-CL-16745144.rar |
 | 17.20-CL-16868155 | Unavailable |
-| 17.21 with unknown CL | Unavailable |
-| 17.21-CL-16949556 | Status Pending |
-| 17.21-CL-16967001 | Status Pending |
+| 17.21-CL-16949556 | Lost |
+| 17.21-CL-16967001 | Unavailable |
 | 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/season-html/S99.html | https://gofile.io/d/cw0eee |
 | 17.40-CL-17215766 | Lost |
 | 17.40-CL-17269705 | https://gofile.io/d/cw0eee | https://cold-na-phx-4.gofile.io/download/web/ad2fe8f4-8bff-4157-9ba2-5aa047e4d848/17.40-CL-17269705.7z | https://cold-na-phx-4.gofile.io/download/web/787de76f-c658-4b85-bcd9-97d60f01be8a/17.40-CL-17269705.7z |
@@ -602,8 +602,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 31.00-CL-35447195 | https://fn-builds.net/season-html/S31.html | https://cold-na-phx-1.gofile.io/download/web/131e631a-22ad-4cb5-8edc-74263389d08d/31.00-CL-35447195.7z | https://gofile.io/d/cw0eee |
-| 31.10-CL-35815136 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee
-| 31.20-CL-36253989 | https://gofile.io/d/JSNFao | https://cold-na-phx-5.gofile.io/download/web/4ef63e11-df62-4158-80c6-6d1f074801b2/Chapter%205%20Season%204%20(v31.20)%20UE%205.5.7z |
+| 31.10-CL-35815136 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
+| 31.20-CL-36253989 (EXC) | https://gofile.io/d/JSNFao | https://cold-na-phx-5.gofile.io/download/web/4ef63e11-df62-4158-80c6-6d1f074801b2/Chapter%205%20Season%204%20(v31.20)%20UE%205.5.7z |
 | 31.20-CL-36348034 | Unavailable |
 | 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
 | 31.40-CL-36874825 | https://gofile.io/d/nWzIOp | https://store8.gofile.io/download/web/709d08aa-e86f-42d1-b76c-fdd3b24dd0db/31.40-CL-36874825.zip |
@@ -648,13 +648,13 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 35.00 | Future Release |
+| 35.00 | Releases May 2nd, 2025 |
 
 # Small Contributors
 
-[MTOnline](https://x.com/MTOnline_): 10.20.2 (10.20-CL-8456527), 15.10-CL-15014719
+[MTOnline](https://x.com/MTOnline_): 10.20-CL-8456527, 15.10-CL-15014719
 
-peppa pig: 27.00-CL-29072304, 34.10-CL-40567068
+Anonymous: 17.00-CL-16593740
 
 [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848, 31.20-CL-36253989
 

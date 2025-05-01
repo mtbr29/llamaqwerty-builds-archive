@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/3x373vjxx7ubqq4e1r3nk/Fortnite-Builds-Text-Archive-11.10.txt?rlkey=80eosppoeqclsuj6d3lvtz4f2&st=aqx181y1&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/gqcetzw3bumhjjldj1yby/Fortnite-Builds-Text-Archive-11.11.txt?rlkey=cdfdp3s72yy61wk3nn6oalno4&st=gbtuns2x&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -32,15 +32,15 @@ Thank you to the following archivists for maintaining most of the builds
 
 [SideLeek03588](https://gofile.io/d/OSgxd5): OT11 (PC & Xbox), 1.2.0, 16.30-CL-16163563, 17.10-CL-16745144
 
-[ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520, 17.10-CL-16745144, 30.40-CL-35235494, 31.40-CL-36874825
+[ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520, 17.00-CL-16593740, 17.10-CL-16745144, 17.21-CL-16967001, 30.40-CL-35235494, 31.40-CL-36874825
 
 [P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
 
 [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00-CL-14835335, 16.00-CL-15685441, 28.00-CL-29915848, 28.10-CL-30676362, 29.00-CL-32116959, 31.10-CL-35815136, 31.30-CL-36600465
 
-[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 15.20-CL-15070882
+[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 15.20-CL-15070882
 
-peppa pig: 4.10-CL-4053532, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068
+peppa pig: 4.10-CL-4053532, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960
 
 and to all the people who archived any links in Wayback Machine
 
@@ -308,9 +308,9 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 11.31-CL-10760473 | Lost |
 | 11.31-CL-10795579 | Lost |
 | 11.31-CL-10800459 | https://public.simplyblk.xyz/11.31.rar |
-| 11.40-CL-10951104 | Status Pending |
-| 11.40-CL-11039906 | Status Pending |
-| 11.40-CL-11109625 | Status Pending |
+| 11.40-CL-10951104 | Lost |
+| 11.40-CL-11039906 | https://gofile.io/d/18dYDk | https://store3.gofile.io/download/web/7e1bda88-4ec1-40a8-9122-ed4228771700/11.40.rar |
+| 11.40-CL-11109625 | Lost |
 | 11.50-CL-11204868 | Lost |
 | 11.50-CL-11265652 | Unavailable |
 
@@ -411,12 +411,12 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 17.00-CL-16555138 | Lost |
-| 17.00-CL-16593740 | https://gofile.io/d/OGflPM |
+| 17.00-CL-16593740 | https://gofile.io/d/OGflPM | https://store8.gofile.io/download/web/77a2a245-c509-40d4-8474-5c34f61c93bc/17.00-CL-16593740.rar |
 | 17.10-CL-16701187 | Lost |
 | 17.10-CL-16745144 | https://gofile.io/d/cw0eee | https://cold-na-phx-6.gofile.io/download/web/45d3d2f2-13e0-44d3-87ac-cfcf004f73d8/17.10-CL-16745144.rar | https://cold-na-phx-6.gofile.io/download/web/dbfbaa80-c883-4be9-a6c9-136c088eba2a/17.10-CL-16745144.rar |
 | 17.20-CL-16868155 | Unavailable |
 | 17.21-CL-16949556 | Lost |
-| 17.21-CL-16967001 | Unavailable |
+| 17.21-CL-16967001 | https://gofile.io/d/5dzP9e | https://store8.gofile.io/download/web/24c485d9-968c-4914-8eac-6e01f7936fd4/17.21-CL-16967001.rar |
 | 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/season-html/S99.html | https://gofile.io/d/cw0eee |
 | 17.40-CL-17215766 | Lost |
 | 17.40-CL-17269705 | https://gofile.io/d/cw0eee | https://cold-na-phx-4.gofile.io/download/web/ad2fe8f4-8bff-4157-9ba2-5aa047e4d848/17.40-CL-17269705.7z | https://cold-na-phx-4.gofile.io/download/web/787de76f-c658-4b85-bcd9-97d60f01be8a/17.40-CL-17269705.7z |
@@ -549,7 +549,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 26.00-CL-27424790 | https://fn-builds.net/season-html/S26.html | https://gofile.io/d/cw0eee | https://cold7.gofile.io/download/web/51fb6e70-5486-4943-a94a-65c26203d12d/26.00-CL-27424790.7z |
 | 26.10-CL-27681420 | https://fn-builds.net/season-html/S26.html | https://gofile.io/d/cw0eee | https://cold-na-phx-1.gofile.io/download/web/5e18e5cc-11b5-42f8-b965-14bd2812edf9/26.10-CL-27681420.7z |
 | 26.20-CL-28096793 | https://fn-builds.net/season-html/S26.html | https://gofile.io/d/cw0eee | https://cold2.gofile.io/download/web/1bd0d657-6f84-4ff0-adfe-253c294c4f5a/26.20-CL-28096793.7z |
-| 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
+| 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip | https://gofile.io/d/NozXUM | https://store1.gofile.io/download/web/98025f63-94b8-43b9-8aba-d919fc8667ac/26.30.zip |
 | 26.30-CL-28688692 | https://fn-builds.net/season-html/S26.html | https://gofile.io/d/cw0eee | https://cold7.gofile.io/download/web/39f85518-17f7-42f4-a765-bba4c63e2b58/26.30-CL-28688692.7z |
 
 ## Season 27
@@ -640,7 +640,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 34.00-CL-40446427 | Lost |
 | 34.10-CL-40567068 | https://fn-builds.net/season-html/S34.html | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view | https://gofile.io/d/cw0eee |
 | 34.20-CL-40965447 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/c4d74744-00ce-40a5-9370-f7ccce393ff4/34.20-CL-40965447.7z |
-| 34.21-CL-41092960 | Manifest Available |
+| 34.21-CL-41092960 | https://gofile.io/d/5Tmunk | https://store10.gofile.io/download/web/e1b56d5f-1f4a-4e1f-92b4-b87128bf50b1/34.21.rar |
 | 34.30-CL-41387772 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold8.gofile.io/download/web/6d1e463d-9676-4af7-a230-3fcf9f3241fc/34.30-CL-41387772.7z |
 | 34.30-CL-41588354 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/a9b93fe7-d7e2-493a-95e6-22f5a12ae02e/34.30-CL-41588354.7z |
 | 34.40-CL-41753727 | Current |

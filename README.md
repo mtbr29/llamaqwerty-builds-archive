@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/gqcetzw3bumhjjldj1yby/Fortnite-Builds-Text-Archive-11.11.txt?rlkey=cdfdp3s72yy61wk3nn6oalno4&st=gbtuns2x&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/cxpdadw8ajenphje1x70e/Fortnite-Builds-Text-Archive-11.12.txt?rlkey=ukc2rplnksyx2sz30lrpy5y12&st=z66lvj4a&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -40,7 +40,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 15.20-CL-15070882
 
-peppa pig: 4.10-CL-4053532, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960
+peppa pig: 4.10-CL-4053532, 19.00-CL-18335626, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960
 
 and to all the people who archived any links in Wayback Machine
 
@@ -300,7 +300,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 11.10-CL-9844520 | Unavailable |
 | 11.10-CL-9901083 | Unavailable |
 | 11.11-CL-10082788 | https://gofile.io/d/6Gc38g | https://store8.gofile.io/download/web/36c868ab-9210-405f-bcb0-2db044f89eb9/11.11.rar |
-| 11.20-CL-10297577 | Unavailable |
+| 11.20-CL-10297577 | https://gofile.io/d/X9eLzX | https://store3.gofile.io/download/web/7dd67b9f-20da-45dd-ab5d-c50c088ca278/11.20-CL-10297577.7z |
 | 11.20-CL-10328358 | Lost |
 | 11.21-CL-10481509 | https://gofile.io/d/1PtVif | https://cold5.gofile.io/download/web/9fb8d7d9-007d-4dcc-bf55-7ea5a67ede33/11.21.rar |
 | 11.30-CL-10639804 | Lost |
@@ -439,7 +439,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.00-CL-18335626 | https://archive.org/compress/fortnite-19.01.7z |
+| 19.00-CL-18335626 | https://gofile.io/d/5Tmunk | https://cold5.gofile.io/download/web/9bd15662-9e53-46fd-a2e2-824cd7274048/19.00CL18335626.rar | https://archive.org/compress/fortnite-19.01.7z |
 | 19.00-CL-18380290 | Lost |
 | 19.01-CL-18415863 | Lost |
 | 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip |
@@ -603,7 +603,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 31.00-CL-35447195 | https://fn-builds.net/season-html/S31.html | https://cold-na-phx-1.gofile.io/download/web/131e631a-22ad-4cb5-8edc-74263389d08d/31.00-CL-35447195.7z | https://gofile.io/d/cw0eee |
 | 31.10-CL-35815136 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
-| 31.20-CL-36253989 (EXC) | https://gofile.io/d/JSNFao | https://cold-na-phx-5.gofile.io/download/web/4ef63e11-df62-4158-80c6-6d1f074801b2/Chapter%205%20Season%204%20(v31.20)%20UE%205.5.7z |
+| 31.20-CL-36253989 (EXC) | Text Archive Exclusive |
 | 31.20-CL-36348034 | Unavailable |
 | 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
 | 31.40-CL-36874825 | https://gofile.io/d/nWzIOp | https://store8.gofile.io/download/web/709d08aa-e86f-42d1-b76c-fdd3b24dd0db/31.40-CL-36874825.zip |
@@ -654,9 +654,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 [MTOnline](https://x.com/MTOnline_): 10.20-CL-8456527, 15.10-CL-15014719
 
-Anonymous: 17.00-CL-16593740
+[AllyJax](https://x.com/AllyJax_): 11.20-CL-10297577
 
-[Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848, 31.20-CL-36253989
+Anonymous: 17.00-CL-16593740, 17.21-CL-16967001
+
+[Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848
 
 [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
 

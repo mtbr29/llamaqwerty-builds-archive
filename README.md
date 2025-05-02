@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/cxpdadw8ajenphje1x70e/Fortnite-Builds-Text-Archive-11.12.txt?rlkey=ukc2rplnksyx2sz30lrpy5y12&st=z66lvj4a&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/9ms0yjp5vzdj0u5redpw5/Fortnite-Builds-Text-Archive-11.13.txt?rlkey=xu847fmzvmsmo0eywoezwg4kf&st=0sce510e&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -608,7 +608,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
 | 31.40-CL-36874825 | https://gofile.io/d/nWzIOp | https://store8.gofile.io/download/web/709d08aa-e86f-42d1-b76c-fdd3b24dd0db/31.40-CL-36874825.zip |
 | 31.40-CL-37076506 | Unavailable |
-| 31.41-CL-37324991 | Unavailable |
+| 31.41-CL-37324991 | https://gofile.io/d/4HmTF3 | https://cold-na-phx-5.gofile.io/download/web/c495bca1-5502-4e60-8009-cb280db65d42/31.41.rar |
 
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download
@@ -659,6 +659,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 Anonymous: 17.00-CL-16593740, 17.21-CL-16967001
 
 [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848
+
+Ahamed230: 31.41-CL-37324991
 
 [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
 

@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/fwse5r2y5u3uca9fykcei/Fortnite-Builds-Text-Archive-11.21.txt?rlkey=tdbhl24w8nv6suuo3mode9cnt&st=viaj91fv&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/rjp4l1nqwqtf9uahg7uvq/Fortnite-Builds-Text-Archive-11.22.txt?rlkey=4n3d2pui25xbllengdwd3ap5x&st=8iuu2835&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -36,7 +36,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00-CL-14835335, 16.00-CL-15685441, 28.00-CL-29915848, 28.10-CL-30676362, 29.00-CL-32116959, 31.10-CL-35815136, 31.30-CL-36600465
 
-[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 12.20-CL-12236980, 12.40-CL-12837456, 15.20-CL-15070882
+[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 12.20-CL-12236980, 12.40-CL-12837456, 12.60-CL-13477524, 15.20-CL-15070882
 
 peppa pig: Cert, 4.10-CL-4053532, 19.00-CL-18335626, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
 
@@ -331,7 +331,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.50-CL-13137020 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://fn-builds.net/season-html/S12.html |
 | 12.50-CL-13193885 | Lost |
 | 12.60-CL-13315662 | Lost |
-| 12.60-CL-13477524 | Unavailable |
+| 12.60-CL-13477524 | https://gofile.io/d/q5zOR1 | https://cold2.gofile.io/download/web/b382adbc-d29f-41a3-bfb1-a56779d723bc/12.60.rar |
 | 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://public.privateuser.xyz/12.61.zip | https://fn-builds.net/season-html/S12.html |
 
 ## Season 13

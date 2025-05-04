@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/rjp4l1nqwqtf9uahg7uvq/Fortnite-Builds-Text-Archive-11.22.txt?rlkey=4n3d2pui25xbllengdwd3ap5x&st=8iuu2835&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/wh3x8yfzx6nhqx628jumt/Fortnite-Builds-Text-Archive-11.23.txt?rlkey=n5vlmz7v2y5dileo1jl44esze&st=ozizb8qn&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -41,6 +41,8 @@ Thank you to the following archivists for maintaining most of the builds
 peppa pig: Cert, 4.10-CL-4053532, 19.00-CL-18335626, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
 
 [Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506
+
+[P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -566,7 +568,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/xCiLzn | https://cold2.gofile.io/download/web/80299d50-b897-4cc2-8c73-16ba07b76f2c/FortniteClient-28.10-CL-30676362.7z |
 | 28.10-CL-30835064 | Lost |
 | 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I | https://store-eu-par-3.gofile.io/download/web/ee9186bf-6e85-4d3c-a528-ba855b349a20/%2B%2BFortnite%2BRelease-28.20-CL-31165234-Windows.zip |
-| 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold4.gofile.io/download/web/047a29f2-0314-41b0-8181-015e50db20ed/28.00-CL-29915848.7z |
+| 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://gofile.io/d/Qqngux |
 | 28.30-CL-31511038 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/5a29637b-27cb-479b-aa94-8d1646c2a631/28.30-CL-31511038.7z |
 
 ## Season 29
@@ -662,8 +664,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 Anonymous: 17.00-CL-16593740, 17.21-CL-16967001
 
 [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848, 32.10-CL-37958378
-
-[P2X Optic](https://www.youtube.com/@Yanny57): 30.00-CL-33760522, 33.00-CL-38324112
 
 Ahamed230: 31.41-CL-37324991
 

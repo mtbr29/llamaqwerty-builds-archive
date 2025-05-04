@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/brtzojom3xmvyqefneash/Fortnite-Builds-Text-Archive-11.20.txt?rlkey=iricmd4v3omjuyq4rlfbaxnpb&st=1beqg58r&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/fwse5r2y5u3uca9fykcei/Fortnite-Builds-Text-Archive-11.21.txt?rlkey=tdbhl24w8nv6suuo3mode9cnt&st=viaj91fv&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -34,15 +34,13 @@ Thank you to the following archivists for maintaining most of the builds
 
 [ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520, 17.00-CL-16593740, 17.10-CL-16745144, 17.21-CL-16967001, 30.40-CL-35235494, 31.40-CL-36874825
 
-[P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
-
 [Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 15.00-CL-14835335, 16.00-CL-15685441, 28.00-CL-29915848, 28.10-CL-30676362, 29.00-CL-32116959, 31.10-CL-35815136, 31.30-CL-36600465
 
-[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 15.20-CL-15070882
+[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 12.20-CL-12236980, 12.40-CL-12837456, 15.20-CL-15070882
 
 peppa pig: Cert, 4.10-CL-4053532, 19.00-CL-18335626, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
 
-and to all the people who archived any links in Wayback Machine
+[Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -323,11 +321,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.10-CL-11794982 | Lost |
 | 12.10-CL-11883027 | https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view | https://gofile.io/d/coTI0e | https://cold-na-phx-7.gofile.io/download/web/30e84147-7638-4f5d-a8c8-96bcad6766d3/%2B%2BFortnite%2BRelease-12.10-CL-11883027.zip |
 | 12.20-CL-12170032 | Lost |
-| 12.20-CL-12236980 | Unavailable |
+| 12.20-CL-12236980 | https://gofile.io/d/O4W01n | https://cold3.gofile.io/download/web/b929cd5f-eece-46e1-b861-e96435e89436/12.20.rar |
 | 12.21-CL-12353830 | https://public.simplyblk.xyz/12.21.zip | https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view |
 | 12.30-CL-12493283 | Unavailable |
 | 12.30-CL-12624643 | Lost |
-| 12.40-CL-12837456 | Unavailable |
+| 12.40-CL-12837456 | https://gofile.io/d/SoXAvR | https://cold5.gofile.io/download/web/a9f5001e-bf61-4cfe-baf1-c65b864bc5b1/12.40.rar |
 | 12.41-CL-12905909 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50-CL-13044369 | Lost |
 | 12.50-CL-13137020 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://fn-builds.net/season-html/S12.html |
@@ -567,8 +565,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 28.01-CL-30313795 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/68dcb8f4-e9db-4c78-8c58-07ea7afd9389/28.01-CL-30313795.7z | 
 | 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/xCiLzn | https://cold2.gofile.io/download/web/80299d50-b897-4cc2-8c73-16ba07b76f2c/FortniteClient-28.10-CL-30676362.7z |
 | 28.10-CL-30835064 | Lost |
-| 28.20-CL-31165234 | https://gofile.io/d/e9BQ6I | https://store-eu-par-3.gofile.io/download/web/ee9186bf-6e85-4d3c-a528-ba855b349a20/%2B%2BFortnite%2BRelease-28.20-CL-31165234-Windows.zip |
-| 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/i0Q85G | https://gofile.io/d/cw0eee |
+| 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I | https://store-eu-par-3.gofile.io/download/web/ee9186bf-6e85-4d3c-a528-ba855b349a20/%2B%2BFortnite%2BRelease-28.20-CL-31165234-Windows.zip |
+| 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold4.gofile.io/download/web/047a29f2-0314-41b0-8181-015e50db20ed/28.00-CL-29915848.7z |
 | 28.30-CL-31511038 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/5a29637b-27cb-479b-aa94-8d1646c2a631/28.30-CL-31511038.7z |
 
 ## Season 29
@@ -607,7 +605,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 31.20-CL-36348034 | https://buzzheavier.com/3gcnp6jyjjpy |
 | 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
 | 31.40-CL-36874825 | https://gofile.io/d/nWzIOp | https://store8.gofile.io/download/web/709d08aa-e86f-42d1-b76c-fdd3b24dd0db/31.40-CL-36874825.zip |
-| 31.40-CL-37076506 | Unavailable |
+| 31.40-CL-37076506 | https://buzzheavier.com/iqxbcnu8ggyu |
 | 31.41-CL-37324991 | https://gofile.io/d/4HmTF3 | https://cold-na-phx-5.gofile.io/download/web/c495bca1-5502-4e60-8009-cb280db65d42/31.41.rar |
 
 ## Season 32
@@ -665,7 +663,7 @@ Anonymous: 17.00-CL-16593740, 17.21-CL-16967001
 
 [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848, 32.10-CL-37958378
 
-[Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034
+[P2X Optic](https://www.youtube.com/@Yanny57): 30.00-CL-33760522, 33.00-CL-38324112
 
 Ahamed230: 31.41-CL-37324991
 
@@ -675,5 +673,7 @@ Ahamed230: 31.41-CL-37324991
 Milestones:
 
 10 Stars, April 7th, 2025
+
+20 Stars, May 4th, 2025
 
 For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)

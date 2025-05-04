@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/z5i7asjk5g0wjl4l6517k/Fortnite-Builds-Text-Archive-11.14.txt?rlkey=unydayfbv7jtnz8stawqy3ec6&st=u54uzsmt&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/brtzojom3xmvyqefneash/Fortnite-Builds-Text-Archive-11.20.txt?rlkey=iricmd4v3omjuyq4rlfbaxnpb&st=1beqg58r&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -30,7 +30,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[SideLeek03588](https://gofile.io/d/OSgxd5): OT11 Xbox One, 16.30-CL-16163563, 17.10-CL-16745144
+[SideLeek03588](https://gofile.io/d/OSgxd5): OT11 Windows, OT11 Xbox One, 1.2, 16.30-CL-16163563, 17.10-CL-16745144
 
 [ka pum](https://x.com/KPMisParrot): 14.30-CL-14456520, 17.00-CL-16593740, 17.10-CL-16745144, 17.21-CL-16967001, 30.40-CL-35235494, 31.40-CL-36874825
 
@@ -40,7 +40,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 15.20-CL-15070882
 
-peppa pig: 4.10-CL-4053532, 19.00-CL-18335626, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
+peppa pig: Cert, 4.10-CL-4053532, 19.00-CL-18335626, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
 
 and to all the people who archived any links in Wayback Machine
 
@@ -97,7 +97,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | OT10 (4.14.0-3234896) | Lost |
 | OT10.1 (4.14.0-3240987) | Lost |
 | OT10.?? (4.16.0-3307419) (PS4, PS4) | https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | https://archive.org/details/fortnite-mailapp-ot10 |
-| OT11.?? (4.16.0-3471515) (Windows, Windows, Windows) | https://archive.org/details/fortnite-ot-11-pc |
+| OT11.?? (4.16.0-3471515) (Windows, Windows, Windows) | https://gofile.io/d/4j2ayO | https://store-eu-par-3.gofile.io/download/web/99ab6c7b-814f-4926-8cd9-9eea49bb2c45/OT11%20PC.zip | https://archive.org/details/fortnite-ot-11-pc |
 | OT11 (4.16.0-3472679) (PS4) (EXC) | https://archive.org/compress/fortnite_ot11_ps4 |
 | OT11.0.?? (4.16.0-3472997) (Xbox One, Xbox One) | https://store4.gofile.io/download/web/a71952c4-e5db-44e4-ac07-ec3a9e052e30/OT11%20Xbox.zip | https://gofile.io/d/uIR7kc |
 | OT11.0.3? (4.16.0-3481474) | Lost |
@@ -110,8 +110,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| Cert (Cert-CL-3532353) (Windows) (EXC) | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
-| 1.2.0 (Cert-CL-3541083) | Unavailable |
+| Cert (Cert-CL-3532353) (Windows, Windows, Windows) (EXC) | https://gofile.io/d/IV7BUC | https://store-eu-par-1.gofile.io/download/web/a5a3850d-9e08-4cd2-9d3f-923f4a547607/%2B%2BFortnite%2BCert-CL-3532353.7z | https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z |
+| 1.2.0 (Cert-CL-3541083) | https://gofile.io/d/9HYfIm | https://store-eu-par-3.gofile.io/download/web/9790ea12-d3a2-4fb4-b354-d6edceb0cc9c/1.2.rar |
 | 1.4.0 | Lost |
 | 1.4.1 | Lost |
 | 1.4.2 | Lost |
@@ -567,7 +567,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 28.01-CL-30313795 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/68dcb8f4-e9db-4c78-8c58-07ea7afd9389/28.01-CL-30313795.7z | 
 | 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/xCiLzn | https://cold2.gofile.io/download/web/80299d50-b897-4cc2-8c73-16ba07b76f2c/FortniteClient-28.10-CL-30676362.7z |
 | 28.10-CL-30835064 | Lost |
-| 28.20-CL-31165234 | Unavailable |
+| 28.20-CL-31165234 | https://gofile.io/d/e9BQ6I | https://store-eu-par-3.gofile.io/download/web/ee9186bf-6e85-4d3c-a528-ba855b349a20/%2B%2BFortnite%2BRelease-28.20-CL-31165234-Windows.zip |
 | 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/i0Q85G | https://gofile.io/d/cw0eee |
 | 28.30-CL-31511038 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/5a29637b-27cb-479b-aa94-8d1646c2a631/28.30-CL-31511038.7z |
 
@@ -604,7 +604,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 31.00-CL-35447195 | https://fn-builds.net/season-html/S31.html | https://cold-na-phx-1.gofile.io/download/web/131e631a-22ad-4cb5-8edc-74263389d08d/31.00-CL-35447195.7z | https://gofile.io/d/cw0eee |
 | 31.10-CL-35815136 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
 | 31.20-CL-36253989 (EXC) | Text Archive Exclusive |
-| 31.20-CL-36348034 | Unavailable |
+| 31.20-CL-36348034 | https://buzzheavier.com/3gcnp6jyjjpy |
 | 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
 | 31.40-CL-36874825 | https://gofile.io/d/nWzIOp | https://store8.gofile.io/download/web/709d08aa-e86f-42d1-b76c-fdd3b24dd0db/31.40-CL-36874825.zip |
 | 31.40-CL-37076506 | Unavailable |
@@ -629,26 +629,31 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 33.20-CL-39082670 | https://fn-builds.net/season-html/S33.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/386c331c-d8c9-45b6-81f7-7b708edacd3b/33.20-CL-39082670.7z |
 | 33.20-CL-39277041 | Unavailable |
 | 33.30-CL-39435251 | https://fn-builds.net/season-html/S33.html | https://gofile.io/d/cw0eee | https://cold-na-phx-1.gofile.io/download/web/3b294036-aede-4096-8948-a13e3af125c3/33.30-CL-39435251.7z |
-| 33.30-CL-39768313 | Lost |
+| 33.30-CL-39768313 | Unavailable |
 
 ## Season 34
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 34.00-CL-40085084 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://store-ap-hkg-1.gofile.io/download/web/a8262bae-7690-4c52-a4ff-0760899b74da/34.00-CL-40085084.7z |
 | 34.00-CL-40228973 | Unavailable |
-| 34.00-CL-40398515 | Lost |
+| 34.00-CL-40398515 | Unavailable |
 | 34.00-CL-40446427 | Lost |
 | 34.10-CL-40567068 | https://fn-builds.net/season-html/S34.html | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view | https://gofile.io/d/cw0eee |
 | 34.20-CL-40965447 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/c4d74744-00ce-40a5-9370-f7ccce393ff4/34.20-CL-40965447.7z |
 | 34.21-CL-41092960 | https://gofile.io/d/5Tmunk | https://store10.gofile.io/download/web/e1b56d5f-1f4a-4e1f-92b4-b87128bf50b1/34.21.rar |
 | 34.30-CL-41387772 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold8.gofile.io/download/web/6d1e463d-9676-4af7-a230-3fcf9f3241fc/34.30-CL-41387772.7z |
 | 34.30-CL-41588354 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/a9b93fe7-d7e2-493a-95e6-22f5a12ae02e/34.30-CL-41588354.7z |
-| 34.40-CL-41753727 | Manifest Obtainable |
+| 34.40-CL-41753727 | https://fn-builds.net/season-html/S34.html |
 
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 35.00-CL-41994699 | https://gofile.io/d/RRY5hN | https://store1.gofile.io/download/web/883edd6f-ac6c-4e6a-ae93-f6943e6c68a4/fortnite35.00_first_CL.rar |
+
+## Other
+| Build | Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|
+| QAGame | Unavailable |
 
 # Small Contributors
 
@@ -659,6 +664,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 Anonymous: 17.00-CL-16593740, 17.21-CL-16967001
 
 [Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848, 32.10-CL-37958378
+
+[Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034
 
 Ahamed230: 31.41-CL-37324991
 

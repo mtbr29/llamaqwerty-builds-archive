@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/3896i0klbfanhplbva8h7/Fortnite-Builds-Text-Archive-11.24.txt?rlkey=h3meqm85c1ym29wln4u0oq9s0&st=xfrij9su&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ei6nbluelshp174xytg6i/Fortnite-Builds-Text-Archive-11.25.txt?rlkey=cd9n0h9teq9l5rpr0q1cdcemb&st=ujab3t70&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -38,7 +38,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 6.20-CL-4497486, 9.20-CL-6822798, 10.30-CL-8569414, 11.01-CL-9728272, 11.11-CL-10082788, 11.21-CL-10481509, 11.40-CL-11039906, 12.20-CL-12236980, 12.40-CL-12837456, 12.60-CL-13477524, 15.20-CL-15070882
 
-peppa pig: Cert, 4.10-CL-4053532, 19.00-CL-18335626, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
+peppa pig: Cert, 4.10-CL-4053532, 19.00-CL-18335626, 23.10-CL-23572221, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
 
 [Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506
 
@@ -504,7 +504,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/485d3737-abc6-451e-b689-03c58f31ca0c/23.00-CL-23344627.7z |
 | 23.10-CL-23443094 | Unavailable |
-| 23.10-CL-23572221 | https://fn-builds.net/season-html/S23.html |
+| 23.10-CL-23572221 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/5Tmunk | https://store5.gofile.io/download/web/b5b61edc-2dd4-4261-b8b8-a7572b205668/23.10-CL-23572221.zip |
 | 23.20-CL-23659353 | Lost |
 | 23.20-CL-23783097 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/cw0eee | https://cold-na-phx-5.gofile.io/download/web/beab1ef1-6f8c-49d1-b255-b01a6b1bcac3/23.20-CL-23783097.zip |
 | 23.30-CL-23901854 | Lost |

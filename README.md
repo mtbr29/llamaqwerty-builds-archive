@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/wh3x8yfzx6nhqx628jumt/Fortnite-Builds-Text-Archive-11.23.txt?rlkey=n5vlmz7v2y5dileo1jl44esze&st=ozizb8qn&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/3896i0klbfanhplbva8h7/Fortnite-Builds-Text-Archive-11.24.txt?rlkey=h3meqm85c1ym29wln4u0oq9s0&st=xfrij9su&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -451,7 +451,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 19.30-CL-18948597 | Status Pending |
 | 19.30-CL-19027703 | Status Pending |
 | 19.40-CL-19167615 | Lost |
-| 19.40-CL-19215531 | Unavailable |
+| 19.40-CL-19215531 | https://gofile.io/d/QDahzx | https://store9.gofile.io/download/web/552ad80b-a0b4-4561-9cd4-efc67154224d/19.40-CL-19215531.7z |
 
 ## Season 20
 | Build | Download | Alternative Download | Alternative Download
@@ -659,7 +659,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 [MTOnline](https://x.com/MTOnline_): 10.20-CL-8456527, 15.10-CL-15014719
 
-[AllyJax](https://x.com/AllyJax_): 11.20-CL-10297577
+[AllyJax](https://x.com/AllyJax_): 11.20-CL-10297577, 19.40-CL-19215531
 
 Anonymous: 17.00-CL-16593740, 17.21-CL-16967001
 

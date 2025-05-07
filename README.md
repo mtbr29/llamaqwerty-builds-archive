@@ -53,6 +53,13 @@ I would love to have feedback so I know what to improve in future updates, also 
 
 Both methods are acceptable if you have a build you want to contribute
 
+# Issues
+If you have issues downloading from different links then check to see if they are addressed here
+
+Certain links don't work on the first try
+
+Buzzheavier will be broken if your adblocker is enabled
+
 # Notes
 I am not the owner of any of these builds and am not resposible for any of the drives they are on
 

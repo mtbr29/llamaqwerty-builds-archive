@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/t1r6ojzekc91oaq2z4850/Fortnite-Builds-Text-Archive-12.10.txt?rlkey=d29sths9r0zqy7wojhj2s03mm&st=79mzvyl9&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/vgarisaufux0fwhibxvdu/Fortnite-Builds-Text-Archive-12.20.txt?rlkey=em2pxelpianj0vp8zaf8tw4zk&st=5y3u2fpq&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -38,11 +38,11 @@ Thank you to the following archivists for maintaining most of the builds
 
 [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 11.01-CL-9728272, 11.40-CL-11039906, 12.20-CL-12236980, 12.40-CL-12837456, 12.60-CL-13477524, 13.20-CL-13777676, 13.30-CL-13884634, 14.10-CL-14312695, 14.20-CL-14384759, 15.20-CL-15070882, 15.21-CL-15083856, 16.20-CL-16042441, 19.30-CL-19027703
 
-peppa pig: Cert, 4.10-CL-4053532, 19.00-CL-18335626, 23.10-CL-23572221, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699
+peppa pig: Cert, 4.10-CL-4053532, 18.21-CL-17811397, 19.00-CL-18335626, 23.10-CL-23572221, 26.30-CL-28509302, 27.00-CL-29072304, 31.20-CL-36253989, 34.10-CL-40567068, 34.21-CL-41092960, 35.00-CL-41994699, 35.00-CL-42223143
 
 [Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506, 32.00-CL-37770125, 33.00-CL-38504598, 33.20-CL-39277041, 33.30-CL-39768313, 34.00-CL-40398515
 
-[P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
+[P2X Optic](https://www.youtube.com/@Yanny57): 14.50-CL-14643651, 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -371,7 +371,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.40-CL-14512399 | Lost |
 | 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar |
 | 14.50-CL-14617811 | Lost |
-| 14.50-CL-14643651 | Unavailable |
+| 14.50-CL-14643651 | https://gofile.io/d/fFsvQG | https://store9.gofile.io/download/web/0ceb9053-1a85-4fda-8f02-3be6d9dbd567/14.50.7z |
 | 14.60-CL-14756138 | Lost |
 | 14.60-CL-14785135 | Lost |
 | 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-i262d0f01ceecdb2570b7296a375f3701
@@ -441,7 +441,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 18.10-CL-17661844 | https://fn-builds.net/season-html/S18.html | https://5.gigafile.nu/0511-m8d08b7172e063a1b84787fa746e0de32 |
 | 18.20-CL-17745267 | Lost |
 | 18.20-CL-17792290 | https://fn-builds.net/season-html/S18.html | https://88.gigafile.nu/0527-gc2653064a070ca25b5824fca38b43648 |
-| 18.21-CL-17811397 | https://fn-builds.net/season-html/S18.html |
+| 18.21-CL-17811397 | https://fn-builds.net/season-html/S18.html | https://gofile.io/d/5Tmunk | https://store2.gofile.io/download/web/8e6feed8-d135-4eed-a9c7-81f40916428d/18.21-CL-17811397.7z |
 | 18.30-CL-17882303 | https://fn-builds.net/season-html/S18.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/3a3e3f1b-0973-49dc-a913-83cac419b06a/18.30-CL-17882303.7z |
 | 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/season-html/S18.html | https://fn-builds.net/season-html/S99.html |
 
@@ -600,7 +600,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 30.00-CL-33962396 | https://fn-builds.net/season-html/S30.html | https://gofile.io/d/cw0eee | https://cold7.gofile.io/download/web/227d5989-ad7a-4a9d-86ba-5f97fa02018d/30.00-CL-33962396.7z |
 | 30.10-CL-34184790 | Unavailable |
 | 30.10-CL-34261954 | https://fn-builds.net/season-html/S30.html | https://42.gigafile.nu/0717-effb1a59382144720b50a0014723c9b1a |
-| 30.10-CL-34399867 | Unavailable |
+| 30.10-CL-34399867 | https://gofile.io/d/RM3OJF | https://store6.gofile.io/download/web/d83d9cb7-f9c3-4730-807c-751a75887c53/30.10%20%5B34399867%5D.zip |
 | 30.20-CL-34488544 | Lost |
 | 30.20-CL-34597766 | https://fn-builds.net/season-html/S30.html | https://gofile.io/d/cw0eee | https://cold-na-phx-5.gofile.io/download/web/68586027-3a72-42f6-b286-85e00a87645c/30.20-CL-34597766.7z |
 | 30.30-CL-34891016 | https://fn-builds.net/season-html/S30.html | https://gofile.io/d/cw0eee | https://cold-na-phx-4.gofile.io/download/web/b5237dee-7a4d-426e-a27d-d83258902fd1/30.30-CL-34891016.7z |
@@ -657,7 +657,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 35.00-CL-41994699 | https://gofile.io/d/RRY5hN | https://store1.gofile.io/download/web/883edd6f-ac6c-4e6a-ae93-f6943e6c68a4/fortnite35.00_first_CL.rar |
-| 35.00-CL-42223143 | Current |
+| 35.00-CL-42223143 | https://gofile.io/d/RRY5hN | https://cold1.gofile.io/download/web/d56c53c0-e6c8-4da2-899c-5f30434505ee/Fortnite_Version_35.00_CL_42223143.rar |
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download
@@ -666,7 +666,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 
 # Small Contributors
 
-[MTOnline](https://x.com/MTOnline_): 10.20-CL-8456527
+[MTOnline](https://x.com/MTOnline_): 10.20-CL-8456527, 30.10-CL-34399867
 
 [AllyJax](https://x.com/AllyJax_): 11.20-CL-10297577, 19.40-CL-19215531
 

@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/vgarisaufux0fwhibxvdu/Fortnite-Builds-Text-Archive-12.20.txt?rlkey=em2pxelpianj0vp8zaf8tw4zk&st=5y3u2fpq&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/v5weohz4wd732dpkworis/Fortnite-Builds-Text-Archive-12.21.txt?rlkey=z36oz9y1gbj5ezgkbtlbo4pyd&st=6oqu0xnk&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -63,7 +63,21 @@ Buzzheavier will be broken if your adblocker is enabled
 # Notes
 I am not the owner of any of these builds and am not resposible for any of the drives they are on
 
-If you have a build considered lost or unavailable then try uploading it and send me the link!
+All builds are Windows builds. If you want builds for alternative platforms then these following links will take you to a different repo:
+
+[Android Builds Archive](https://github.com/itztiva/FortniteAndroidBuilds)
+
+[Chinese Builds Archive](https://github.com/simonhxd/Fortnite-China-Archive)
+
+[iOS Builds Archive](https://github.com/Crunnie/FNiOS-Archive)
+
+[Nintendo Switch Builds Archive](https://github.com/n6617x/FortniteSwitchBuilds)
+
+[PS4 Builds Archive](https://github.com/YorhaX2P/FortnitePS4ArchiveBuild)
+
+[Xbox One Builds Archive](https://archive.org/details/fortnite-xbox-one-dumps)
+
+If you have a build considered lost or  then try uploading it and send me the link!
 
 If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)
 
@@ -178,7 +192,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 3.50 (3.5-CL-3994867) | Lost |
 | 3.50.1 (3.5-CL-4000805) | Lost |
 | 3.50.2 (3.5-CL-4008490) | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://galaxiafn.co.uk/3.5.zip |
-| 3.60 (3.6-CL-4019403) | https://cold-na-phx-6.gofile.io/download/web/5e8cd702-49a6-462b-962e-77dc767c7c54/3.6.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z | https://gofile.io/d/8kJeyY |
+| 3.60 (3.6-CL-4019403) | https://cold-na-phx-6.gofile.io/download/web/5e8cd702-49a6-462b-962e-77dc767c7c54/3.6-CL-4019403.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z | https://gofile.io/d/8kJeyY |
 
 ## Season 4
 | Build | Download | Alternative Download | Alternative Download
@@ -529,7 +543,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | Unavailable |
 | 24.10-CL-24903530 | https://fn-builds.net/season-html/S24.html | https://gofile.io/d/cw0eee | https://cold-na-phx-5.gofile.io/download/web/45ba95c7-1061-4693-a14b-ca0480cfc581/24.10-CL-24903530.zip |
-| 24.20-CL-24939793 | Lost |
+| 24.20-CL-24939793 | Unavailable |
 | 24.20-CL-25019967 | Lost |
 | 24.20-CL-25058254 | Lost |
 | 24.20-CL-25156858 | https://fn-builds.net/season-html/S24.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip |
@@ -625,7 +639,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 32.00-CL-37770125 | https://buzzheavier.com/rnw2uzgol03l | https://flashbang.sh/dl/BiOfnXHaiyngsFgpK52i76FhOLJfsGy0k138Hv8egG6HPk5Kn7IC1ZamDHc8N61pU47CBx5Ig354v44mO3_XIb1DuZuTLlGGHBukM9GcWAkcKy3sY9lXdT8p8ycNN-ukJ14L7PNorEiHnWifELT5GV2glQ?v=1746670310-N9z3kh6+JOT5ZyuaKt8USSOS6vrEluhxL2fkSdaSotg= |
 | 32.10-CL-37958378 | https://gofile.io/d/JSNFao | https://store8.gofile.io/download/web/5f220917-6163-477d-8462-211e5cb6e165/Chapter%202%20REMIX%20(v32.10)%20UE%205.6.zip |
 | 32.11-CL-38202817 (EXC) | https://fn-builds.net/season-html/S32.html | https://gofile.io/d/cw0eee | https://cold-na-phx-5.gofile.io/download/web/d78e553d-3942-47b1-8d87-428a5cb52df0/32.11-CL-38202817.7z |
-| 32.11-CL-38371047 | Unavailable |
+| 32.11-CL-38371047 | https://gofile.io/d/7lcX1x | https://cold3.gofile.io/download/web/f94f288c-099d-4ea7-a37b-fcb81fe41f9d/32.11.rar |
 
 ## Season 33
 | Build | Download | Alternative Download | Alternative Download
@@ -663,6 +677,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | QAGame | Unavailable |
+| Main-CL-21452241 | Unavailable |
 
 # Small Contributors
 
@@ -679,6 +694,8 @@ Anonymous: 17.00-CL-16593740, 17.21-CL-16967001
 Ahamed230: 31.41-CL-37324991
 
 [WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
+
+[blowy_khalil](https://github.com/ToonMares): 32.11-CL-38371047
 
 
 Milestones:

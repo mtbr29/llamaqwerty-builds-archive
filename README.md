@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/g96jy0gn97pz4vqt5vea7/Fortnite-Builds-Text-Archive-12.40.txt?rlkey=smf1gg4pyxanjassv4ygoc29p&st=9avrm7tm&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/j3ho0kgr5p2l551u4rrvr/Fortnite-Builds-Text-Archive-12.41.txt?rlkey=3yoki5c5qft5yy9e3ne57zz4n&st=uhrs4uch&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -44,7 +44,7 @@ peppa pig: Cert, 4.10-CL-4053532, 18.21-CL-17811397, 19.00-CL-18335626, 23.10-CL
 
 [P2X Optic](https://www.youtube.com/@Yanny57): 14.50-CL-14643651, 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
 
-[AllyJax](https://x.com/AllyJax_): 10.00-CL-7658179, 11.20-CL-10297577, 12.00-CL-11586896, 19.40-CL-19215531
+[AllyJax](https://x.com/AllyJax_): 10.00-CL-7658179, 11.00-CL-9603448, 11.20-CL-10297577, 12.00-CL-11586896, 19.40-CL-19215531
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -317,8 +317,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 11.00-CL-9562734 | https://public.simplyblk.xyz/11.00.zip | https://galaxiafn.co.uk/11.00.zip | https://fn-builds.net/season-html/S99.html |
-| 11.00-CL-9603448 | Unavailable |
+| 11.00-CL-9562734 | Unavailable |
+| 11.00-CL-9603448 | https://public.simplyblk.xyz/11.00.zip | https://galaxiafn.co.uk/11.00.zip | https://gofile.io/d/vp34N1 |
 | 11.01-CL-9728272 | https://gofile.io/d/OBM0rx | https://cold3.gofile.io/download/web/81c50169-86fc-4721-a7c9-bce38d6c7257/11.01.rar |
 | 11.10-CL-9844520 | Unavailable |
 | 11.10-CL-9901083 | https://gofile.io/d/7gJcL4 | https://store3.gofile.io/download/web/25e675d8-d3f9-4b61-8829-4d88c90dbb97/11.10-CL-9901083.rar |
@@ -500,8 +500,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Lost |
 | 21.20-CL-20890025 | Unavailable |
-| 21.20-CL-20978394 | Unavailable |
-| 21.20-CL-21035704 | https://fn-builds.net/season-html/S21.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/0b39ad88-2dee-4334-b615-7bc3515b2001/21.20-CL-21035704.7z |
+| 21.20-CL-20978394 | https://fn-builds.net/season-html/S21.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/0b39ad88-2dee-4334-b615-7bc3515b2001/21.20-CL-21035704.7z |
+| 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | Lost |
 | 21.30-CL-21155462 | https://fn-builds.net/season-html/S21.html | https://42.gigafile.nu/0717-mc301100de2f83bb42ee426a177a3010d |
 | 21.40-CL-21348157 | Lost |

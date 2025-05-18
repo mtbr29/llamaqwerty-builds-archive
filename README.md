@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Extra Links
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/j3ho0kgr5p2l551u4rrvr/Fortnite-Builds-Text-Archive-12.41.txt?rlkey=3yoki5c5qft5yy9e3ne57zz4n&st=uhrs4uch&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/78m4spjdim78hct1idh0d/Fortnite-Builds-Text-Archive-12.42.txt?rlkey=11ikqu37kajme0tolx4bsidaq&st=fjescq63&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -674,6 +674,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 35.00-CL-41994699 | https://gofile.io/d/RRY5hN | https://store1.gofile.io/download/web/883edd6f-ac6c-4e6a-ae93-f6943e6c68a4/fortnite35.00_first_CL.rar |
 | 35.00-CL-42223143 | https://gofile.io/d/RRY5hN | https://cold1.gofile.io/download/web/d56c53c0-e6c8-4da2-899c-5f30434505ee/Fortnite_Version_35.00_CL_42223143.rar |
+| 35.10-CL-42476511 | Manifest Available |
+| 35.10-CL-42696140 | Current |
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download

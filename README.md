@@ -65,7 +65,7 @@ All builds are Windows builds. If you want builds for alternative platforms then
 
 [Chinese Builds Archive](https://github.com/simonhxd/Fortnite-China-Archive)
 
-[iOS Builds Archive](https://github.com/Crunnie/FNiOS-Archive)
+[iOS Builds Archive](https://github.com/Repressoh/Fortnite-iOS-Archive)
 
 [Nintendo Switch Builds Archive](https://switch-builds.ezfn.dev/tinfoil_unfiltered.json)
 

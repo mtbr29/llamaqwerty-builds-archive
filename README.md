@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Fortnite Builds Text Archive
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/pjydu2g4ls66sabmo4b0m/Fortnite-Builds-Text-Archive-14.00.txt?rlkey=ddpxj3azrmcf0hvc7l81un3fo&st=bfnhjvlo&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/szuehrexveqj9dwh3mnv2/Fortnite-Builds-Text-Archive-14.01.txt?rlkey=rxx72k4es6mfgs8leectnqecq&st=ur2djq3a&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -32,11 +32,11 @@ Thank you to the following archivists for maintaining most of the builds
 
 [ka pum](https://x.com/KPMisParrot): 11.10-CL-9901083, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155
 
-[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.20-CL-13777676, 13.30-CL-13884634, 14.20-CL-14384759, 15.20-CL-15070882, 15.21-CL-15083856, 16.20-CL-16042441, 19.30-CL-19027703
+[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.20-CL-13777676, 13.30-CL-13884634, 15.20-CL-15070882, 15.21-CL-15083856, 16.20-CL-16042441, 19.30-CL-19027703
 
-peppa pig: 4.10-CL-4053532, 23.10-CL-23572221, 31.20-CL-36253989, 34.10-CL-40567068, 35.00-CL-41994699, 35.00-CL-42223143
+peppa pig: 4.10-CL-4053532, 23.10-CL-23572221, 31.20-CL-36253989, 34.10-CL-40567068, 35.00-CL-42223143
 
-[Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506, 32.00-CL-37770125, 33.00-CL-38504598, 33.20-CL-39277041, 33.30-CL-39768313, 34.00-CL-40228973, 34.00-CL-40398515
+[Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506, 32.00-CL-37770125, 33.00-CL-38504598, 33.20-CL-39277041, 33.30-CL-39768313, 34.00-CL-40398515
 
 [AllyJax](https://x.com/AllyJax_): 10.00-CL-7658179, 11.00-CL-9603448, 12.00-CL-11586896, 19.40-CL-19215531
 
@@ -376,7 +376,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.10-CL-14312695 | Unavailable |
 | 14.20-CL-14354056 | Lost |
 | 14.20-CL-14375974 | Lost |
-| 14.20-CL-14384759 | https://gofile.io/d/KzMzS0 | https://cold3.gofile.io/download/web/819df17b-6423-4674-8d09-dba8b3efc233/14.20.rar |
+| 14.20-CL-14384759 | Unavailable |
 | 14.30-CL-14456520 | https://gofile.io/d/47NC7f | https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar |
 | 14.40-CL-14512399 | Lost |
 | 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar |
@@ -653,12 +653,12 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 34.00-CL-40085084 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://store-ap-hkg-1.gofile.io/download/web/a8262bae-7690-4c52-a4ff-0760899b74da/34.00-CL-40085084.7z |
-| 34.00-CL-40228973 | https://buzzheavier.com/kmohjg3hf9cz |
+| 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40398515 | https://buzzheavier.com/4yo0s79jyvb1 |
 | 34.00-CL-40446427 | Lost |
 | 34.10-CL-40567068 | https://fn-builds.net/season-html/S34.html | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view | https://42.gigafile.nu/0717-j393bdf4cdb427fd046270573d1f75bc0 |
 | 34.20-CL-40965447 | https://fn-builds.net/season-html/S34.html | https://42.gigafile.nu/0717-k22cacca6ad8fa6c08e64c6017890b0e6 |
-| 34.21-CL-41092960 | Unavailable |
+| 34.21-CL-41092960 | Manifest Available |
 | 34.30-CL-41387772 | https://fn-builds.net/season-html/S34.html |
 | 34.30-CL-41588354 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/a9b93fe7-d7e2-493a-95e6-22f5a12ae02e/34.30-CL-41588354.7z |
 | 34.40-CL-41753727 | https://fn-builds.net/season-html/S34.html |
@@ -666,10 +666,11 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 35.00-CL-41994699 | https://gofile.io/d/RRY5hN | https://store1.gofile.io/download/web/883edd6f-ac6c-4e6a-ae93-f6943e6c68a4/fortnite35.00_first_CL.rar |
+| 35.00-CL-41994699 | Manifest Available |
 | 35.00-CL-42223143 | https://gofile.io/d/RRY5hN | https://cold1.gofile.io/download/web/d56c53c0-e6c8-4da2-899c-5f30434505ee/Fortnite_Version_35.00_CL_42223143.rar |
 | 35.10-CL-42476511 | Manifest Available |
-| 35.10-CL-42696140 | Current |
+| 35.10-CL-42696140 | Manifest Available |
+| 35.10-CL-42906078 | Current |
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download

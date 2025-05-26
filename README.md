@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Fortnite Builds Text Archive
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/szuehrexveqj9dwh3mnv2/Fortnite-Builds-Text-Archive-14.01.txt?rlkey=rxx72k4es6mfgs8leectnqecq&st=ur2djq3a&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/lyoo8ej05sdg6fhpp2u9z/Fortnite-Builds-Text-Archive-14.02.txt?rlkey=r402mhi24maunr5pi516woj66&st=4g79emde&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -351,7 +351,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.50-CL-13193885 | Lost |
 | 12.60-CL-13315662 | Lost |
 | 12.60-CL-13477524 | Unavailable |
-| 12.61-CL-13498980 | Unavailable |
+| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://fn-builds.net/season-html/S12.html | https://cold-na-phx-1.gofile.io/download/web/7f7363ff-78da-419d-b64e-9fec1de4e945/12.61.7z |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
@@ -464,7 +464,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip |
 | 19.10-CL-18581131 | Lost |
 | 19.10-CL-18640491 | Lost |
-| 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://public.privateuser.xyz/19.10.rar | https://fn-builds.net/season-html/S99.html |
+| 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0612-h582e4c83be33b7e46c4317b506287508 |
 | 19.20-CL-18775446 | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
 | 19.30-CL-18948597 | Lost |
 | 19.30-CL-19027703 | https://gofile.io/d/jL84uN | https://store-eu-par-2.gofile.io/download/web/cf8a8ba4-f651-41ce-819e-d6a7f7c08ce4/19.30.rar |

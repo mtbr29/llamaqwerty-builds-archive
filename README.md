@@ -30,7 +30,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[ka pum](https://x.com/KPMisParrot): 9.20-CL-6822798, 11.10-CL-9901083, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155
+[ka pum](https://x.com/KPMisParrot): 9.20-CL-6822798, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155
 
 [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.20-CL-13777676, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441, 19.30-CL-19027703
 

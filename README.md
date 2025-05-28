@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Fortnite Builds Text Archive
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/eyd7zyc4pgoiqmta6hw41/Fortnite-Builds-Text-Archive-14.03.txt?rlkey=hx8e34gyz6cxs07l8qlfvh8a7&st=01dhd5dh&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ygufgdyjzohtq36o18nk5/Fortnite-Builds-Text-Archive-14.04.txt?rlkey=xebnh4wf5ofyv62k5c3p94akl&st=1d41r53v&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -30,7 +30,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [Me](https://github.com/llamaqwerty)
 
-[ka pum](https://x.com/KPMisParrot): 9.20-CL-6822798, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155
+[ka pum](https://x.com/KPMisParrot): 9.20-CL-6822798, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155, 23.10-CL-23443094
 
 [CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.20-CL-13777676, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441, 19.30-CL-19027703
 
@@ -521,7 +521,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 23.00-CL-23344627 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/485d3737-abc6-451e-b689-03c58f31ca0c/23.00-CL-23344627.7z |
-| 23.10-CL-23443094 | Unavailable |
+| 23.10-CL-23443094 | https://gofile.io/d/7BSdQ6 | https://store3.gofile.io/download/web/0c22a3bc-4612-49d5-a463-a0accb5af20d/23.10-CL-23443094.rar |
 | 23.10-CL-23572221 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/5Tmunk | https://store5.gofile.io/download/web/b5b61edc-2dd4-4261-b8b8-a7572b205668/23.10-CL-23572221.zip |
 | 23.20-CL-23659353 | Lost |
 | 23.20-CL-23783097 | https://fn-builds.net/season-html/S23.html | https://42.gigafile.nu/0717-ead9fa64f503b29a7cc5e6474c09f3445 |

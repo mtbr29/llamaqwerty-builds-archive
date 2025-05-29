@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Fortnite Builds Text Archive
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/ygufgdyjzohtq36o18nk5/Fortnite-Builds-Text-Archive-14.04.txt?rlkey=xebnh4wf5ofyv62k5c3p94akl&st=1d41r53v&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/9xakpa4a1eqc32a3t1mxo/Fortnite-Builds-Text-Archive-14.05.txt?rlkey=mqdy9jqnzdmwie8hk1axyzpj0&st=1i4q7dl5&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -39,6 +39,8 @@ peppa pig: 4.10-CL-4053532, 23.10-CL-23572221, 31.20-CL-36253989, 34.10-CL-40567
 [Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506, 32.00-CL-37770125, 33.00-CL-38504598, 33.20-CL-39277041, 33.30-CL-39768313, 34.00-CL-40398515
 
 [AllyJax](https://x.com/AllyJax_): 10.00-CL-7658179, 11.00-CL-9603448, 12.00-CL-11586896, 19.40-CL-19215531
+
+[P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
 
 All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
 
@@ -306,7 +308,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 10.31 (10.31-CL-8723043) | https://public.simplyblk.xyz/10.31.zip | https://builds.rebootfn.org/10.31.zip |
 | 10.40 (10.40-CL-8970213) | Lost |
 | 10.40.1 (10.40-CL-9302865) | Lost |
-| 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar | https://cdn.solarisfn.org/10.40.zip |
+| 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar |
 
 ## Season 11
 | Build | Download | Alternative Download | Alternative Download
@@ -377,7 +379,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.20-CL-14354056 | Lost |
 | 14.20-CL-14375974 | Lost |
 | 14.20-CL-14384759 | Unavailable |
-| 14.30-CL-14456520 | https://gofile.io/d/47NC7f | https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar |
+| 14.30-CL-14456520 | https://cdn.solarisfn.dev/Builds/14.30.zip | https://gofile.io/d/47NC7f | https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar |
 | 14.40-CL-14512399 | Lost |
 | 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar |
 | 14.50-CL-14617811 | Lost |
@@ -487,7 +489,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 21.00-CL-20463113 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view | https://cdn.solarisfn.org/21.00.zip |
+| 21.00-CL-20463113 | https://r2.ploosh.dev/21.00.zip | https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view |
 | 21.00-CL-20548557 | Lost |
 | 21.10-CL-20696680 | Unavailable |
 | 21.10-CL-20756627 | Lost |
@@ -586,7 +588,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0716-o1d035c19391dc465e953c687c1d6bcd4 |
 | 28.10-CL-30835064 | https://buzzheavier.com/kxgbxvsrg4yh |
 | 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I | https://store-eu-par-3.gofile.io/download/web/ee9186bf-6e85-4d3c-a528-ba855b349a20/%2B%2BFortnite%2BRelease-28.20-CL-31165234-Windows.zip |
-| 28.20-CL-31286935 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0717-le04e1a02cbad710cc748ee7932929a88 |
+| 28.20-CL-31286935 | https://gofile.io/d/4jCsrg | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0717-le04e1a02cbad710cc748ee7932929a88 |
 | 28.30-CL-31511038 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0717-k31f9b5eef96890bbf85a1830dc17920c |
 
 ## Season 29
@@ -681,8 +683,6 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 # Small Contributors
 
 [SideLeek03588](https://gofile.io/d/OSgxd5): OT11 Xbox One
-
-[P2X Optic](https://www.youtube.com/@Yanny57): 30.00-CL-33760522, 33.00-CL-38324112
 
 Anonymous: 17.00-CL-16593740
 

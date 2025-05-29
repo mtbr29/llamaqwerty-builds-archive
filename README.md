@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Fortnite Builds Text Archive
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/9xakpa4a1eqc32a3t1mxo/Fortnite-Builds-Text-Archive-14.05.txt?rlkey=mqdy9jqnzdmwie8hk1axyzpj0&st=1i4q7dl5&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/90qzxrtf26t79ybg06mqe/Fortnite-Builds-Text-Archive-14.10.txt?rlkey=6cexj1q06u7190oq3rzcwnzh0&st=sqf4urcr&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -14,7 +14,7 @@ Thank you to the following archivists for maintaining most of the builds
 
 [simplyblk](https://github.com/n6617x)
 
-[Tim](https://github.com/timjans01)
+[Timmy](https://github.com/timjans01)
 
 [ByZNexus](https://github.com/ByZNexus)
 
@@ -381,7 +381,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.20-CL-14384759 | Unavailable |
 | 14.30-CL-14456520 | https://cdn.solarisfn.dev/Builds/14.30.zip | https://gofile.io/d/47NC7f | https://store9.gofile.io/download/web/15591799-d688-4330-a1a4-72ebca8806ab/14.30-CL-14456520.rar |
 | 14.40-CL-14512399 | Lost |
-| 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar |
+| 14.40-CL-14550713 | https://public.simplyblk.xyz/14.40.rar | https://cdn.solarisfn.dev/Builds/14.40.rar |
 | 14.50-CL-14617811 | Lost |
 | 14.50-CL-14643651 | Unavailable |
 | 14.60-CL-14756138 | Lost |
@@ -476,10 +476,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 20
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 20.00-CL-19458861 | Unavailable |
+| 20.00-CL-19458861 | https://gofile.io/d/SPLUZm | https://cold-eu-agl-1.gofile.io/download/web/f79f8c1c-3b43-4d66-b3f7-536f28f50409/%2B%2BFortnite%2BRelease-20.00-CL-19458861.rar |
 | 20.00-CL-19532288 | Unavailable |
-| 20.10-CL-19598943 | Unavailable |
-| 20.20-CL-19751212 | Unavailable |
+| 20.10-CL-19598943 | https://gofile.io/d/SPLUZm | https://cold-eu-agl-1.gofile.io/download/web/c216f08d-e11e-408e-96d5-462c0c76a30f/%2B%2BFortnite%2BRelease-20.10-CL-19598943.zip |
+| 20.20-CL-19751212 | https://gofile.io/d/SPLUZm | https://cold-na-phx-6.gofile.io/download/web/8d1b68d6-a72e-49d7-bb3d-92fcd50de824/%2B%2BFortnite%2BRelease-20.20-CL-19751212.zip |
 | 20.20-CL-19896998 | Lost |
 | 20.30-CL-19950687 | Unavailable |
 | 20.30-CL-20037261 | Lost |
@@ -502,7 +502,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 21.30-CL-21155462 | https://fn-builds.net/season-html/S21.html | https://42.gigafile.nu/0717-mc301100de2f83bb42ee426a177a3010d |
 | 21.40-CL-21348157 | Lost |
 | 21.40-CL-21407327 | https://fn-builds.net/season-html/S21.html | https://gofile.io/d/cw0eee | https://cold7.gofile.io/download/web/18a54f3b-91f0-472b-8dea-1cc66dcfde2b/21.40-CL-21407327.7z |
-| 21.50-CL-21657658 | Unavailable |
+| 21.50-CL-21657658 | https://gofile.io/d/3ud3OS | https://store5.gofile.io/download/web/c3db1c3e-4248-4731-a024-94d5f9210676/%2B%2BFortnite%2BRelease-21.50-CL-21657658.zip |
 | 21.51-CL-21735703 | https://fn-builds.net/season-html/S21.html | https://42.gigafile.nu/0717-m8ae45a407b35f1c263d0d4e79ef79c48 |
 
 ## Season 22
@@ -584,7 +584,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 28.00-CL-29915848 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/JSNFao | https://cold-na-phx-6.gofile.io/download/web/1ce4f320-32b8-4b40-8b42-911e73784542/Chapter%205%20Season%201%20(v28.00)%20UE%20NA.7z |
 | 28.01-CL-30106568 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0716-i7e7669848e9bc6eac93ff8a72392d0ba |
-| 28.01-CL-30313795 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/68dcb8f4-e9db-4c78-8c58-07ea7afd9389/28.01-CL-30313795.7z | 
+| 28.01-CL-30313795 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-4.gofile.io/download/web/68dcb8f4-e9db-4c78-8c58-07ea7afd9389/28.01-CL-30313795.7z | 
 | 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0716-o1d035c19391dc465e953c687c1d6bcd4 |
 | 28.10-CL-30835064 | https://buzzheavier.com/kxgbxvsrg4yh |
 | 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I | https://store-eu-par-3.gofile.io/download/web/ee9186bf-6e85-4d3c-a528-ba855b349a20/%2B%2BFortnite%2BRelease-28.20-CL-31165234-Windows.zip |
@@ -670,9 +670,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 35.00-CL-41994699 | Manifest Available |
 | 35.00-CL-42223143 | https://gofile.io/d/RRY5hN | https://cold1.gofile.io/download/web/d56c53c0-e6c8-4da2-899c-5f30434505ee/Fortnite_Version_35.00_CL_42223143.rar |
-| 35.10-CL-42476511 | Manifest Available |
+| 35.10-CL-42476511 | https://gofile.io/d/RRY5hN | https://cold-eu-agl-1.gofile.io/download/web/cac36b42-27ea-42b1-b2eb-3832dc9d92dd/FortNite_Version_35.10_CL-42476511.rar |
 | 35.10-CL-42696140 | Manifest Available |
-| 35.10-CL-42906078 | Current |
+| 35.10-CL-42906078 | Manifest Available |
+| 35.20-CL-42911808 | Current |
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download

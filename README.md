@@ -5,7 +5,7 @@ A build collection like no other.
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 # Fortnite Builds Text Archive
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/gll9u7xom22wy353a087u/Fortnite-Builds-Text-Archive-Temp.txt?rlkey=ppym2zbug8bzcjplut0icx1kx&st=ccaajijx&dl=0)
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/o1ycaupl0i6m4j9jugx9q/Fortnite-Builds-Text-Archive-16.00.txt?rlkey=4txg4cg1q5ep1vul69x30m3h9&st=e3gt9lnx&dl=0)
 
 Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
 
@@ -58,6 +58,9 @@ Certain links don't work on the first try
 
 Buzzheavier will be broken if your adblocker is enabled
 
+# Uploader's Disclosure
+I am implementing requirements necessary if you want your CDN's links included on here. Your links must actively work for the majority of people. The links must be capable of fully downloading without any issues. The bandwidth cap should not be so low that it takes several hours to fully download with the exception of slow internet. If you don't resolve any of these issues, then it will be removed for good no matter the circumstances.
+
 # Notes
 I am not the owner of any of these builds and am not resposible for any of the drives they are on
 
@@ -79,7 +82,7 @@ If you have a build considered lost or  then try uploading it and send me the li
 
 If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)
 
-## Alpha
+## Online Testing
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | OT1 (4.?.0-???????) | Lost |
@@ -209,7 +212,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 5
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 5.00 (5.00-CL-4204761) | https://public.simplyblk.xyz/5.00.rar | https://builds.rebootfn.org/5.00.rar | https://builds.fn-builds.net/5.00.rar |
+| 5.00 (5.00-CL-4204761) | https://public.simplyblk.xyz/5.00.rar | https://builds.rebootfn.org/5.00.rar | https://cold-na-phx-5.gofile.io/download/web/5f6eb534-1e87-4a34-b545-3f1370c31693/5.00.rar |
 | 5.00.1 (5.00-CL-4214610) | https://public.simplyblk.xyz/5.0.1.rar | https://builds.rebootfn.org/5.0.1.rar |
 | 5.10 (5.10-CL-4225813) | Lost |
 | 5.10.1 (5.10-CL-4240749) | https://public.simplyblk.xyz/5.10.rar | https://builds.rebootfn.org/5.10.rar |
@@ -225,7 +228,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 6
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 6.00 (6.00-CL-4395664) | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar | https://fn-builds.net/season-html/S99.html |
+| 6.00 (6.00-CL-4395664) | https://public.simplyblk.xyz/6.00.rar | https://builds.rebootfn.org/6.00.rar | https://106.gigafile.nu/0612-l181501f7f2d329248de27f38c669b4f4 |
 | 6.00.1 (6.00-CL-4402180) | Unavailable |
 | 6.01 (6.01-CL-4417689) | https://public.simplyblk.xyz/6.01.rar | https://builds.rebootfn.org/6.01.rar |
 | 6.01.1 (6.01-CL-4424678) (EXC) | https://public.simplyblk.xyz/6.1.1.rar | https://builds.rebootfn.org/6.1.1.rar |
@@ -246,7 +249,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 7
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 7.00 (7.00-CL-4629139) | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar | https://fn-builds.net/season-html/S99.html |
+| 7.00 (7.00-CL-4629139) | https://public.simplyblk.xyz/7.00.rar | https://builds.rebootfn.org/7.00.rar | https://106.gigafile.nu/0612-k149ec903997b36866d386d1330c2b6ac |
 | 7.01 (7.01-CL-4648651) | Lost |
 | 7.10 (7.10-CL-4667333) (EXC) | https://public.simplyblk.xyz/7.10.rar | https://builds.rebootfn.org/7.10.rar |
 | 7.20 (7.20-CL-4716934) | Lost |
@@ -270,7 +273,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 8.10.1 (8.10-CL-5372009) | Lost |
 | 8.11 (8.11-CL-5442615) | Lost |
 | 8.20 (8.20-CL-5547534) | Lost |
-| 8.20.1 (8.20-CL-5625478) | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar | https://fn-builds.net/season-html/S99.html |
+| 8.20.1 (8.20-CL-5625478) | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar | https://106.gigafile.nu/0612-hb7a0107c7859d16d0612be8eedcabc1a |
 | 8.30 (8.30-CL-5793395) | https://public.simplyblk.xyz/8.30.rar | https://builds.rebootfn.org/8.30.rar |
 | 8.30.1 (8.30-CL-5822617) | Lost |
 | 8.30.2 (8.30-CL-5831510) | Lost |
@@ -282,7 +285,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 9
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 9.00 (9.00-CL-6337466) | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip | https://fn-builds.net/season-html/S99.html |
+| 9.00 (9.00-CL-6337466) | https://public.simplyblk.xyz/9.00.zip | https://builds.rebootfn.org/9.00.zip | https://106.gigafile.nu/0613-kf8ef1e0e089dcc62153109778da5c673 |
 | 9.01 (9.01-CL-6428087) | https://public.simplyblk.xyz/9.01.zip | https://builds.rebootfn.org/9.01.zip |
 | 9.10 (9.10-CL-6573057) | Lost |
 | 9.10.1 (9.10-CL-6616201) | Lost |
@@ -299,7 +302,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 10.00 (10.00-CL-7658179) | https://gofile.io/d/KvaK1I | https://cold-na-phx-8.gofile.io/download/web/7f0933f3-3869-4011-bcd5-a17257694da3/10.00-CL-7658179.7z | https://cold-na-phx-8.gofile.io/download/web/5907ef61-a893-48cf-86d0-d282f3115f35/10.0-CL-7658179.7z |
-| 10.00.1 (10.00-CL-7704164) | https://public.simplyblk.xyz/10.00.zip | https://builds.rebootfn.org/10.00.zip | https://fn-builds.net/season-html/S99.html |
+| 10.00.1 (10.00-CL-7704164) | https://public.simplyblk.xyz/10.00.zip | https://builds.rebootfn.org/10.00.zip | https://106.gigafile.nu/0613-eecf2d6f603ebe174f603c4aa7900c4ea |
 | 10.10 (10.10-CL-7955722) | https://public.simplyblk.xyz/10.10.zip | https://builds.rebootfn.org/10.10.zip |
 | 10.20 (10.20-CL-8243923) | Lost |
 | 10.20.1 (10.20-CL-8360257) | Lost |
@@ -323,7 +326,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 11.20-CL-10328358 | Lost |
 | 11.21-CL-10481509 | Unavailable |
 | 11.30-CL-10639804 | Lost |
-| 11.30-CL-10708866 | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-je958195874278409dbc1e8069148d7ed |
+| 11.30-CL-10708866 | https://106.gigafile.nu/0613-je958195874278409dbc1e8069148d7ed |
 | 11.31-CL-10760473 | Lost |
 | 11.31-CL-10795579 | Lost |
 | 11.31-CL-10800459 | https://public.simplyblk.xyz/11.31.rar |
@@ -336,7 +339,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 12
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 12.00-CL-11556442 | https://public.simplyblk.xyz/12.00.rar | https://fn-builds.net/season-html/S12.html | https://42.gigafile.nu/0716-o673a3d5bfc26a51c6a31cf65b9f7ba49 |
+| 12.00-CL-11556442 | https://public.simplyblk.xyz/12.00.rar | https://42.gigafile.nu/0716-o673a3d5bfc26a51c6a31cf65b9f7ba49 |
 | 12.00-CL-11566760 | Lost |
 | 12.00-CL-11586896 | Unavailable |
 | 12.10-CL-11794982 | Lost |
@@ -349,16 +352,16 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 12.40-CL-12837456 | https://gofile.io/d/uI0sIA | https://cold-na-phx-7.gofile.io/download/web/47ebd5a0-e79d-4b5c-afee-4ec320acb962/12.40-CL-12837456.rar | https://cold5.gofile.io/download/web/a9f5001e-bf61-4cfe-baf1-c65b864bc5b1/12.40.rar |
 | 12.41-CL-12905909 | https://public.simplyblk.xyz/Fortnite%2012.41.zip | https://fnbuilds.boostedv2.dev/12.41.rar | https://cdn.aufgeladen.dev/12.41.zip |
 | 12.50-CL-13044369 | Lost |
-| 12.50-CL-13137020 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://fn-builds.net/season-html/S12.html |
+| 12.50-CL-13137020 | https://public.simplyblk.xyz/12.50.zip | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view | https://cold-na-phx-6.gofile.io/download/web/129195e9-5765-4eae-bdb7-99c68fd3f387/12.50.7z |
 | 12.50-CL-13193885 | Lost |
 | 12.60-CL-13315662 | Lost |
 | 12.60-CL-13477524 | Unavailable |
-| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://fn-builds.net/season-html/S12.html | https://cold-na-phx-1.gofile.io/download/web/7f7363ff-78da-419d-b64e-9fec1de4e945/12.61.7z |
+| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://42.gigafile.nu/0716-e150bfea1e3e1e97bebef85f04add9374 | https://cold-na-phx-1.gofile.io/download/web/7f7363ff-78da-419d-b64e-9fec1de4e945/12.61.7z |
 
 ## Season 13
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar | https://fn-builds.net/season-html/S99.html | https://gofile.io/d/cw0eee |
+| 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar | https://cold-na-phx-3.gofile.io/download/web/6e1c3bce-d322-4584-b90f-7e11eb5e9813/13.00.7z | https://gofile.io/d/cw0eee |
 | 13.00-CL-13696059 | Lost |
 | 13.00-CL-13715544 | Lost |
 | 13.20-CL-13777676 | https://gofile.io/d/NpCev7 | https://cold-na-phx-1.gofile.io/download/web/0069b3a3-549c-4102-8f59-61c8a0c63c1b/13.20-CL-13777676.rar | https://store5.gofile.io/download/web/a150dcdc-f5bc-4ba4-8c31-ba511413af44/13.20.rar |
@@ -372,7 +375,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 14.00-CL-14173417 | Lost |
 | 14.00-CL-14199892 | Lost |
-| 14.00-CL-14211474 | https://public.simplyblk.xyz/14.00.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-n00ea0635522bca86784c824a5c81316c
+| 14.00-CL-14211474 | https://public.simplyblk.xyz/14.00.rar | https://106.gigafile.nu/0613-n00ea0635522bca86784c824a5c81316c
 | 14.10-CL-14276912 | Lost |
 | 14.10-CL-14288110 | Lost |
 | 14.10-CL-14312695 | Unavailable |
@@ -386,7 +389,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 14.50-CL-14643651 | Unavailable |
 | 14.60-CL-14756138 | Lost |
 | 14.60-CL-14785135 | Lost |
-| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-i262d0f01ceecdb2570b7296a375f3701
+| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://106.gigafile.nu/0613-i262d0f01ceecdb2570b7296a375f3701
 
 ## Season 15
 | Build | Download | Alternative Download | Alternative Download
@@ -425,7 +428,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 16.30-CL-16086208 | Lost |
 | 16.30-CL-16163563 | https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view |
 | 16.40-CL-16218553 | https://public.simplyblk.xyz/16.40.rar | https://gofile.io/d/LvLdwV | https://cold-na-phx-6.gofile.io/download/web/7172b08f-8764-4f10-a3d6-d12f72c9ae09/16.40.rar |
-| 16.50-CL-16432754 | https://galaxiafn.co.uk/16.50.zip | https://fn-builds.net/season-html/S99.html | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
+| 16.50-CL-16432754 | https://galaxiafn.co.uk/16.50.zip | https://106.gigafile.nu/0613-mcd67a67192f93953492da99cf52abebb | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
 | 16.50-CL-16469788 | Unavailable |
 
 ## Season 17
@@ -438,7 +441,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 17.20-CL-16868155 | Unavailable |
 | 17.21-CL-16949556 | Lost |
 | 17.21-CL-16967001 | Unavailable |
-| 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0613-kffaa33191a502187fc5025d33fe315a1 |
+| 17.30-CL-17004569 | https://public.simplyblk.xyz/17.30.zip | https://106.gigafile.nu/0613-kffaa33191a502187fc5025d33fe315a1 |
 | 17.40-CL-17215766 | Lost |
 | 17.40-CL-17269705 | Unavailable |
 | 17.50-CL-17328477 | Lost |
@@ -447,15 +450,15 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.00-CL-17468642 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.net/season-html/S18.html | https://gofile.io/d/cw0eee |
+| 18.00-CL-17468642 | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://cold-na-phx-3.gofile.io/download/web/5ad62236-04d6-46d2-ab78-69ec8bcea9bc/18.00-CL-17468642.7z | https://gofile.io/d/cw0eee |
 | 18.00-CL-17519952 | Unavailable |
 | 18.10-CL-17619277 | Unavailable |
-| 18.10-CL-17661844 | https://fn-builds.net/season-html/S18.html | https://5.gigafile.nu/0511-m8d08b7172e063a1b84787fa746e0de32 |
+| 18.10-CL-17661844 | https://5.gigafile.nu/0511-m8d08b7172e063a1b84787fa746e0de32 |
 | 18.20-CL-17745267 | Lost |
-| 18.20-CL-17792290 | https://fn-builds.net/season-html/S18.html | https://88.gigafile.nu/0527-gc2653064a070ca25b5824fca38b43648 |
-| 18.21-CL-17811397 | https://fn-builds.net/season-html/S18.html |
-| 18.30-CL-17882303 | https://fn-builds.net/season-html/S18.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/3a3e3f1b-0973-49dc-a913-83cac419b06a/18.30-CL-17882303.7z |
-| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.net/season-html/S18.html | https://fn-builds.net/season-html/S99.html |
+| 18.20-CL-17792290 | https://88.gigafile.nu/0527-gc2653064a070ca25b5824fca38b43648 |
+| 18.21-CL-17811397 | Unavailable |
+| 18.30-CL-17882303 | https://gofile.io/d/luD2FP | https://cold-na-phx-2.gofile.io/download/web/22ad1d7a-654b-4494-9daf-9659a124608e/18.30-CL-17882303.7z | https://cold-na-phx-2.gofile.io/download/web/3a3e3f1b-0973-49dc-a913-83cac419b06a/18.30-CL-17882303.7z |
+| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip |
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
@@ -466,8 +469,8 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip |
 | 19.10-CL-18581131 | Lost |
 | 19.10-CL-18640491 | Lost |
-| 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0612-h582e4c83be33b7e46c4317b506287508 |
-| 19.20-CL-18775446 | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
+| 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://106.gigafile.nu/0612-h582e4c83be33b7e46c4317b506287508 |
+| 19.20-CL-18775446 | https://106.gigafile.nu/0612-e6432cc4f2ff116cf16344a58582bd6b1 |
 | 19.30-CL-18948597 | Lost |
 | 19.30-CL-19027703 | https://gofile.io/d/KlhJTG | https://cold-na-phx-2.gofile.io/download/web/78123efd-966c-4613-b9af-3a3ba9f395fd/19.30-CL-19027703.rar | https://store-eu-par-2.gofile.io/download/web/cf8a8ba4-f651-41ce-819e-d6a7f7c08ce4/19.30.rar |
 | 19.40-CL-19167615 | Lost |
@@ -484,7 +487,7 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 20.30-CL-19950687 | Unavailable |
 | 20.30-CL-20037261 | Lost |
 | 20.40-CL-20175294 | Lost |
-| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.net/season-html/S99.html | https://106.gigafile.nu/0612-hdbb75bc1c502fb2091cbaee77e997ac3 |
+| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://106.gigafile.nu/0612-hdbb75bc1c502fb2091cbaee77e997ac3 |
 
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
@@ -496,14 +499,14 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Lost |
 | 21.20-CL-20890025 | Unavailable |
-| 21.20-CL-20978394 | https://fn-builds.net/season-html/S21.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/0b39ad88-2dee-4334-b615-7bc3515b2001/21.20-CL-21035704.7z |
+| 21.20-CL-20978394 | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/0b39ad88-2dee-4334-b615-7bc3515b2001/21.20-CL-21035704.7z | https://42.gigafile.nu/0717-hdb774be16224ae87a68bcd90dd74cd55 |
 | 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | Lost |
-| 21.30-CL-21155462 | https://fn-builds.net/season-html/S21.html | https://42.gigafile.nu/0717-mc301100de2f83bb42ee426a177a3010d |
+| 21.30-CL-21155462 | https://42.gigafile.nu/0717-mc301100de2f83bb42ee426a177a3010d |
 | 21.40-CL-21348157 | Lost |
-| 21.40-CL-21407327 | https://fn-builds.net/season-html/S21.html | https://gofile.io/d/cw0eee | https://cold7.gofile.io/download/web/18a54f3b-91f0-472b-8dea-1cc66dcfde2b/21.40-CL-21407327.7z |
+| 21.40-CL-21407327 | https://42.gigafile.nu/0717-nf806594f0db62ad8be74a7299a148115 |
 | 21.50-CL-21657658 | https://gofile.io/d/3ud3OS | https://store5.gofile.io/download/web/c3db1c3e-4248-4731-a024-94d5f9210676/%2B%2BFortnite%2BRelease-21.50-CL-21657658.zip |
-| 21.51-CL-21735703 | https://fn-builds.net/season-html/S21.html | https://42.gigafile.nu/0717-m8ae45a407b35f1c263d0d4e79ef79c48 |
+| 21.51-CL-21735703 | https://42.gigafile.nu/0717-m8ae45a407b35f1c263d0d4e79ef79c48 |
 
 ## Season 22
 | Build | Download | Alternative Download | Alternative Download
@@ -511,121 +514,121 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 | 22.00-CL-22026835 | Lost |
 | 22.00-CL-22072684 | Lost |
 | 22.00-CL-22107157 | Lost |
-| 22.00-CL-22149829 | https://fn-builds.net/season-html/S22.html | https://42.gigafile.nu/0717-i55f071c2d07726bedbf8d48cae28bb8b |
+| 22.00-CL-22149829 | https://42.gigafile.nu/0717-i55f071c2d07726bedbf8d48cae28bb8b |
 | 22.10-CL-22240570 | Lost |
-| 22.10-CL-22429549 | https://fn-builds.net/season-html/S22.html | https://42.gigafile.nu/0717-j761f238acee7d600f7a4445e17438018 |
+| 22.10-CL-22429549 | https://42.gigafile.nu/0717-j761f238acee7d600f7a4445e17438018 |
 | 22.20-CL-22523251 | Lost |
-| 22.20-CL-22600409 | https://fn-builds.net/season-html/S22.html | https://42.gigafile.nu/0717-hac84002d06c82caaa31ec65e4811038f |
+| 22.20-CL-22600409 | https://42.gigafile.nu/0717-hac84002d06c82caaa31ec65e4811038f |
 | 22.30-CL-22803135 | Unavailable |
-| 22.40-CL-23070899 | https://fn-builds.net/season-html/S22.html | https://42.gigafile.nu/0717-f74af55d65c16b789755388fc49226759 |
+| 22.40-CL-23070899 | https://42.gigafile.nu/0717-f74af55d65c16b789755388fc49226759 |
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 23.00-CL-23344627 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/485d3737-abc6-451e-b689-03c58f31ca0c/23.00-CL-23344627.7z |
+| 23.00-CL-23344627 | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/485d3737-abc6-451e-b689-03c58f31ca0c/23.00-CL-23344627.7z | https://42.gigafile.nu/0717-f49e08dada498c5c7a9dcc398f40462ca |
 | 23.10-CL-23443094 | https://gofile.io/d/ydK0Si | https://cold-na-phx-5.gofile.io/download/web/352e6a26-5b1b-4397-a670-fdd58f6c5884/23.10-CL-23443094.rar | https://store3.gofile.io/download/web/0c22a3bc-4612-49d5-a463-a0accb5af20d/23.10-CL-23443094.rar |
-| 23.10-CL-23572221 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/5Tmunk | https://store5.gofile.io/download/web/b5b61edc-2dd4-4261-b8b8-a7572b205668/23.10-CL-23572221.zip |
+| 23.10-CL-23572221 | https://gofile.io/d/5Tmunk | https://store5.gofile.io/download/web/b5b61edc-2dd4-4261-b8b8-a7572b205668/23.10-CL-23572221.zip | https://42.gigafile.nu/0717-k6d165e0d5f2cdebc16ad74cd11557432 |
 | 23.20-CL-23659353 | Lost |
-| 23.20-CL-23783097 | https://fn-builds.net/season-html/S23.html | https://42.gigafile.nu/0717-ead9fa64f503b29a7cc5e6474c09f3445 |
+| 23.20-CL-23783097 | https://42.gigafile.nu/0717-ead9fa64f503b29a7cc5e6474c09f3445 |
 | 23.30-CL-23901854 | Lost |
 | 23.30-CL-23986860 | Lost |
-| 23.40-CL-24087481 | https://fn-builds.net/season-html/S23.html | https://gofile.io/d/cw0eee | https://cold-na-phx-6.gofile.io/download/web/150f4045-1dd8-4421-81e2-ef3ee8c64fec/23.40-CL-24087481.zip |
+| 23.40-CL-24087481 | https://gofile.io/d/nlPmkO | https://cold-na-phx-6.gofile.io/download/web/47227ece-700d-46ac-8ac4-2ef312425452/23.40-CL-24087481.zip | https://cold-na-phx-6.gofile.io/download/web/150f4045-1dd8-4421-81e2-ef3ee8c64fec/23.40-CL-24087481.zip |
 | 23.50-CL-24376996 | Lost |
 | 23.50-CL-24441668 | https://gofile.io/d/e8i26f | https://cold-na-phx-5.gofile.io/download/web/394472e9-dc4f-4c3c-94db-689f7ef967e9/23.50-CL-24441668.zip | https://42.gigafile.nu/0717-kb8abed97dedfac0a1784f50b984b6e6b |
 
 ## Season 24
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 24.00-CL-24554913 | https://fn-builds.net/season-html/S24.html | https://42.gigafile.nu/0717-h3b656cfd1b4e9efbfbde04f34e38a515 |
-| 24.01-CL-24672685 | https://fn-builds.net/season-html/S24.html | https://42.gigafile.nu/0717-fda1072b199953b3d45a5551137656366 |
+| 24.00-CL-24554913 | https://42.gigafile.nu/0717-h3b656cfd1b4e9efbfbde04f34e38a515 |
+| 24.01-CL-24672685 | https://gofile.io/d/DGiYYQ | https://cold-na-phx-5.gofile.io/download/web/41cf7195-c4c4-4c80-a458-efe472c924f4/24.01-CL-24672685.zip | https://42.gigafile.nu/0717-fda1072b199953b3d45a5551137656366 |
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | Unavailable |
-| 24.10-CL-24903530 | https://fn-builds.net/season-html/S24.html | https://42.gigafile.nu/0717-mddd14e75b256b9896c116a8638331079 |
+| 24.10-CL-24903530 | https://42.gigafile.nu/0717-mddd14e75b256b9896c116a8638331079 |
 | 24.20-CL-24939793 (EXC) | https://r2.ploosh.dev/24.20.zip |
 | 24.20-CL-25019967 | Lost |
 | 24.20-CL-25058254 | Lost |
-| 24.20-CL-25156858 | https://fn-builds.net/season-html/S24.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip |
+| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip | https://42.gigafile.nu/0717-h0ca620efd6a1245f1beeea42d56f0b49 |
 | 24.30-CL-25210886 | Unavailable |
-| 24.30-CL-25347382 | https://fn-builds.net/season-html/S24.html | https://42.gigafile.nu/0717-h18eb272fd69cc336cbbfd9cdf8d6382b |
+| 24.30-CL-25347382 | https://gofile.io/d/PK0DEu | https://cold2.gofile.io/download/web/6ff2c33b-3611-4171-9669-347edec6b814/24.30-CL-25347382.zip | https://42.gigafile.nu/0717-h18eb272fd69cc336cbbfd9cdf8d6382b |
 | 24.40-CL-25420516 | Unavailable |
-| 24.40-CL-25521145 | https://fn-builds.net/season-html/S24.html | https://42.gigafile.nu/0717-g481f88b30e9d2d8c43446602c0c71f9c |
-| 24.40-CL-25595478 | https://fn-builds.net/season-html/S24.html | https://gofile.io/d/cw0eee | https://cold-na-phx-8.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip |
+| 24.40-CL-25521145 | https://42.gigafile.nu/0717-g481f88b30e9d2d8c43446602c0c71f9c |
+| 24.40-CL-25595478 | https://gofile.io/d/8WCURq | https://cold-na-phx-8.gofile.io/download/web/65f7b4b5-66e2-49b4-b7ed-bbd50a8afe44/24.40-CL-25595478.zip | https://cold-na-phx-8.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip |
 
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 25.00-CL-25784668 | Unavailable |
-| 25.00-CL-25909622 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/6434f446-de00-4f9c-85e1-288b4e15225c/25.00-CL-25909622.7z |
-| 25.10-CL-26000959 | https://fn-builds.net/season-html/S25.html | https://42.gigafile.nu/0716-m43e0e0fb9001e11cde41b600e99b1aed |
-| 25.11-CL-26171015 | https://fn-builds.net/season-html/S25.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/1734f047-2ef8-45cc-9d18-23c1ff61fff6/25.11-CL-26171015.7z |
-| 25.20-CL-26474516 | https://fn-builds.net/season-html/S25.html | https://42.gigafile.nu/0716-fbf8a0745a2226c3c004d949d3dc184c0 |
-| 25.20-CL-26629111 | https://fn-builds.net/season-html/S25.html | https://42.gigafile.nu/0716-nc2a1ffa8edcb270723884f14792a6685 |
-| 25.30-CL-26867995 | https://fn-builds.net/season-html/S25.html | https://42.gigafile.nu/0716-pa6c0c9d68dc8a9ecf8ae7522e62bb3b4 |
+| 25.00-CL-25909622 | https://42.gigafile.nu/0717-m5f603174829de05adff6aaebb47fdfd8 | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/6434f446-de00-4f9c-85e1-288b4e15225c/25.00-CL-25909622.7z |
+| 25.10-CL-26000959 | https://42.gigafile.nu/0716-m43e0e0fb9001e11cde41b600e99b1aed |
+| 25.11-CL-26171015 | https://gofile.io/d/WwK2MV | https://cold-na-phx-3.gofile.io/download/web/4760da70-1187-4f73-8ab1-07adc2271c07/25.11-CL-26171015.7z | https://cold-na-phx-3.gofile.io/download/web/1734f047-2ef8-45cc-9d18-23c1ff61fff6/25.11-CL-26171015.7z |
+| 25.20-CL-26474516 | https://42.gigafile.nu/0716-fbf8a0745a2226c3c004d949d3dc184c0 |
+| 25.20-CL-26629111 | https://42.gigafile.nu/0716-nc2a1ffa8edcb270723884f14792a6685 |
+| 25.30-CL-26867995 | https://42.gigafile.nu/0716-pa6c0c9d68dc8a9ecf8ae7522e62bb3b4 |
 
 ## Season 26
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 26.00-CL-27233190 | https://fn-builds.net/season-html/S26.html | https://42.gigafile.nu/0716-f0e19e0591fd6b416d05f0af97b0e2ee8 |
-| 26.00-CL-27424790 | https://fn-builds.net/season-html/S26.html | https://42.gigafile.nu/0716-k3154aef33a9af23d647eb8099de489ed |
-| 26.10-CL-27681420 | https://fn-builds.net/season-html/S26.html | https://42.gigafile.nu/0716-k3154aef33a9af23d647eb8099de489ed |
-| 26.20-CL-28096793 | https://fn-builds.net/season-html/S26.html | https://42.gigafile.nu/0716-pa8427c454960bc0c1c747d5b3449c004 |
+| 26.00-CL-27233190 | https://gofile.io/d/cw0eee | https://cold-na-phx-4.gofile.io/download/web/ce80d238-8449-46cc-95bd-f3edb3bee134/26.00-CL-27233190.zip | https://42.gigafile.nu/0716-f0e19e0591fd6b416d05f0af97b0e2ee8 |
+| 26.00-CL-27424790 | https://42.gigafile.nu/0716-k3154aef33a9af23d647eb8099de489ed |
+| 26.10-CL-27681420 | https://42.gigafile.nu/0716-k3154aef33a9af23d647eb8099de489ed |
+| 26.20-CL-28096793 | https://42.gigafile.nu/0716-pa8427c454960bc0c1c747d5b3449c004 |
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
-| 26.30-CL-28688692 | https://fn-builds.net/season-html/S26.html | https://42.gigafile.nu/0716-p7c075885a6640e854810a17f90f53f56 |
+| 26.30-CL-28688692 | https://42.gigafile.nu/0716-p7c075885a6640e854810a17f90f53f56 |
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00-CL-29072304 | https://fn-builds.net/season-html/S27.html | https://42.gigafile.nu/0716-j60fd63b63fc5643e9d69fac427984d6d |
-| 27.10-CL-29552510 | https://fn-builds.net/season-html/S27.html | https://42.gigafile.nu/0716-g613dcfbb61b157dc520f45fd3071a221 |
-| 27.11-CL-29739262 | https://fn-builds.net/season-html/S27.html | https://gofile.io/d/cw0eee | https://cold-na-phx-7.gofile.io/download/web/eae4286d-7be6-4ec7-a4b4-34a87bd26826/27.11-CL-29739262.7z |
+| 27.00-CL-29072304 | https://42.gigafile.nu/0716-j60fd63b63fc5643e9d69fac427984d6d |
+| 27.10-CL-29552510 | https://42.gigafile.nu/0716-g613dcfbb61b157dc520f45fd3071a221 |
+| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://cold-na-phx-7.gofile.io/download/web/337aba8a-05a7-48ab-a026-f7b107a77d48/27.11-CL-29739262.7z | https://cold-na-phx-7.gofile.io/download/web/eae4286d-7be6-4ec7-a4b4-34a87bd26826/27.11-CL-29739262.7z |
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 28.00-CL-29915848 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/JSNFao | https://cold-na-phx-6.gofile.io/download/web/1ce4f320-32b8-4b40-8b42-911e73784542/Chapter%205%20Season%201%20(v28.00)%20UE%20NA.7z |
-| 28.01-CL-30106568 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0716-i7e7669848e9bc6eac93ff8a72392d0ba |
-| 28.01-CL-30313795 | https://fn-builds.net/season-html/S28.html | https://gofile.io/d/cw0eee | https://cold-na-phx-4.gofile.io/download/web/68dcb8f4-e9db-4c78-8c58-07ea7afd9389/28.01-CL-30313795.7z | 
-| 28.10-CL-30676362 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0716-o1d035c19391dc465e953c687c1d6bcd4 |
-| 28.10-CL-30835064 | https://buzzheavier.com/kxgbxvsrg4yh |
+| 28.00-CL-29915848 | https://gofile.io/d/JSNFao | https://cold-na-phx-6.gofile.io/download/web/1ce4f320-32b8-4b40-8b42-911e73784542/Chapter%205%20Season%201%20(v28.00)%20UE%20NA.7z | https://42.gigafile.nu/0716-l70c6a8e12f425fe90e9fbaa0372c71fc |
+| 28.01-CL-30106568 | https://42.gigafile.nu/0716-i7e7669848e9bc6eac93ff8a72392d0ba |
+| 28.01-CL-30313795 | https://gofile.io/d/cw0eee | https://cold-na-phx-4.gofile.io/download/web/68dcb8f4-e9db-4c78-8c58-07ea7afd9389/28.01-CL-30313795.7z | https://cold-na-phx-2.gofile.io/download/web/68dcb8f4-e9db-4c78-8c58-07ea7afd9389/28.01-CL-30313795.7z | 
+| 28.10-CL-30676362 | https://42.gigafile.nu/0716-o1d035c19391dc465e953c687c1d6bcd4 |
+| 28.10-CL-30835064 | https://buzzheavier.com/kxgbxvsrg4yh | https://gofile.io/d/5llBAi | https://store8.gofile.io/download/web/6fe71ad7-dbe2-495b-b831-f627dc9e3180/28.10-CL-30835064.7z |
 | 28.20-CL-31165234 | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I | https://store-eu-par-3.gofile.io/download/web/ee9186bf-6e85-4d3c-a528-ba855b349a20/%2B%2BFortnite%2BRelease-28.20-CL-31165234-Windows.zip |
-| 28.20-CL-31286935 | https://gofile.io/d/4jCsrg | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0717-le04e1a02cbad710cc748ee7932929a88 |
-| 28.30-CL-31511038 | https://fn-builds.net/season-html/S28.html | https://42.gigafile.nu/0717-k31f9b5eef96890bbf85a1830dc17920c |
+| 28.20-CL-31286935 | https://store-na-phx-1.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip | https://gofile.io/d/4jCsrg | https://42.gigafile.nu/0717-le04e1a02cbad710cc748ee7932929a88 |
+| 28.30-CL-31511038 | https://42.gigafile.nu/0717-k31f9b5eef96890bbf85a1830dc17920c |
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 29.00-CL-31978752 | Unavailable | 
-| 29.00-CL-32116959 | https://fn-builds.net/season-html/S29.html | https://gofile.io/d/cw0eee | https://store8.gofile.io/download/web/4f6fd32e-9eff-4c66-9b2d-02f1273fdf78/29.00-CL-32116959.7z |
-| 29.01-CL-32291970 | https://fn-builds.net/season-html/S29.html | https://42.gigafile.nu/0717-e324509cbfc39d507ad10d5b010903eb3 |
-| 29.10-CL-32391220 | https://fn-builds.net/season-html/S29.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/2f07fce2-d828-4c74-b3b2-cd4a42a0cab6/29.10-CL-32391220.7z |
-| 29.10-CL-32567225 | https://fn-builds.net/season-html/S29.html | https://42.gigafile.nu/0717-i80a047fd238779210906093244304418  |
-| 29.20-CL-32716692 | https://fn-builds.net/season-html/S29.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/4bcd936b-afe8-4a72-9386-5936b7d7e87d/29.20-CL-32716692.7z |
-| 29.30-CL-32982357 | https://fn-builds.net/season-html/S29.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
+| 29.00-CL-31978752 | Unavailable |
+| 29.00-CL-32116959 | https://gofile.io/d/mtM71K | https://cold7.gofile.io/download/web/227c8449-9c63-43c5-8f09-937fa3e9a0bf/29.00-CL-32116959.7z | https://store8.gofile.io/download/web/4f6fd32e-9eff-4c66-9b2d-02f1273fdf78/29.00-CL-32116959.7z |
+| 29.01-CL-32291970 | https://42.gigafile.nu/0717-e324509cbfc39d507ad10d5b010903eb3 |
+| 29.10-CL-32391220 | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/2f07fce2-d828-4c74-b3b2-cd4a42a0cab6/29.10-CL-32391220.7z | https://42.gigafile.nu/0717-md2231b4d931b59d826474957a44b787b |
+| 29.10-CL-32567225 | https://42.gigafile.nu/0717-i80a047fd238779210906093244304418  |
+| 29.20-CL-32716692 | https://gofile.io/d/V9bGNz | https://cold-na-phx-2.gofile.io/download/web/2f574b87-4be1-4ca7-b173-47055ec43310/29.20-CL-32716692.7z | https://cold-na-phx-2.gofile.io/download/web/4bcd936b-afe8-4a72-9386-5936b7d7e87d/29.20-CL-32716692.7z |
+| 29.30-CL-32982357 | https://gofile.io/d/JxJhKD | https://cold-na-phx-2.gofile.io/download/web/0b9fae91-57c7-4284-9407-665f0d22ebe5/29.30-CL-32982357.7z | https://cold-na-phx-2.gofile.io/download/web/39d52172-deb2-4d85-a1cf-6821276272a5/29.30-CL-32982357.7z |
 | 29.40-CL-33291686 | Lost |
 | 29.40-CL-33502036 | Lost |
-| 29.40-CL-33629566 | https://fn-builds.net/season-html/S29.html | https://gofile.io/d/cw0eee | https://cold-na-phx-2.gofile.io/download/web/b67f15dd-b1f9-40c0-881c-791122d697ff/29.40-CL-33629566.7z |
+| 29.40-CL-33629566 | https://gofile.io/d/iAdkFa | https://cold-na-phx-2.gofile.io/download/web/4796416e-f17c-4856-b1b6-38044333f210/29.40-CL-33629566.7z | https://cold-na-phx-2.gofile.io/download/web/b67f15dd-b1f9-40c0-881c-791122d697ff/29.40-CL-33629566.7z |
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 30.00-CL-33760522 | https://gofile.io/d/iDKss9 | https://cold-na-phx-3.gofile.io/download/web/73b7d8b0-41c0-481d-bcc3-b559acec7c82/c5s3.zip |
-| 30.00-CL-33962396 | https://fn-builds.net/season-html/S30.html | https://42.gigafile.nu/0717-i95fcbb6a4d771ee5fab7f8470b9cf61b |
+| 30.00-CL-33962396 | https://42.gigafile.nu/0717-i95fcbb6a4d771ee5fab7f8470b9cf61b |
 | 30.10-CL-34184790 | Unavailable |
-| 30.10-CL-34261954 | https://fn-builds.net/season-html/S30.html | https://42.gigafile.nu/0717-effb1a59382144720b50a0014723c9b1a |
+| 30.10-CL-34261954 | https://42.gigafile.nu/0717-effb1a59382144720b50a0014723c9b1a |
 | 30.10-CL-34399867 | Unavailable |
 | 30.20-CL-34488544 | Lost |
-| 30.20-CL-34597766 | https://fn-builds.net/season-html/S30.html | https://42.gigafile.nu/0717-l86451f04f0381003624be5e20f8e8da0 |
-| 30.30-CL-34891016 | https://fn-builds.net/season-html/S30.html | https://42.gigafile.nu/0717-j8f27700cd242de96fa4742718cc23aa0 |
-| 30.40-CL-35235494 | https://42.gigafile.nu/0717-n1afa661f476d1df999f19006b0718eaf |
+| 30.20-CL-34597766 | https://42.gigafile.nu/0717-l86451f04f0381003624be5e20f8e8da0 |
+| 30.30-CL-34891016 | https://42.gigafile.nu/0717-j8f27700cd242de96fa4742718cc23aa0 |
+| 30.40-CL-35235494 | https://gofile.io/d/ILEeQN | https://cold4.gofile.io/download/web/46427dd0-a952-4efa-bd8f-55fb1e0814e4/30.40-CL-35235494.7z | https://42.gigafile.nu/0717-n1afa661f476d1df999f19006b0718eaf |
 
 ## Season 31
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 31.00-CL-35447195 | https://fn-builds.net/season-html/S31.html | https://cold-na-phx-1.gofile.io/download/web/804a9878-eba8-41c8-b9de-a59d1f734330/31.00-CL-35447195.7z | https://gofile.io/d/DGzp10 |
-| 31.10-CL-35815136 | https://fn-builds.net/season-html/S31.html | https://gofile.io/d/xCiLzn | https://gofile.io/d/cw0eee |
+| 31.00-CL-35447195 | https://42.gigafile.nu/0717-ob3f9564ca991b6a41380039fd94e5f49 |
+| 31.10-CL-35815136 | https://store8.gofile.io/download/web/7c2a64e7-867c-460b-86a4-af80b3280f38/FortniteClient-31.10-CL-35815136.7z | https://gofile.io/d/cw0eee | https://store8.gofile.io/download/web/393c1936-b8c6-41a0-a2a6-5a60ea3643db/31.10-CL-35815136.7z |
 | 31.20-CL-36253989 (EXC) | Text Archive Exclusive |
 | 31.20-CL-36348034 | https://buzzheavier.com/3gcnp6jyjjpy |
-| 31.30-CL-36600465 | https://fn-builds.net/season-html/S31.html | https://42.gigafile.nu/0717-hb7dd56bf4b6b119ab5190dcee5e20a11 |
+| 31.30-CL-36600465 | https://42.gigafile.nu/0717-hb7dd56bf4b6b119ab5190dcee5e20a11 |
 | 31.40-CL-36874825 | Unavailable |
 | 31.40-CL-37076506 | https://buzzheavier.com/iqxbcnu8ggyu |
 | 31.41-CL-37324991 | Unavailable |
@@ -633,10 +636,10 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 32.00-CL-37505882 | https://fn-builds.net/season-html/S32.html | https://42.gigafile.nu/0717-m8de429011d98e545239e4c5dd1e8d59c |
+| 32.00-CL-37505882 | https://42.gigafile.nu/0717-m8de429011d98e545239e4c5dd1e8d59c |
 | 32.00-CL-37770125 | https://buzzheavier.com/rnw2uzgol03l |
 | 32.10-CL-37958378 | Unavailable |
-| 32.11-CL-38202817 (EXC) | https://fn-builds.net/season-html/S32.html | https://42.gigafile.nu/0717-h721bb3932501e2575180b350f498ce62 |
+| 32.11-CL-38202817 (EXC) | https://42.gigafile.nu/0717-h721bb3932501e2575180b350f498ce62 |
 | 32.11-CL-38371047 | https://gofile.io/d/7lcX1x | https://cold3.gofile.io/download/web/f94f288c-099d-4ea7-a37b-fcb81fe41f9d/32.11.rar |
 
 ## Season 33
@@ -644,26 +647,26 @@ If a google drive link says there are too many people use the [bypass glitch](ht
 |--------------|---------------|---------------|---------------|
 | 33.00-CL-38324112 | https://gofile.io/d/V1vC9X | https://store9.gofile.io/download/web/56cdce93-fa2b-4671-922c-f08ac51a1047/c6s1.zip |
 | 33.00-CL-38504598 | https://buzzheavier.com/rvdxq6z4vbts |
-| 33.10-CL-38630093 | https://fn-builds.net/season-html/S33.html | https://42.gigafile.nu/0717-m4cfb1f417077407c90962f172916107e |
-| 33.11-CL-38773622 | https://fn-builds.net/season-html/S33.html | https://42.gigafile.nu/0717-mb342462b8c4f8df616a6ab863a6b72e7 |
-| 33.20-CL-39082670 | https://fn-builds.net/season-html/S33.html | https://42.gigafile.nu/0717-gc715c6d68a6709ab828ffc10c2139183 |
-| 33.20-CL-39277041 | https://buzzheavier.com/jhecsi8pzm4k |
-| 33.30-CL-39435251 | https://fn-builds.net/season-html/S33.html | https://gofile.io/d/cw0eee | https://cold-na-phx-1.gofile.io/download/web/3b294036-aede-4096-8948-a13e3af125c3/33.30-CL-39435251.7z |
-| 33.30-CL-39768313 | https://buzzheavier.com/pgdsq8qhp2ds |
+| 33.10-CL-38630093 | https://42.gigafile.nu/0717-m4cfb1f417077407c90962f172916107e |
+| 33.11-CL-38773622 | https://gofile.io/d/NATt1E | https://cold-na-phx-7.gofile.io/download/web/1b35c00c-8af3-4c03-a710-f2f7d1042225/33.11-CL-38773622.7 | https://42.gigafile.nu/0717-mb342462b8c4f8df616a6ab863a6b72e7 |
+| 33.20-CL-39082670 | https://42.gigafile.nu/0717-gc715c6d68a6709ab828ffc10c2139183 |
+| 33.20-CL-39277041 | Unavailable |
+| 33.30-CL-39435251 | https://gofile.io/d/5rRLUh | https://cold-na-phx-1.gofile.io/download/web/0b9f0ea6-aeb5-4f9a-bb7b-29d396ebdaf4/33.30-CL-39435251.7z | https://cold-na-phx-1.gofile.io/download/web/3b294036-aede-4096-8948-a13e3af125c3/33.30-CL-39435251.7z |
+| 33.30-CL-39768313 | Unavailable |
 
 ## Season 34
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 34.00-CL-40085084 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://store-ap-hkg-1.gofile.io/download/web/a8262bae-7690-4c52-a4ff-0760899b74da/34.00-CL-40085084.7z |
+| 34.00-CL-40085084 | https://gofile.io/d/cw0eee | https://store-ap-hkg-1.gofile.io/download/web/a8262bae-7690-4c52-a4ff-0760899b74da/34.00-CL-40085084.7z | https://42.gigafile.nu/0717-o65056b2b00b6412fed9510becee654c8 |
 | 34.00-CL-40228973 | Unavailable |
-| 34.00-CL-40398515 | https://buzzheavier.com/4yo0s79jyvb1 |
+| 34.00-CL-40398515 | Unavailable |
 | 34.00-CL-40446427 | Lost |
-| 34.10-CL-40567068 | https://fn-builds.net/season-html/S34.html | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view | https://42.gigafile.nu/0717-j393bdf4cdb427fd046270573d1f75bc0 |
-| 34.20-CL-40965447 | https://fn-builds.net/season-html/S34.html | https://42.gigafile.nu/0717-k22cacca6ad8fa6c08e64c6017890b0e6 |
+| 34.10-CL-40567068 | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view | https://42.gigafile.nu/0717-j393bdf4cdb427fd046270573d1f75bc0 |
+| 34.20-CL-40965447 | https://42.gigafile.nu/0717-k22cacca6ad8fa6c08e64c6017890b0e6 |
 | 34.21-CL-41092960 | Manifest Available |
-| 34.30-CL-41387772 | https://fn-builds.net/season-html/S34.html |
-| 34.30-CL-41588354 | https://fn-builds.net/season-html/S34.html | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/a9b93fe7-d7e2-493a-95e6-22f5a12ae02e/34.30-CL-41588354.7z |
-| 34.40-CL-41753727 | https://fn-builds.net/season-html/S34.html |
+| 34.30-CL-41387772 | Manifest Available |
+| 34.30-CL-41588354 | https://gofile.io/d/cw0eee | https://cold-na-phx-3.gofile.io/download/web/a9b93fe7-d7e2-493a-95e6-22f5a12ae02e/34.30-CL-41588354.7z |
+| 34.40-CL-41753727 | Manifest Available |
 
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download

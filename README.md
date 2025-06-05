@@ -1,29 +1,67 @@
-Welcome to the largest up-to-date Fortnite build archive.A build collection like no other.
+Welcome to the largest up-to-date Fortnite build archive.
+
+A build collection like no other.
 
 
 This community has proved to me that I don't belong here and that you people don't deserve this repository. I am retiring.
-
-
-
-
 [If you would like to talk about builds then join my discord server!](https://discord.gg/yHwmPbAvZU)
 
 
 Thank you for all the support, this is my farewell.
-
-
-
-
 # Fortnite Builds Text Archive
 
 
-If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/fwpza84tj1el7i3e2wm7s/Fortnite-Builds-Text-Archive-17.00.txt?rlkey=gpsmp9lhko5mr0rby2lemb1ez&st=xfiucx9l&dl=0)Any builds listed with "EXC" means there are text archive exclusive links that don't appear here# Credits
+If you want a more detailed archive with even more links then [Check this out!](https://dl.dropboxusercontent.com/scl/fi/fwpza84tj1el7i3e2wm7s/Fortnite-Builds-Text-Archive-17.00.txt?rlkey=gpsmp9lhko5mr0rby2lemb1ez&st=xfiucx9l&dl=0)
+
+Any builds listed with "EXC" means there are text archive exclusive links that don't appear here
+
+# Credits
 
 
-Thank you to the following archivists for maintaining most of the builds[simplyblk](https://github.com/n6617x)[Timmy](https://github.com/timjans01)[ByZNexus](https://github.com/ByZNexus)[Tiva](https://github.com/itztiva)[Auties](https://github.com/Auties00)[Shoqaratio](https://github.com/Shoqaratio)[0729たいがー](https://fn-builds.net)[notsamicc](https://github.com/notsamicc)[Me](https://github.com/llamaqwerty)[ka pum](https://x.com/KPMisParrot): 9.20-CL-6822798, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155, 23.10-CL-23443094[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.20-CL-13777676, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441, 19.30-CL-19027703peppa pig: 4.10-CL-4053532, 23.10-CL-23572221, 31.20-CL-36253989, 34.10-CL-40567068, 35.00-CL-42223143[Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506, 32.00-CL-37770125, 33.00-CL-38504598, 33.20-CL-39277041, 33.30-CL-39768313, 34.00-CL-40398515[AllyJax](https://x.com/AllyJax_): 10.00-CL-7658179, 11.00-CL-9603448, 12.00-CL-11586896, 19.40-CL-19215531[P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top# Contact
+Thank you to the following archivists for maintaining most of the builds
+
+[simplyblk](https://github.com/n6617x)
+
+[Timmy](https://github.com/timjans01)
+
+[ByZNexus](https://github.com/ByZNexus)
+
+[Tiva](https://github.com/itztiva)
+
+[Auties](https://github.com/Auties00)
+
+[Shoqaratio](https://github.com/Shoqaratio)
+
+[0729たいがー](https://fn-builds.net)
+
+[notsamicc](https://github.com/notsamicc)
+
+[Me](https://github.com/llamaqwerty)
+
+[ka pum](https://x.com/KPMisParrot): 9.20-CL-6822798, 14.30-CL-14456520, 17.10-CL-16745144, 17.20-CL-16868155, 23.10-CL-23443094
+
+[CoolNite](https://www.youtube.com/channel/UCmGfwZL9pA5ddIHGNiIcXLQ): 12.20-CL-12236980, 12.40-CL-12837456, 13.20-CL-13777676, 13.30-CL-13884634, 15.20-CL-15070882, 16.20-CL-16042441, 19.30-CL-19027703
+
+peppa pig: 4.10-CL-4053532, 23.10-CL-23572221, 31.20-CL-36253989, 34.10-CL-40567068, 35.00-CL-42223143
+
+[Leeroooooy Jenkins](https://github.com/BestInTest): 28.20-CL-31165234, 31.20-CL-36348034, 31.40-CL-37076506, 32.00-CL-37770125, 33.00-CL-38504598, 33.20-CL-39277041, 33.30-CL-39768313, 34.00-CL-40398515
+
+[AllyJax](https://x.com/AllyJax_): 10.00-CL-7658179, 11.00-CL-9603448, 12.00-CL-11586896, 19.40-CL-19215531
+
+[P2X Optic](https://www.youtube.com/@Yanny57): 28.20-CL-31286935, 30.00-CL-33760522, 33.00-CL-38324112
+
+All small contributors (contributors of 2 or less builds) will go towards the bottom and large contributors (contributors of 3 or more builds) will go towards the top
+
+# Contact
 
 
-Contact me through my Discord server (llamaqwerty) or email (llama.dvorak@hotmail.com)I would love to have feedback so I know what to improve in future updates, also please address issues to me immediatelyBoth methods are acceptable if you have a build you want to contribute# Issues
+Contact me through my Discord server (llamaqwerty) or email (llama.dvorak@hotmail.com)
+
+I would love to have feedback so I know what to improve in future updates, also please address issues to me immediately
+
+Both methods are acceptable if you have a build you want to contribute
+
+# Issues
 
 
 If you have issues downloading from different links then check to see if they are addressed here
@@ -32,13 +70,39 @@ If you have issues downloading from different links then check to see if they ar
  
 
 
-Certain links don't work on the first tryBuzzheavier will be broken if your adblocker is enabled# Uploader's Disclosure
+Certain links don't work on the first try
+
+Buzzheavier will be broken if your adblocker is enabled
+
+# Uploader's Disclosure
 
 
-I am implementing requirements necessary if you want your CDN's links included on here. Your links must actively work for the majority of people. The links must be capable of fully downloading without any issues. The bandwidth cap should not be so low that it takes several hours to fully download with the exception of slow internet. If you don't resolve any of these issues, then it will be removed for good no matter the circumstances.# Notes
+I am implementing requirements necessary if you want your CDN's links included on here. Your links must actively work for the majority of people. The links must be capable of fully downloading without any issues. The bandwidth cap should not be so low that it takes several hours to fully download with the exception of slow internet. If you don't resolve any of these issues, then it will be removed for good no matter the circumstances.
+
+# Notes
 
 
-I am not the owner of any of these builds and am not resposible for any of the drives they are onAll builds are Windows builds. If you want builds for alternative platforms then these following links will take you to a different repo:[Android Builds Archive](https://github.com/itztiva/FortniteAndroidBuilds)[Chinese Builds Archive](https://github.com/simonhxd/Fortnite-China-Archive)[iOS Builds Archive](https://github.com/Repressoh/Fortnite-iOS-Archive)[Nintendo Switch Builds Archive](https://switch-builds.ezfn.dev/tinfoil_unfiltered.json)[PS4 Builds Archive](https://orbispatches.com/CUSA07022)[Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)If you have a build considered lost or  then try uploading it and send me the link!If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)## Online Testing
+I am not the owner of any of these builds and am not resposible for any of the drives they are on
+
+All builds are Windows builds. If you want builds for alternative platforms then these following links will take you to a different repo:
+
+[Android Builds Archive](https://github.com/itztiva/FortniteAndroidBuilds)
+
+[Chinese Builds Archive](https://github.com/simonhxd/Fortnite-China-Archive)
+
+[iOS Builds Archive](https://github.com/Repressoh/Fortnite-iOS-Archive)
+
+[Nintendo Switch Builds Archive](https://switch-builds.ezfn.dev/tinfoil_unfiltered.json)
+
+[PS4 Builds Archive](https://orbispatches.com/CUSA07022)
+
+[Xbox One Builds Archive](https://github.com/Xader726/FortniteXboxBuilds)
+
+If you have a build considered lost or  then try uploading it and send me the link!
+
+If a google drive link says there are too many people use the [bypass glitch](https://www.youtube.com/watch?v=_xW9w1d2LEY)
+
+## Online Testing
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -173,7 +237,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | OT11.?? (4.16.0-3502004) | Lost |
 
 
-| OT11.?? (4.16.0-3502071) | Lost |## Pre-Season
+| OT11.?? (4.16.0-3502071) | Lost |
+
+## Pre-Season
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -242,7 +308,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 1.7.1 | Lost |
 
 
-| 1.7.2 (Release-Cert-CL-3700114) | https://public.simplyblk.xyz/1.7.2.zip | https://builds.rebootfn.org/1.7.2.zip | https://galaxiafn.co.uk/1.7.2.zip |## Season 1
+| 1.7.2 (Release-Cert-CL-3700114) | https://public.simplyblk.xyz/1.7.2.zip | https://builds.rebootfn.org/1.7.2.zip | https://galaxiafn.co.uk/1.7.2.zip |
+
+## Season 1
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -269,7 +337,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | Unknown Build (Release-Cert-CL-3785438) | Lost |
 
 
-| 1.10.0 (Release-Cert-CL-3790078) | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar |## Season 2
+| 1.10.0 (Release-Cert-CL-3790078) | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar |
+
+## Season 2
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -302,7 +372,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 2.4.X (2.4.x-CL-3876086) | Lost |
 
 
-| 2.5.0 (2.5-CL-3889387) | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar |## Season 3
+| 2.5.0 (2.5-CL-3889387) | https://public.simplyblk.xyz/2.5.0.rar | https://builds.rebootfn.org/2.5.0.rar |
+
+## Season 3
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -347,7 +419,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 3.50.2 (3.5-CL-4008490) | https://public.simplyblk.xyz/3.5.rar | https://builds.rebootfn.org/3.5.rar | https://galaxiafn.co.uk/3.5.zip |
 
 
-| 3.60 (3.6-CL-4019403) | https://cold-na-phx-6.gofile.io/download/web/5e8cd702-49a6-462b-962e-77dc767c7c54/3.6-CL-4019403.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z | https://gofile.io/d/8kJeyY |## Season 4
+| 3.60 (3.6-CL-4019403) | https://cold-na-phx-6.gofile.io/download/web/5e8cd702-49a6-462b-962e-77dc767c7c54/3.6-CL-4019403.zip | https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z | https://gofile.io/d/8kJeyY |
+
+## Season 4
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -383,7 +457,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 4.50 (4.5-CL-4159770) | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar | https://public-build-archives-bucket.fluxapp.dev/4.5.zip |
 
 
-| 4.50.1 (4.5-CL-4166199) | Lost |## Season 5
+| 4.50.1 (4.5-CL-4166199) | Lost |
+
+## Season 5
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -425,7 +501,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 5.40.1 (5.40-CL-4352937) | https://public.simplyblk.xyz/5.40.rar | https://builds.rebootfn.org/5.40.rar |
 
 
-| 5.41 (5.41-CL-4363240) | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip | https://public-build-archives-bucket.erafn.dev/5.41.zip |## Season 6
+| 5.41 (5.41-CL-4363240) | https://cdn.aufgeladen.dev/5.41.zip | https://galaxiafn.co.uk/5.41.zip | https://public-build-archives-bucket.erafn.dev/5.41.zip |
+
+## Season 6
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -482,7 +560,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 6.30 (6.30-CL-4579044) | https://public.simplyblk.xyz/6.30.rar | https://builds.rebootfn.org/6.30.rar |
 
 
-| 6.31 (6.31-CL-4573279) | https://public.simplyblk.xyz/6.31.rar | https://builds.rebootfn.org/6.31.rar |## Season 7
+| 6.31 (6.31-CL-4573279) | https://public.simplyblk.xyz/6.31.rar | https://builds.rebootfn.org/6.31.rar |
+
+## Season 7
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -524,7 +604,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 7.40.2 (7.40-CL-5012948) | Lost |
 
 
-| 7.40.3 (7.40-CL-5046157) | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://galaxiafn.co.uk/7.40.zip |## Season 8
+| 7.40.3 (7.40-CL-5046157) | https://public.simplyblk.xyz/7.40.rar | https://builds.rebootfn.org/7.40.rar | https://galaxiafn.co.uk/7.40.zip |
+
+## Season 8
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -578,7 +660,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 8.50 (8.50-CL-6058028) | https://public.simplyblk.xyz/8.50.zip | https://builds.rebootfn.org/8.50.zip | https://galaxiafn.co.uk/8.50.zip |
 
 
-| 8.51 (8.51-CL-6165369) | https://public.simplyblk.xyz/8.51.rar | https://builds.rebootfn.org/8.51.rar | https://galaxiafn.co.uk/8.51.zip |## Season 9
+| 8.51 (8.51-CL-6165369) | https://public.simplyblk.xyz/8.51.rar | https://builds.rebootfn.org/8.51.rar | https://galaxiafn.co.uk/8.51.zip |
+
+## Season 9
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -620,7 +704,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 9.41 (9.41-CL-7463579) | Lost |
 
 
-| 9.41.1 (9.41-CL-7609292) | https://public.simplyblk.xyz/9.41.rar | https://builds.rebootfn.org/9.41.rar | https://galaxiafn.co.uk/9.41.zip |## Season 10
+| 9.41.1 (9.41-CL-7609292) | https://public.simplyblk.xyz/9.41.rar | https://builds.rebootfn.org/9.41.rar | https://galaxiafn.co.uk/9.41.zip |
+
+## Season 10
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -659,7 +745,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 10.40.1 (10.40-CL-9302865) | Lost |
 
 
-| 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar |## Season 11
+| 10.40.2 (10.40-CL-9380822) | https://public.simplyblk.xyz/10.40.rar |
+
+## Season 11
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -722,7 +810,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 11.50-CL-11204868 | Lost |
 
 
-| 11.50-CL-11265652 | Unavailable |## Season 12
+| 11.50-CL-11265652 | Unavailable |
+
+## Season 12
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -782,7 +872,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 12.60-CL-13477524 | Unavailable |
 
 
-| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://42.gigafile.nu/download.php?file=0716-e150bfea1e3e1e97bebef85f04add9374 | https://cold-na-phx-1.gofile.io/download/web/7f7363ff-78da-419d-b64e-9fec1de4e945/12.61.7z |## Season 13
+| 12.61-CL-13498980 | https://public.simplyblk.xyz/12.61.zip | https://42.gigafile.nu/download.php?file=0716-e150bfea1e3e1e97bebef85f04add9374 | https://cold-na-phx-1.gofile.io/download/web/7f7363ff-78da-419d-b64e-9fec1de4e945/12.61.7z |
+
+## Season 13
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -812,7 +904,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 13.40-CL-14036559 | Unavailable |
 
 
-| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://106.gigafile.nu/download.php?file=0613-kde058e24ee6275334fd8ec3ee0def647## Season 14
+| 13.40-CL-14113327 | https://public.simplyblk.xyz/13.40.zip | https://106.gigafile.nu/download.php?file=0613-kde058e24ee6275334fd8ec3ee0def647
+
+## Season 14
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -869,7 +963,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 14.60-CL-14785135 | Lost |
 
 
-| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://106.gigafile.nu/download.php?file=0613-i262d0f01ceecdb2570b7296a375f3701## Season 15
+| 14.60-CL-14786821 | https://public.simplyblk.xyz/14.60.rar | https://106.gigafile.nu/download.php?file=0613-i262d0f01ceecdb2570b7296a375f3701
+
+## Season 15
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -929,7 +1025,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 15.50-CL-15526472 | https://galaxiafn.co.uk/15.50.zip | https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view |
 
 
-| 15.50-CL-15570449 | Unavailable |## Season 16
+| 15.50-CL-15570449 | Unavailable |
+
+## Season 16
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -977,7 +1075,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 16.50-CL-16432754 | https://galaxiafn.co.uk/16.50.zip | https://106.gigafile.nu/download.php?file=0613-mcd67a67192f93953492da99cf52abebb | https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view |
 
 
-| 16.50-CL-16469788 | Unavailable |## Season 17
+| 16.50-CL-16469788 | Unavailable |
+
+## Season 17
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1019,7 +1119,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 17.50-CL-17328477 | Lost |
 
 
-| 17.50-CL-17388565 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |## Season 18
+| 17.50-CL-17388565 | https://public.simplyblk.xyz/17.50.zip | https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view |
+
+## Season 18
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1052,7 +1154,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://gofile.io/d/luD2FP | https://cold-na-phx-2.gofile.io/download/web/22ad1d7a-654b-4494-9daf-9659a124608e/18.30-CL-17882303.7z |
 
 
-| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip |## Season 19
+| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip |
+
+## Season 19
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1094,7 +1198,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 19.40-CL-19167615 | Lost |
 
 
-| 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://gofile.io/d/y22Hni | https://cold-na-phx-5.gofile.io/download/web/4f50ad57-e76d-4e6a-9445-93ffe025313d/19.40-CL-19215531.7z |## Season 20
+| 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://gofile.io/d/y22Hni | https://cold-na-phx-5.gofile.io/download/web/4f50ad57-e76d-4e6a-9445-93ffe025313d/19.40-CL-19215531.7z |
+
+## Season 20
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1127,7 +1233,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 20.40-CL-20175294 | Lost |
 
 
-| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://106.gigafile.nu/download.php?file=0612-hdbb75bc1c502fb2091cbaee77e997ac3 |## Season 21
+| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://106.gigafile.nu/download.php?file=0612-hdbb75bc1c502fb2091cbaee77e997ac3 |
+
+## Season 21
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1178,7 +1286,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://gofile.io/d/3ud3OS | https://store5.gofile.io/download/web/c3db1c3e-4248-4731-a024-94d5f9210676/%2B%2BFortnite%2BRelease-21.50-CL-21657658.zip |
 
 
-| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://42.gigafile.nu/download.php?file=0717-m8ae45a407b35f1c263d0d4e79ef79c48 |## Season 22
+| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://42.gigafile.nu/download.php?file=0717-m8ae45a407b35f1c263d0d4e79ef79c48 |
+
+## Season 22
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1214,7 +1324,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 22.30-CL-22803135 | Unavailable |
 
 
-| 22.40-CL-23070899 | https://42.gigafile.nu/download.php?file=0717-f74af55d65c16b789755388fc49226759 |## Season 23
+| 22.40-CL-23070899 | https://42.gigafile.nu/download.php?file=0717-f74af55d65c16b789755388fc49226759 |
+
+## Season 23
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1250,7 +1362,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 23.50-CL-24376996 | Lost |
 
 
-| 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://gofile.io/d/e8i26f | https://cold-na-phx-5.gofile.io/download/web/394472e9-dc4f-4c3c-94db-689f7ef967e9/23.50-CL-24441668.zip |## Season 24
+| 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://gofile.io/d/e8i26f | https://cold-na-phx-5.gofile.io/download/web/394472e9-dc4f-4c3c-94db-689f7ef967e9/23.50-CL-24441668.zip |
+
+## Season 24
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1298,7 +1412,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 24.40-CL-25521145 | https://42.gigafile.nu/download.php?file=0717-g481f88b30e9d2d8c43446602c0c71f9c |
 
 
-| 24.40-CL-25595478 | https://gofile.io/d/8WCURq | https://cold-na-phx-8.gofile.io/download/web/65f7b4b5-66e2-49b4-b7ed-bbd50a8afe44/24.40-CL-25595478.zip | https://cold-na-phx-8.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip |## Season 25
+| 24.40-CL-25595478 | https://gofile.io/d/8WCURq | https://cold-na-phx-8.gofile.io/download/web/65f7b4b5-66e2-49b4-b7ed-bbd50a8afe44/24.40-CL-25595478.zip | https://cold-na-phx-8.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip |
+
+## Season 25
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1325,7 +1441,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 25.20-CL-26629111 | https://42.gigafile.nu/download.php?file=0716-nc2a1ffa8edcb270723884f14792a6685 |
 
 
-| 25.30-CL-26867995 | https://42.gigafile.nu/download.php?file=0716-pa6c0c9d68dc8a9ecf8ae7522e62bb3b4 |## Season 26
+| 25.30-CL-26867995 | https://42.gigafile.nu/download.php?file=0716-pa6c0c9d68dc8a9ecf8ae7522e62bb3b4 |
+
+## Season 26
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1349,7 +1467,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
 
 
-| 26.30-CL-28688692 | https://42.gigafile.nu/download.php?file=0716-p7c075885a6640e854810a17f90f53f56 |## Season 27
+| 26.30-CL-28688692 | https://42.gigafile.nu/download.php?file=0716-p7c075885a6640e854810a17f90f53f56 |
+
+## Season 27
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1364,7 +1484,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 27.10-CL-29552510 | https://42.gigafile.nu/download.php?file=0716-g613dcfbb61b157dc520f45fd3071a221 |
 
 
-| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://cold-na-phx-7.gofile.io/download/web/337aba8a-05a7-48ab-a026-f7b107a77d48/27.11-CL-29739262.7z | https://cold-na-phx-7.gofile.io/download/web/eae4286d-7be6-4ec7-a4b4-34a87bd26826/27.11-CL-29739262.7z |## Season 28
+| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://cold-na-phx-7.gofile.io/download/web/337aba8a-05a7-48ab-a026-f7b107a77d48/27.11-CL-29739262.7z | https://cold-na-phx-7.gofile.io/download/web/eae4286d-7be6-4ec7-a4b4-34a87bd26826/27.11-CL-29739262.7z |
+
+## Season 28
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1394,7 +1516,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 28.20-CL-31286935 | https://store-na-phx-1.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip | https://gofile.io/d/4jCsrg | https://42.gigafile.nu/download.php?file=0717-le04e1a02cbad710cc748ee7932929a88 |
 
 
-| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://cold-na-phx-7.gofile.io/download/web/1bdc69c5-149c-44b3-a339-aa4a67297ae6/28.30-CL-31511038.7z | https://42.gigafile.nu/download.php?file=0717-k31f9b5eef96890bbf85a1830dc17920c |## Season 29
+| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://cold-na-phx-7.gofile.io/download/web/1bdc69c5-149c-44b3-a339-aa4a67297ae6/28.30-CL-31511038.7z | https://42.gigafile.nu/download.php?file=0717-k31f9b5eef96890bbf85a1830dc17920c |
+
+## Season 29
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1430,7 +1554,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 29.40-CL-33502036 | Lost |
 
 
-| 29.40-CL-33629566 | https://gofile.io/d/iAdkFa | https://cold-na-phx-2.gofile.io/download/web/4796416e-f17c-4856-b1b6-38044333f210/29.40-CL-33629566.7z | https://cold-na-phx-2.gofile.io/download/web/b67f15dd-b1f9-40c0-881c-791122d697ff/29.40-CL-33629566.7z |## Season 30
+| 29.40-CL-33629566 | https://gofile.io/d/iAdkFa | https://cold-na-phx-2.gofile.io/download/web/4796416e-f17c-4856-b1b6-38044333f210/29.40-CL-33629566.7z | https://cold-na-phx-2.gofile.io/download/web/b67f15dd-b1f9-40c0-881c-791122d697ff/29.40-CL-33629566.7z |
+
+## Season 30
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1463,7 +1589,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 30.30-CL-34891016 | https://gofile.io/d/nhq0Mz | https://gofile.io/d/Mii9N6 | https://cold-na-phx-4.gofile.io/download/web/79d09e63-afd0-4493-ab45-2728138a7519/30.30-CL-34891016.7z |
 
 
-| 30.40-CL-35235494 | https://gofile.io/d/ILEeQN | https://cold4.gofile.io/download/web/46427dd0-a952-4efa-bd8f-55fb1e0814e4/30.40-CL-35235494.7z | https://42.gigafile.nu/download.php?file=0717-n1afa661f476d1df999f19006b0718eaf |## Season 31
+| 30.40-CL-35235494 | https://gofile.io/d/ILEeQN | https://cold4.gofile.io/download/web/46427dd0-a952-4efa-bd8f-55fb1e0814e4/30.40-CL-35235494.7z | https://42.gigafile.nu/download.php?file=0717-n1afa661f476d1df999f19006b0718eaf |
+
+## Season 31
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1493,7 +1621,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 31.40-CL-37076506 | https://buzzheavier.com/iqxbcnu8ggyu | https://gofile.io/d/hdxnBU | https://store-na-phx-1.gofile.io/download/web/5c19af3b-45f1-469c-a647-0049c2dedd46/31.40-CL-37076506.7z |
 
 
-| 31.41-CL-37324991 | Unavailable |## Season 32
+| 31.41-CL-37324991 | Unavailable |
+
+## Season 32
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1514,7 +1644,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 32.11-CL-38202817 (EXC) | https://42.gigafile.nu/download.php?file=download.php?file=0717-h721bb3932501e2575180b350f498ce62 |
 
 
-| 32.11-CL-38371047 | https://gofile.io/d/7lcX1x | https://cold3.gofile.io/download/web/f94f288c-099d-4ea7-a37b-fcb81fe41f9d/32.11.rar |## Season 33
+| 32.11-CL-38371047 | https://gofile.io/d/7lcX1x | https://cold3.gofile.io/download/web/f94f288c-099d-4ea7-a37b-fcb81fe41f9d/32.11.rar |
+
+## Season 33
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1544,7 +1676,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 33.30-CL-39435251 | https://gofile.io/d/5rRLUh | https://cold-na-phx-1.gofile.io/download/web/0b9f0ea6-aeb5-4f9a-bb7b-29d396ebdaf4/33.30-CL-39435251.7z | https://cold-na-phx-1.gofile.io/download/web/3b294036-aede-4096-8948-a13e3af125c3/33.30-CL-39435251.7z |
 
 
-| 33.30-CL-39768313 | Unavailable |## Season 34
+| 33.30-CL-39768313 | Unavailable |
+
+## Season 34
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1580,7 +1714,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 34.30-CL-41588354 | https://gofile.io/d/1eA9Lj | https://cold-na-phx-3.gofile.io/download/web/703dbb49-ea93-467c-be37-811cdc42d786/34.30-CL-41588354.7z | https://cold-na-phx-3.gofile.io/download/web/a9b93fe7-d7e2-493a-95e6-22f5a12ae02e/34.30-CL-41588354.7z |
 
 
-| 34.40-CL-41753727 | Manifest Available |## Season 35
+| 34.40-CL-41753727 | Manifest Available |
+
+## Season 35
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1604,7 +1740,9 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | 35.10-CL-42906078 | Manifest Available |
 
 
-| 35.20-CL-42911808 | Current |## Other
+| 35.20-CL-42911808 | Current |
+
+## Other
 
 
 | Build | Download | Alternative Download | Alternative Download
@@ -1616,7 +1754,27 @@ I am not the owner of any of these builds and am not resposible for any of the d
 | QAGame | Unavailable |
 
 
-| Main-CL-21452241 | Unavailable |# Small Contributors[SideLeek03588](https://gofile.io/d/OSgxd5): OT11 Xbox OneAnonymous: 17.00-CL-16593740[ploosh](https://github.com/plooshi): 24.20-CL-24939793[Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 31.10-CL-35815136[WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)[blowy_khalil](https://github.com/ToonMares): 32.11-CL-38371047
+| Main-CL-21452241 | Unavailable |
 
+# Small Contributors
 
-Milestones:10 Stars, April 7th, 202520 Stars, May 4th, 2025For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)
+[SideLeek03588](https://gofile.io/d/OSgxd5): OT11 Xbox One
+
+Anonymous: 17.00-CL-16593740
+
+[ploosh](https://github.com/plooshi): 24.20-CL-24939793
+
+[Snoopy](https://x.com/Snoopity_Dog420): 28.00-CL-29915848
+
+[Aorux](https://www.youtube.com/channel/UCuwn6IZv299qUyYI_5cM8yg): 31.10-CL-35815136
+
+[WildFurball](https://www.youtube.com/channel/UCysnqc0X_aJNRpURVTjOgrw): 32.11-CL-38202817 (Text Archive Exclusive)
+
+[blowy_khalil](https://github.com/ToonMares): 32.11-CL-38371047
+Milestones:
+
+10 Stars, April 7th, 2025
+
+20 Stars, May 4th, 2025
+
+For anyone who wants the spreadsheet I document info on https://shorturl.at/sBSno (Do not use for downloading builds, it is super outdated and messed up. Only use it for item IDs, and AES keys)
